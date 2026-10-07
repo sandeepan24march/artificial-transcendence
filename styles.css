@@ -12,3 +12,90 @@ footer{border-top:1px solid var(--line);padding:25px 6vw;display:flex;justify-co
 .reveal{opacity:0;transform:translateY(22px);transition:opacity .8s ease,transform .8s ease}.reveal.show{opacity:1;transform:none}
 @media(max-width:850px){nav{display:none}.hero{grid-template-columns:1fr;padding:90px 7vw}.hero-visual{height:350px;order:-1;opacity:.55}.r1{width:210px;height:210px}.r2{width:300px;height:300px}.r3{width:390px;height:390px}.section{grid-template-columns:1fr;padding:90px 7vw;gap:35px}.timeline{grid-template-columns:1fr 1fr}.cards{grid-template-columns:1fr}.statement{padding:100px 7vw}.actions{flex-wrap:wrap}footer{gap:12px;flex-direction:column}}
 @media(max-width:500px){h1{font-size:58px}.timeline{grid-template-columns:1fr}.hero-visual{height:280px}}
+
+/* =========================================================
+   INNER CONTENT PAGES
+   ========================================================= */
+
+.page-hero{
+  min-height:72vh;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  padding:120px 9vw 100px;
+  position:relative;
+  overflow:hidden;
+  background:
+    radial-gradient(
+      circle at 75% 35%,
+      rgba(143,255,212,.08),
+      transparent 35%
+    );
+}
+
+.page-hero h1{
+  max-width:1000px;
+  margin-bottom:35px;
+}
+
+.page-hero .lead{
+  max-width:760px;
+}
+
+.info-grid{
+  display:grid;
+  grid-template-columns:repeat(2,1fr);
+  gap:1px;
+  background:var(--line);
+  margin-top:45px;
+}
+
+.info-card{
+  background:var(--bg);
+  padding:34px;
+  min-height:220px;
+  transition:
+    transform .3s ease,
+    background .3s ease;
+}
+
+.info-card:hover{
+  background:var(--panel);
+  transform:translateY(-4px);
+}
+
+.info-card span{
+  font:500 11px "DM Mono",monospace;
+  color:var(--accent);
+}
+
+.info-card h3{
+  margin:18px 0 10px;
+}
+
+.info-card p{
+  color:var(--muted);
+  font-size:14px;
+  max-width:600px;
+}
+
+.page-hero + .section{
+  border-top:1px solid var(--line);
+}
+
+@media(max-width:700px){
+
+  .page-hero{
+    min-height:65vh;
+    padding:100px 7vw 80px;
+  }
+
+  .info-grid{
+    grid-template-columns:1fr;
+  }
+
+  .info-card{
+    min-height:auto;
+  }
+
+}
