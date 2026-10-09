@@ -1,170 +1,336 @@
+
 <!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
+
   <title>Artificial Transcendence — Beyond the Boundaries of Intelligence</title>
+
   <meta name="description" content="Artificial Transcendence explores the possible frontier of intelligence beyond today's AGI and ASI concepts.">
   <meta name="keywords" content="Artificial Transcendence, AGI, ASI, superintelligence, future AI, machine intelligence">
+
   <link rel="canonical" href="https://artificialtranscendence.com/">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/styles.css">
+
   <meta property="og:title" content="Artificial Transcendence">
   <meta property="og:description" content="Exploring intelligence beyond today's definitions of AGI and ASI.">
   <meta property="og:type" content="website">
+  <meta property="og:url" content="https://artificialtranscendence.com/">
   <meta name="theme-color" content="#070a12">
-  <link rel="icon" href="favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="styles.css">
+
+  <style>
+    /* Make every Frontier card a genuine clickable link */
+    .frontier-link {
+      display: block;
+      min-width: 0;
+      height: 100%;
+      color: inherit;
+      text-decoration: none;
+      cursor: pointer;
+      position: relative;
+      z-index: 1;
+      pointer-events: auto;
+    }
+
+    .frontier-link article {
+      height: 100%;
+      min-height: 260px;
+      cursor: pointer;
+      transition: transform .3s ease, background .3s ease,
+                  border-color .3s ease;
+    }
+
+    .frontier-link:hover article {
+      background: var(--panel);
+      transform: translateY(-4px);
+    }
+
+    .frontier-link:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 4px;
+    }
+
+    .frontier-link small {
+      display: block;
+      margin-top: 24px;
+      color: var(--accent);
+      font: 500 11px "DM Mono", monospace;
+    }
+
+    .frontier-link:hover small {
+      text-decoration: underline;
+    }
+
+    .frontier-explore-all {
+      margin-top: 28px;
+    }
+
+    .frontier-explore-all a {
+      display: inline-block;
+      padding: 12px 16px;
+      border: 1px solid var(--line);
+      color: var(--accent);
+      text-decoration: none;
+      transition: border-color .2s ease;
+    }
+
+    .frontier-explore-all a:hover {
+      border-color: var(--accent);
+    }
+
+    @media (max-width: 700px) {
+      .frontier-link article {
+        min-height: auto;
+      }
+    }
+  </style>
 </head>
+
 <body>
 <header class="nav">
-  <a class="brand" href="#top"><span class="orb"></span>ARTIFICIAL TRANSCENDENCE</a>
+  <a class="brand" href="#top">
+    <span class="orb"></span>ARTIFICIAL TRANSCENDENCE
+  </a>
+
   <nav>
     <a href="#concept">Concept</a>
     <a href="#evolution">Evolution</a>
     <a href="#frontier">Frontier</a>
+    <a href="/frontiers/">Explore All</a>
   </nav>
 </header>
 
 <main id="top">
-<section class="hero">
-  <div class="grid"></div>
-  <div class="hero-copy">
-    <p class="eyebrow">A FUTURE INTELLIGENCE CONCEPT</p>
-    <h1>Beyond<br><span>Superintelligence.</span></h1>
-    <p class="lead">Artificial Transcendence explores a possible frontier where machine intelligence moves beyond the conventional limits of human cognition, today's AGI, and ASI.</p>
-    <div class="actions">
-      <a class="button primary" href="#concept">Explore the concept <span>↗</span></a>
-      <a class="button ghost" href="#evolution">View the evolution</a>
+
+  <section class="hero">
+    <div class="grid"></div>
+
+    <div class="hero-copy">
+      <p class="eyebrow">A FUTURE INTELLIGENCE CONCEPT</p>
+
+      <h1>Beyond<br><span>Superintelligence.</span></h1>
+
+      <p class="lead">
+        Artificial Transcendence explores a possible frontier where
+        machine intelligence moves beyond the conventional limits
+        of human cognition, today's AGI, and ASI.
+      </p>
+
+      <div class="actions">
+        <a class="button primary" href="#concept">
+          Explore the concept <span>↗</span>
+        </a>
+        <a class="button ghost" href="#evolution">
+          View the evolution
+        </a>
+      </div>
     </div>
-  </div>
-  <div class="hero-visual" aria-hidden="true">
-    <div class="ring r1"></div><div class="ring r2"></div><div class="ring r3"></div>
-    <div class="core"><span></span></div>
-    <div class="orbit o1"></div><div class="orbit o2"></div>
-  </div>
-</section>
 
-<section class="section intro" id="concept">
-  <div class="section-label">01 / THE CONCEPT</div>
-  <div>
-    <h2>What could exist<br><em>beyond intelligence?</em></h2>
-    <p class="large">Artificial Transcendence is a forward-looking idea, not an established scientific classification. It asks what happens when measuring machines against human intelligence is no longer a useful benchmark.</p>
-    <p>It imagines systems capable of discovering new forms of reasoning, creating knowledge beyond current human understanding, and operating across scientific and cognitive domains that have yet to be defined.</p>
-  </div>
-</section>
+    <div class="hero-visual" aria-hidden="true">
+      <div class="ring r1"></div>
+      <div class="ring r2"></div>
+      <div class="ring r3"></div>
+      <div class="core"><span></span></div>
+      <div class="orbit o1"></div>
+      <div class="orbit o2"></div>
+    </div>
+  </section>
 
-<section class="section evolution" id="evolution">
-  <div class="section-label">02 / AN EVOLUTION</div>
- <div class="timeline">
+  <section class="section intro" id="concept">
+    <div class="section-label">01 / THE CONCEPT</div>
 
-  <a href="/ai/" class="evolution-link">
+    <div>
+      <h2>What could exist<br><em>beyond intelligence?</em></h2>
 
-    <article>
-
-      <span>01</span>
-
-      <h3>AI</h3>
-
-      <p>
-        Systems built to perform specific intelligent tasks.
+      <p class="large">
+        Artificial Transcendence is a forward-looking idea, not an
+        established scientific classification. It asks what happens
+        when measuring machines against human intelligence is no
+        longer a useful benchmark.
       </p>
 
-      <small>Explore AI →</small>
-
-    </article>
-
-  </a>
-
-
-  <a href="/agi/" class="evolution-link">
-
-    <article>
-
-      <span>02</span>
-
-      <h3>AGI</h3>
-
       <p>
-        General-purpose intelligence with broad learning
-        and reasoning capabilities.
+        It imagines systems capable of discovering new forms of
+        reasoning, creating knowledge beyond current human
+        understanding, and operating across scientific and cognitive
+        domains that have yet to be defined.
+      </p>
+    </div>
+  </section>
+
+  <section class="section evolution" id="evolution">
+    <div class="section-label">02 / AN EVOLUTION</div>
+
+    <div class="timeline">
+
+      <a href="/ai/" class="evolution-link">
+        <article>
+          <span>01</span>
+          <h3>AI</h3>
+          <p>Systems built to perform specific intelligent tasks.</p>
+          <small>Explore AI →</small>
+        </article>
+      </a>
+
+      <a href="/agi/" class="evolution-link">
+        <article>
+          <span>02</span>
+          <h3>AGI</h3>
+          <p>
+            General-purpose intelligence with broad learning
+            and reasoning capabilities.
+          </p>
+          <small>Explore AGI →</small>
+        </article>
+      </a>
+
+      <a href="/asi/" class="evolution-link">
+        <article>
+          <span>03</span>
+          <h3>ASI</h3>
+          <p>
+            Superintelligence that substantially exceeds human
+            capability across intellectual domains.
+          </p>
+          <small>Explore ASI →</small>
+        </article>
+      </a>
+
+      <a href="/artificial-transcendence/" class="evolution-link">
+        <article class="future">
+          <span>04</span>
+          <h3>AT</h3>
+          <p>
+            A speculative frontier where intelligence transcends
+            the human-centered definition itself.
+          </p>
+          <small>Explore AT →</small>
+        </article>
+      </a>
+
+    </div>
+  </section>
+
+  <section class="statement">
+    <div class="statement-mark">∞</div>
+
+    <p>
+      “The next frontier may not be making machines think like humans —
+      but discovering what intelligence can become.”
+    </p>
+  </section>
+
+  <section class="section frontier" id="frontier">
+    <div class="section-label">03 / THE FRONTIER</div>
+
+    <div>
+      <h2>Explore the<br><em>frontier.</em></h2>
+
+      <p class="large">
+        Go beyond the names. Explore the ideas, technologies,
+        opportunities and unanswered questions shaping the future
+        of intelligence.
       </p>
 
-      <small>Explore AGI →</small>
+      <div class="cards">
 
-    </article>
+        <a href="/frontiers/machine-cognition/" class="frontier-link">
+          <article>
+            <b>01</b>
+            <h3>Machine Cognition</h3>
+            <p>
+              Reasoning, memory, learning, abstraction and the
+              development of machine problem-solving.
+            </p>
+            <small>Explore Machine Cognition →</small>
+          </article>
+        </a>
 
-  </a>
+        <a href="/frontiers/scientific-discovery/" class="frontier-link">
+          <article>
+            <b>02</b>
+            <h3>Scientific Discovery</h3>
+            <p>
+              How AI can help generate hypotheses, design experiments
+              and establish new knowledge.
+            </p>
+            <small>Explore Scientific Discovery →</small>
+          </article>
+        </a>
 
+        <a href="/frontiers/autonomous-intelligence/" class="frontier-link">
+          <article>
+            <b>03</b>
+            <h3>Autonomous Intelligence</h3>
+            <p>
+              Goal-directed systems that plan, use tools, observe
+              results and act within defined limits.
+            </p>
+            <small>Explore Autonomous Intelligence →</small>
+          </article>
+        </a>
 
-  <a href="/asi/" class="evolution-link">
+        <a href="/frontiers/human-ai-coevolution/" class="frontier-link">
+          <article>
+            <b>04</b>
+            <h3>Human–AI Coevolution</h3>
+            <p>
+              How increasingly capable AI could reshape human
+              learning, work, creativity and society.
+            </p>
+            <small>Explore Human–AI Coevolution →</small>
+          </article>
+        </a>
 
-    <article>
+      </div>
 
-      <span>03</span>
+      <div class="frontier-explore-all">
+        <a href="/frontiers/">Explore All Frontiers →</a>
+      </div>
+    </div>
+  </section>
 
-      <h3>ASI</h3>
+  <section class="cta">
+    <p class="eyebrow">ARTIFICIALTRANSCENDENCE.COM</p>
 
-      <p>
-        Superintelligence that substantially exceeds human
-        capability across intellectual domains.
-      </p>
+    <h2>The frontier<br>is still unwritten.</h2>
 
-      <small>Explore ASI →</small>
+    <p>
+      Research the idea. Challenge the definition. Imagine what comes next.
+    </p>
 
-    </article>
+    <a class="button primary" href="mailto:hello@artificialtranscendence.com">
+      Start a conversation <span>↗</span>
+    </a>
+  </section>
 
-  </a>
-
-
-  <a href="/artificial-transcendence/"
-     class="evolution-link">
-
-    <article class="future">
-
-      <span>04</span>
-
-      <h3>AT</h3>
-
-      <p>
-        A speculative frontier where intelligence
-        transcends the human-centered definition itself.
-      </p>
-
-      <small>Explore AT →</small>
-
-    </article>
-
-  </a>
-
-</div>
-</section>
-
-<section class="statement">
-  <div class="statement-mark">∞</div>
-  <p>“The next frontier may not be making machines think like humans — but discovering what intelligence can become.”</p>
-</section>
-
-<section class="section frontier" id="frontier">
-  <div class="section-label">03 / THE FRONTIER</div>
-  <div class="cards">
-    <article><b>01</b><h3>Machine Cognition</h3><p>New architectures for reasoning, learning, memory and self-improvement.</p></article>
-    <article><b>02</b><h3>Scientific Discovery</h3><p>AI systems that help uncover principles and possibilities beyond today's scientific search space.</p></article>
-    <article><b>03</b><h3>Autonomous Intelligence</h3><p>Long-horizon systems that plan, act, learn and coordinate with minimal intervention.</p></article>
-    <article><b>04</b><h3>Human–AI Coevolution</h3><p>Exploring how people and increasingly capable systems could reshape one another.</p></article>
-  </div>
-</section>
-
-<section class="cta">
-  <p class="eyebrow">ARTIFICIALTRANSCENDENCE.COM</p>
-  <h2>The frontier<br>is still unwritten.</h2>
-  <p>Research the idea. Challenge the definition. Imagine what comes next.</p>
-  <a class="button primary" href="mailto:hello@artificialtranscendence.com">Start a conversation <span>↗</span></a>
-</section>
 </main>
 
-<footer><span>© 2026 Artificial Transcendence</span><span>Exploring the future of intelligence.</span></footer>
+<footer>
+  <span>© 2026 Artificial Transcendence</span>
+  <span>Exploring the future of intelligence.</span>
+</footer>
+
 <script>
-const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)e.target.classList.add('show')}),{threshold:.12});
-document.querySelectorAll('section,.timeline article,.cards article').forEach(e=>{e.classList.add('reveal');io.observe(e)});
+  const io = new IntersectionObserver(
+    entries => entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('show');
+      }
+    }),
+    { threshold: 0.12 }
+  );
+
+  document
+    .querySelectorAll('section, .timeline article, .cards article')
+    .forEach(element => {
+      element.classList.add('reveal');
+      io.observe(element);
+    });
 </script>
+
 </body>
 </html>
+
