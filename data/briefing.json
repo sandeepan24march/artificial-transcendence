@@ -1,27 +1,392 @@
-
 {
   "title": "Daily Intelligence Briefing",
-  "published_at": null,
+  "published_at": "2026-10-14T09:35:38.295873+00:00",
   "timezone": "Asia/Kolkata",
   "sections": [
     {
       "category": "Finance & Global Economy",
-      "stories": []
+      "stories": [
+        {
+          "headline": "Wayfair among firms fined millions for misleading sales tactics",
+          "what_happened": "The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "BBC Business",
+          "source_url": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
+          "source_published_at": "2026-10-14T09:24:35+00:00"
+        },
+        {
+          "headline": "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
+          "what_happened": "The CWU says more posties are leaving since a new delivery system was brought in that it claims is not working in hundreds of offices.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "BBC Business",
+          "source_url": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+          "source_published_at": "2026-10-14T07:18:08+00:00"
+        },
+        {
+          "headline": "Not building third runway would be 'huge missed opportunity', warns Heathrow boss",
+          "what_happened": "Thomas Woldbye tells the Today progamme it would be \"good to know\" the government's position on the project, after comments made by the prime minister.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "BBC Business",
+          "source_url": "https://www.bbc.co.uk/news/articles/ckdd8egder5ro?at_medium=RSS&at_campaign=rss",
+          "source_published_at": "2026-10-14T04:59:06+00:00"
+        },
+        {
+          "headline": "Bank of America hit with $1.2bn fine for money laundering failings",
+          "what_happened": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "BBC Business",
+          "source_url": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
+          "source_published_at": "2026-10-14T02:05:32+00:00"
+        },
+        {
+          "headline": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
+          "what_happened": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "BBC Business",
+          "source_url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+          "source_published_at": "2026-10-13T15:59:07+00:00"
+        },
+        {
+          "headline": "The Sabrina Carpenter clip that helped a 22-year-old make £120,000 a year",
+          "what_happened": "Social media \"clippers\" make short, vertical videos that appear on the likes of Instagram and TikTok.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "BBC Business",
+          "source_url": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
+          "source_published_at": "2026-10-13T15:12:38+00:00"
+        },
+        {
+          "headline": "Poundland in rescue talks as owners seek buyer",
+          "what_happened": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "BBC Business",
+          "source_url": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
+          "source_published_at": "2026-10-13T12:17:17+00:00"
+        },
+        {
+          "headline": "Three things we've learnt about the UK economy from the IMF",
+          "what_happened": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "BBC Business",
+          "source_url": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
+          "source_published_at": "2026-10-13T11:58:43+00:00"
+        }
+      ]
     },
     {
       "category": "Indian Share Market",
-      "stories": []
+      "stories": [
+        {
+          "headline": "Global Market: Asian investors pour money into hedge funds as bond markets falter",
+          "what_happened": "Asian investors are increasing allocations to hedge funds amid volatile bond markets, uneven equity performance and concerns about traditional portfolio strategies. Multi-strategy, macroeconomic and quantitative funds are gaining traction as investors seek diversification and more resilient returns across market cycles.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-asian-investors-pour-money-into-hedge-funds-as-bond-markets-falter/articleshow/134937550.cms",
+          "source_published_at": "2026-10-14T09:08:09+00:00"
+        },
+        {
+          "headline": "Indian families keep just 14% abroad, global peers 30-40%: Prithipal Singh on going global",
+          "what_happened": "Read the original report for details.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-families-keep-just-14-abroad-global-peers-30-40-prithipal-singh-on-going-global/videoshow/134937460.cms",
+          "source_published_at": "2026-10-14T09:01:15+00:00"
+        },
+        {
+          "headline": "BHEL Q2 Results: Net profit skyrockets 120% YoY to Rs 810 crore; revenue rises 24%",
+          "what_happened": "Bharat Heavy Electricals Limited has announced a remarkable jump in net profit for Q2, surging 120.1% year-on-year to reach Rs 810 crore, up from Rs 368 crore last fiscal year. Additionally, revenue from operations increased by 23.8%, totaling Rs 9,300 crore. These figures showcase BHEL's strong financial performance, highlighting notable growth and operational success in this quarter.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/earnings/bhel-q2-results-net-profit-skyrockets-120-yoy-to-rs-810-crore-revenue-rises-24/articleshow/134936902.cms",
+          "source_published_at": "2026-10-14T08:35:04+00:00"
+        },
+        {
+          "headline": "D-Street's proxy AI trade shines in a bleak year for stocks",
+          "what_happened": "India's Nifty 50 index faces considerable challenges this year, with a significant drop since January. In contrast, stocks linked to artificial intelligence have thrived, attracting investor interest and increased foreign ownership. Companies are investing in the foundational infrastructure for AI, anticipating a fourfold rise in data center capacity by 2029. However, experts warn that lofty valuations could pose risks for future earnings.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/d-streets-proxy-ai-trade-shines-in-a-bleak-year-for-stocks/articleshow/134936689.cms",
+          "source_published_at": "2026-10-14T08:16:54+00:00"
+        },
+        {
+          "headline": "PMS Tracker: HEM Securities’ SME stars, others rally up to 7.5% in September despite Nifty’s 6% crash",
+          "what_happened": "Despite Nifty and Sensex tumbling over 6% in September, small-cap and SME-focused PMS strategies delivered robust positive returns. Hem Securities' India Rising SME Stars scheme led gains at 7.23%, according to PMS Bazaar data, while broad mid-cap and thematic strategies suffered losses of up to 10.16%.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/pms-tracker-hem-securities-sme-stars-others-rally-up-to-7-5-in-september-despite-niftys-6-crash/articleshow/134936130.cms",
+          "source_published_at": "2026-10-14T07:49:35+00:00"
+        },
+        {
+          "headline": "Global Market: Lagarde says France must tackle debt woes through fiscal consolidation",
+          "what_happened": "ECB President Christine Lagarde stated on Wednesday that France must tackle its ballooning debt and deficit through domestic fiscal consolidation rather than relying on central bank bond intervention. Speaking in Bangkok, Lagarde noted that while elevated Eurozone inflation persists due to energy costs, growth projections remain modestly resilient.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-lagarde-says-france-must-tackle-debt-woes-through-fiscal-consolidation/articleshow/134935514.cms",
+          "source_published_at": "2026-10-14T07:46:50+00:00"
+        },
+        {
+          "headline": "Global Market | European companies better positioned to withstand energy price shock than in 2022: Analysts",
+          "what_happened": "European companies appear better equipped to withstand rising oil and gas prices than during the 2022 energy crisis, supported by changing stock market composition, AI-related spending, global operations and stronger risk management. However, a prolonged energy shock could still pressure earnings and consumer demand.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-european-companies-better-positioned-to-withstand-energy-price-shock-than-in-2022-analysts/articleshow/134936175.cms",
+          "source_published_at": "2026-10-14T07:45:28+00:00"
+        },
+        {
+          "headline": "Groww Q2 Results: Cons net profit surges 54% YoY to Rs 726 crore; revenue jumps 47%",
+          "what_happened": "Groww Q2 Results: The company’s revenue from operations came in at Rs 1,501 crore, marking a 47% increase from Rs 1,019 crore posted in the corresponding quarter of the previous financial year.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/earnings/groww-q2-results-cons-net-profit-surges-54-yoy-to-rs-726-crore-revenue-jumps-47/articleshow/134935652.cms",
+          "source_published_at": "2026-10-14T07:28:41+00:00"
+        }
+      ]
     },
     {
       "category": "Technology & AI",
-      "stories": []
+      "stories": [
+        {
+          "headline": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
+          "what_happened": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "BBC Business",
+          "source_url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+          "source_published_at": "2026-10-14T08:27:17+00:00"
+        },
+        {
+          "headline": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
+          "what_happened": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
+          "source_published_at": "2026-10-14T01:30:42+00:00"
+        },
+        {
+          "headline": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+          "what_happened": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+          "source_published_at": "2026-10-13T23:13:31+00:00"
+        },
+        {
+          "headline": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+          "what_happened": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+          "source_published_at": "2026-10-13T23:05:34+00:00"
+        },
+        {
+          "headline": "How long will humans be needed for translation?",
+          "what_happened": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "BBC Business",
+          "source_url": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+          "source_published_at": "2026-10-13T23:05:29+00:00"
+        },
+        {
+          "headline": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+          "what_happened": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+          "source_published_at": "2026-10-13T23:00:00+00:00"
+        },
+        {
+          "headline": "Cerebras CEO pushes back on AI doomsday warnings",
+          "what_happened": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+          "source_published_at": "2026-10-13T22:36:59+00:00"
+        },
+        {
+          "headline": "Apple’s HomeView ad is confusing to everyone except parents",
+          "what_happened": "Apple's ad introducing its new HomeView smart display is a little unusual. It's fast-paced and unruly, depicting a family of five as they rush through the morning routine. There's yelling and mess, misplaced keys and discarded eggshells. Apple's typical vibe is clean, simple, orderly; this commercial is chaos. But the spot has parents - those […]",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction",
+          "source_published_at": "2026-10-13T22:10:00+00:00"
+        }
+      ]
     },
     {
       "category": "Healthcare",
-      "stories": []
+      "stories": [
+        {
+          "headline": "DR Congo Ebola vaccine trial to begin within weeks: WHO",
+          "what_happened": "The first clinical trial of an Ebola vaccine is expected to begin in the Democratic Republic of Congo by the end of October, World Health Organization experts said Tuesday.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-10-dr-congo-ebola-vaccine-trial.html",
+          "source_published_at": "2026-10-14T09:20:01+00:00"
+        },
+        {
+          "headline": "Why autoantibodies may be linked to preterm birth risk in some women",
+          "what_happened": "A typical pregnancy lasts 40 weeks, but for about 1 in 10 pregnant women labor begins too soon. Premature or preterm birth is the leading cause of newborn deaths worldwide. Yet doctors have struggled to understand why preterm birth occurs—or how to predict which pregnancies are at highest risk.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-10-autoantibodies-linked-preterm-birth-women.html",
+          "source_published_at": "2026-10-14T09:00:12+00:00"
+        },
+        {
+          "headline": "Ovaries remain active decades after menopause, study reveals",
+          "what_happened": "Contrary to popular belief, the postmenopausal ovary is not defunct. In a new study of ovaries from 28 women, scientists at Northwestern University and the Buck Institute for Research on Aging found that in the decades well past menopause, the ovary remains biologically active and continues to remodel with age, showing increased inflammation and changes in tissue structure. The study also found a molecular link between ovarian aging and cancer.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-10-ovaries-decades-menopause-reveals.html",
+          "source_published_at": "2026-10-14T05:00:01+00:00"
+        },
+        {
+          "headline": "Abnormal antibodies that disrupt DNA repair could explain childhood cancer",
+          "what_happened": "A team of scientists in Norway has found evidence for a new mechanism for the development of cancer in children: They seem to produce an unusual amount of aberrant antibodies against the building blocks that make up the DNA repair machinery, a diverse set of hundreds of proteins that identify and correct damage or errors in the genome.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-10-abnormal-antibodies-disrupt-dna-childhood.html",
+          "source_published_at": "2026-10-14T04:00:02+00:00"
+        },
+        {
+          "headline": "Study of 20,000 Nigerians explores the links between drug use, climate change and poverty",
+          "what_happened": "For years, the world has understood climate change as an environmental problem—melting glaciers, rising seas, extreme weather. But what happens in people's minds when their world becomes unstable? What do they do when the only life they've known—farming, herding, providing for their families—becomes impossible?",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-10-nigerians-explores-links-drug-climate.html",
+          "source_published_at": "2026-10-14T03:20:01+00:00"
+        },
+        {
+          "headline": "What happens in your brain when you can't stop laughing?",
+          "what_happened": "Do you remember the last time you were laughing and simply could not stop? Perhaps it was a situation when you should not have been laughing at all.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-10-brain-1.html",
+          "source_published_at": "2026-10-14T02:00:01+00:00"
+        },
+        {
+          "headline": "Smoking may affect fertility in both men and women",
+          "what_happened": "New research has shed light on how exposure to cigarette smoke could affect reproductive health in both men and women, identifying changes in biological processes involved in ovarian function and sperm production.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-10-affect-fertility-men-women.html",
+          "source_published_at": "2026-10-13T23:30:02+00:00"
+        },
+        {
+          "headline": "Experimental cataract lens can treat glaucoma through time-release drugs",
+          "what_happened": "An experimental cataract lens also can help treat a person's glaucoma, new clinical trial results show. The artificial lenses carry small pads of a widely used glaucoma drug called bimatoprost, which is released gradually into the eye, researchers reported at the annual meeting of the American Academy of Ophthalmology (AAO).",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-10-experimental-cataract-lens-glaucoma-drugs.html",
+          "source_published_at": "2026-10-13T23:20:16+00:00"
+        }
+      ]
     },
     {
       "category": "Crypto Watch",
+      "stories": [
+        {
+          "headline": "Proposed French tax on regulated stablecoins could drive crypto traders offshore",
+          "what_happened": "Chainalysis CEO in France Francois Volpoet warned the proposed 31.4% tax on regulated stablecoins could push traders toward unmonitored offshore channels.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "CoinDesk",
+          "source_url": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
+          "source_published_at": "2026-10-14T08:48:11+00:00"
+        },
+        {
+          "headline": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
+          "what_happened": "The bank manages custody and settlement in-house via a closed-loop model, removing the need for separate crypto wallets.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "CoinDesk",
+          "source_url": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
+          "source_published_at": "2026-10-14T08:10:07+00:00"
+        },
+        {
+          "headline": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
+          "what_happened": "Coinbase says bitcoin should start preparing for quantum computers now, with flexible addresses, a backup quantum-proof key and a separate debate over lost coins.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "CoinDesk",
+          "source_url": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
+          "source_published_at": "2026-10-14T05:44:51+00:00"
+        },
+        {
+          "headline": "Here’s what happened in crypto today",
+          "what_happened": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Cointelegraph",
+          "source_url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-10-14T05:35:52+00:00"
+        },
+        {
+          "headline": "Starknet introduces wallet privacy feature for DeFi activity",
+          "what_happened": "Starknet’s Shadow Accounts allow users to obscure connections between their main wallets and DeFi activity, though transactions remain visible onchain.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Cointelegraph",
+          "source_url": "https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-10-14T05:32:14+00:00"
+        },
+        {
+          "headline": "Fed’s Williams sees AI supply squeeze lasting beyond 2 years",
+          "what_happened": "New York Fed President John Williams’ comments came as he reaffirmed his view that the US Federal Reserve may need to raise interest rates once more this year.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Cointelegraph",
+          "source_url": "https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-10-14T05:30:10+00:00"
+        },
+        {
+          "headline": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
+          "what_happened": "The integration will let software pay for online services using XRP and RLUSD, while questions remain about how much real economic activity the transactions represent.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "CoinDesk",
+          "source_url": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
+          "source_published_at": "2026-10-14T05:24:12+00:00"
+        },
+        {
+          "headline": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
+          "what_happened": "The switch will replace Solana’s existing validator voting system, remove vote transactions from blocks and could sharply change headline transaction counts even if user activity stays flat.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "CoinDesk",
+          "source_url": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
+          "source_published_at": "2026-10-14T04:11:16+00:00"
+        }
+      ],
       "watchlist": [
         "TAO",
         "BTC",
@@ -35,9 +400,8 @@
         "RENDER",
         "AKT",
         "SUI"
-      ],
-      "stories": []
+      ]
     }
   ],
-  "disclaimer": "For information only; not personalised investment or medical advice."
+  "disclaimer": "For information only; not personalised investment or medical advice. Headlines and summaries originate from external RSS publishers. Categories are automated."
 }
