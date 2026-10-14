@@ -5,25 +5,66 @@ on:
   push:
     branches:
       - github-briefing-v1
+    paths:
+      - "scripts/generate_briefing.py"
+      - "data/briefing.json"
+      - ".github/workflows/daily-briefing.yml"
   workflow_dispatch:
   schedule:
     - cron: "30 1 * * *"
 
 permissions:
-  contents: read
+  contents: write
+
+concurrency:
+  group: daily-intelligence-briefing
+  cancel-in-progress: false
 
 jobs:
-  verify-workflow:
+  generate-briefing:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Verify briefing data file
-        run: |
-          test -f data/briefing.json
-          python -m json.tool data/briefing.json > /dev/null
-          echo "Briefing JSON file exists and is valid."
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
 
-      - name: Report successful workflow test
-        run: echo "GitHub Actions workflow ran successfully."
+      - name: Validate existing briefing JSON
+        run: python -m json.tool data/briefing.json > /dev/null
+
+      - name: Generate daily briefing
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-4.1-mini
+        run: python scripts/generate_briefing.py
+
+      - name: Validate generated briefing JSON
+        run: |
+          python -m json.tool data/briefing.json > /dev/null
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          data = json.loads(Path("data/briefing.json").read_text())
+          assert len(data["sections"]) == 5
+          assert all(isinstance(s["stories"], list) for s in data["sections"])
+          assert data["published_at"]
+          print("Generated briefing JSON is valid.")
+          PY
+
+      - name: Commit updated briefing
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/briefing.json
+          if git diff --cached --quiet; then
+            echo "No briefing changes to commit."
+          else
+            git commit -m "Update daily intelligence briefing"
+            git push
+          fi
