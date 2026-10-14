@@ -1,0 +1,43 @@
+
+{
+  "title": "Daily Intelligence Briefing",
+  "published_at": null,
+  "timezone": "Asia/Kolkata",
+  "sections": [
+    {
+      "category": "Finance & Global Economy",
+      "stories": []
+    },
+    {
+      "category": "Indian Share Market",
+      "stories": []
+    },
+    {
+      "category": "Technology & AI",
+      "stories": []
+    },
+    {
+      "category": "Healthcare",
+      "stories": []
+    },
+    {
+      "category": "Crypto Watch",
+      "watchlist": [
+        "TAO",
+        "BTC",
+        "ETH",
+        "SOL",
+        "ADA",
+        "BNB",
+        "USDT",
+        "SPX6900",
+        "BRETT",
+        "RENDER",
+        "AKT",
+        "SUI"
+      ],
+      "stories": []
+    }
+  ],
+  "disclaimer": "For information only; not personalised investment or medical advice."
+}
