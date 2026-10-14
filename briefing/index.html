@@ -1,0 +1,169 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <title>Daily Intelligence Briefing — Artificial Transcendence</title>
+  <meta name="description" content="A source-linked daily briefing covering global finance, Indian markets, AI and technology, healthcare and cryptocurrency developments.">
+  <link rel="canonical" href="https://artificialtranscendence.com/briefing/">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/styles.css">
+
+  <style>
+    .briefing-wrap { max-width: 1200px; margin: auto; padding: 48px 6vw 100px; }
+    .briefing-meta { color: var(--muted); font-size: 13px; margin: 16px 0 28px; }
+    .briefing-notice { border: 1px solid var(--line); background: var(--panel); padding: 18px 22px; margin: 24px 0 36px; color: var(--muted); font-size: 13px; }
+    .briefing-tabs { display: flex; flex-wrap: wrap; gap: 10px; margin: 28px 0; }
+    .briefing-tabs a { border: 1px solid var(--line); padding: 9px 13px; font-size: 12px; }
+    .briefing-tabs a:hover { color: var(--accent); border-color: var(--accent); }
+    .briefing-section { margin: 54px 0; scroll-margin-top: 100px; }
+    .briefing-section h2 { font-size: clamp(30px, 4vw, 48px); margin-bottom: 22px; }
+    .briefing-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+    .story { border: 1px solid var(--line); background: var(--panel); padding: 22px; min-width: 0; }
+    .story h3 { font-size: 19px; line-height: 1.4; margin: 10px 0; overflow-wrap: anywhere; }
+    .story p { color: var(--muted); font-size: 14px; }
+    .story-source { color: var(--accent); font: 11px "DM Mono", monospace; }
+    .story-date { color: var(--muted); font-size: 11px; margin-top: 12px; }
+    .story-link { display: inline-block; margin-top: 12px; color: var(--accent); font-size: 13px; }
+    .story-link:hover { text-decoration: underline; }
+    .crypto-list { display: flex; flex-wrap: wrap; gap: 8px; margin: 20px 0; }
+    .crypto-list span { border: 1px solid var(--line); padding: 6px 10px; font: 11px "DM Mono", monospace; }
+    .briefing-state { border: 1px solid var(--line); padding: 24px; color: var(--muted); }
+    .briefing-footer { border-top: 1px solid var(--line); padding-top: 24px; margin-top: 60px; color: var(--muted); font-size: 12px; }
+    @media(max-width:700px) {
+      .briefing-grid { grid-template-columns: 1fr; }
+      .briefing-wrap { padding-left: 7vw; padding-right: 7vw; }
+    }
+  </style>
+</head>
+<body>
+<header class="nav">
+  <a class="brand" href="/"><span class="orb"></span>ARTIFICIAL TRANSCENDENCE</a>
+  <nav>
+    <a href="/">Home</a>
+    <a href="/frontiers/">Frontiers</a>
+    <a href="/briefing/" aria-current="page">Daily Briefing</a>
+  </nav>
+</header>
+
+<main>
+  <section class="page-hero">
+    <p class="eyebrow">DAILY INTELLIGENCE / RSS EDITION</p>
+    <h1>Signals from<br><span>a changing world.</span></h1>
+    <p class="lead">A source-linked digest of global finance, Indian markets, technology and AI, healthcare, and crypto developments.</p>
+  </section>
+
+  <div class="briefing-wrap">
+    <div id="briefing-meta" class="briefing-meta">Loading publication details…</div>
+    <div class="briefing-notice">
+      RSS-only edition: headlines and summaries come from external publishers.
+      Categories are assigned automatically. This page does not provide
+      AI-generated analysis, investment recommendations or medical advice.
+    </div>
+
+    <nav id="briefing-tabs" class="briefing-tabs" aria-label="Briefing categories"></nav>
+    <div id="briefing-content" aria-live="polite">
+      <div class="briefing-state">Loading the latest briefing…</div>
+    </div>
+
+    <div class="briefing-footer">
+      For information only; not personalised investment or medical advice.
+      Follow the original publisher for full context and updates.
+    </div>
+  </div>
+</main>
+
+<footer>
+  <span>© 2026 Artificial Transcendence</span>
+  <span>Daily Intelligence Briefing</span>
+</footer>
+
+<script>
+(async function () {
+  const meta = document.getElementById("briefing-meta");
+  const tabs = document.getElementById("briefing-tabs");
+  const content = document.getElementById("briefing-content");
+
+  function escapeHTML(value) {
+    return String(value ?? "").replace(/[&<>"']/g, char => ({
+      "&": "&amp;", "<": "&lt;", ">": "&gt;",
+      '"': "&quot;", "'": "&#39;"
+    })[char]);
+  }
+
+  function formatDate(value) {
+    if (!value) return "Publication date unavailable";
+    const date = new Date(value);
+    if (Number.isNaN(date.getTime())) return "Publication date unavailable";
+    return new Intl.DateTimeFormat("en-IN", {
+      dateStyle: "medium",
+      timeStyle: "short",
+      timeZone: "Asia/Kolkata"
+    }).format(date) + " IST";
+  }
+
+  try {
+    const response = await fetch("/data/briefing.json", { cache: "no-store" });
+    if (!response.ok) throw new Error("Briefing data returned HTTP " + response.status);
+
+    const data = await response.json();
+    if (!Array.isArray(data.sections) || data.sections.length !== 5) {
+      throw new Error("The briefing data is incomplete.");
+    }
+
+    meta.textContent = "Edition generated: " + formatDate(data.published_at);
+
+    tabs.innerHTML = data.sections.map((section, index) =>
+      `<a href="#briefing-section-${index}">${escapeHTML(section.category)}</a>`
+    ).join("");
+
+    content.innerHTML = data.sections.map((section, index) => {
+      const stories = Array.isArray(section.stories) ? section.stories : [];
+      const watchlist = section.category === "Crypto Watch" &&
+        Array.isArray(section.watchlist)
+        ? `<div class="crypto-list" aria-label="Crypto watchlist">${
+            section.watchlist.map(coin => `<span>${escapeHTML(coin)}</span>`).join("")
+          }</div>`
+        : "";
+
+      const cards = stories.map(story => {
+        let safeURL;
+        try {
+          safeURL = new URL(story.source_url);
+          if (!["https:", "http:"].includes(safeURL.protocol)) return "";
+        } catch {
+          return "";
+        }
+
+        return `<article class="story">
+          <div class="story-source">${escapeHTML(story.source_name || "News source")}</div>
+          <h3>${escapeHTML(story.headline)}</h3>
+          <p>${escapeHTML(story.what_happened || "Open the source for details.")}</p>
+          <div class="story-date">${escapeHTML(formatDate(story.source_published_at))}</div>
+          <a class="story-link" href="${escapeHTML(safeURL.href)}" target="_blank" rel="noopener noreferrer">Read original report ↗</a>
+        </article>`;
+      }).join("");
+
+      return `<section class="briefing-section" id="briefing-section-${index}">
+        <h2>${escapeHTML(section.category)}</h2>
+        ${watchlist}
+        ${cards
+          ? `<div class="briefing-grid">${cards}</div>`
+          : `<div class="briefing-state">No recent stories are available in this category.</div>`}
+      </section>`;
+    }).join("");
+
+  } catch (error) {
+    console.error("Briefing load failed:", error);
+    meta.textContent = "The latest edition could not be loaded.";
+    content.innerHTML = `<div class="briefing-state">
+      We couldn't load the briefing right now. Please refresh the page later.
+      The previous published data has not been changed by this page.
+    </div>`;
+  }
+})();
+</script>
+</body>
+</html>
