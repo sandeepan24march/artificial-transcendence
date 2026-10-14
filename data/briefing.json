@@ -1,19 +1,46 @@
 {
   "title": "Daily Intelligence Briefing",
-  "published_at": "2026-10-14T11:07:27.568002+00:00",
+  "published_at": "2026-10-14T12:45:09.914449+00:00",
   "timezone": "Asia/Kolkata",
   "sections": [
     {
       "category": "Finance & Global Economy",
       "stories": [
         {
-          "headline": "Fed’s Bowman Sees No Urgency for Further Action on Rates",
-          "what_happened": "Federal Reserve Vice Chair for Supervision Michelle Bowman said that although inflation remains above the central bank’s goal, “I think we have some time to wait and see how financial conditions and the economy evolves.” She spoke Wednesday with Institute of International Finance CEO Tim Adams at the IIF Annual Membership Meeting in Bangkok. (Source: Bloomberg)",
+          "headline": "Aramco Headquarters Hit as Houthis Widen Saudi Arabia Attacks",
+          "what_happened": "Iran-backed Houthis launched missile and drone attacks across Saudi Arabia, hitting oil giant Saudi Aramco’s headquarters, as well several cities in the kingdom. Abeer Abu Omar reports on Bloomberg Television. (Source: Bloomberg)",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/videos/2026-10-14/fed-s-bowman-sees-no-urgency-for-further-action-on-rates-video",
-          "source_published_at": "2026-10-14T11:05:38+00:00"
+          "source_url": "https://www.bloomberg.com/news/videos/2026-10-14/saudi-aramco-headquarters-hit-in-houthi-attack-video",
+          "source_published_at": "2026-10-14T12:34:23+00:00"
+        },
+        {
+          "headline": "¿Por qué ha sido tan difícil derrotar a los hutíes en Yemen?",
+          "what_happened": "¿Por qué ha sido tan difícil derrotar a los hutíes en Yemen? El territorio, la diversificación de sus suministros y su creciente capacidad militar ayudan a entender cómo han resistido años de ofensivas y bombardeos. (Source: Bloomberg)",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/videos/2026-10-14/-por-que-es-tan-dificil-derrotar-a-los-huties-video",
+          "source_published_at": "2026-10-14T12:28:14+00:00"
+        },
+        {
+          "headline": "Morgan Stanley Profit Climbs on Equity Trading, Wealth Management",
+          "what_happened": "Morgan Stanley saw third quarter profit rise as the firm’s equity traders topped analysts’ estimates and a record amount of money was brought in by the bank’s wealth-management operation. Kristine Aquino reports on Bloomberg Television. (Source: Bloomberg)",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/videos/2026-10-14/morgan-stanley-profit-climbs-on-equity-trading-beat-video",
+          "source_published_at": "2026-10-14T12:15:05+00:00"
+        },
+        {
+          "headline": "Natixis Economist Sees One More Fed Rate Hike",
+          "what_happened": "Christopher Hodge, chief US economist at Natixis, expects core CPI to come in slightly softer than forecast and sees inflation continuing to ease. He discusses the impact of higher energy prices, potential labor market weakness and housing pressures, while forecasting one final Fed rate hike in December before the tightening cycle ends. He spoke on Bloomberg Brief. (Source: Bloomberg)",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/videos/2026-10-14/natixis-economist-sees-one-more-fed-rate-hike-video",
+          "source_published_at": "2026-10-14T12:14:16+00:00"
         },
         {
           "headline": "Wayfair among firms fined millions for misleading sales tactics",
@@ -22,67 +49,103 @@
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "BBC Business",
           "source_url": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
-          "source_published_at": "2026-10-14T11:05:16+00:00"
+          "source_published_at": "2026-10-14T12:09:45+00:00"
         },
         {
-          "headline": "Female Athletes Are Over Being Gaslit by Sneaker Giants",
-          "what_happened": "Why are women wearing sports shoes designed for men, just made smaller? Tim Loh explores the startups creating performance sneakers actually made for women. (Source: Bloomberg)",
+          "headline": "Zloty Is Still ‘Strong’ After Slide, Polish MPC’s Litwiniuk Says",
+          "what_happened": "Poland’s currency remains at a “strong” level even after weakening in recent months and isn’t a particular point of focus for the central bank, according to policymaker Przemyslaw Litwiniuk.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/videos/2026-10-14/female-athletes-are-over-being-gaslit-by-sneaker-giants-video",
-          "source_published_at": "2026-10-14T11:04:30+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-10-14/zloty-is-still-strong-after-slide-polish-mpc-s-litwiniuk-says",
+          "source_published_at": "2026-10-14T12:09:44+00:00"
         },
         {
-          "headline": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
-          "what_happened": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "BBC Business",
-          "source_url": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
-          "source_published_at": "2026-10-14T11:04:12+00:00"
-        },
-        {
-          "headline": "How to Survive in a World Reshaped by Trump",
-          "what_happened": "The rules of engagement between countries are changing in a world increasingly shaped by Donald Trump and China. What does it take to survive? Rebecca Choong Wilkins explains from Bloomberg New Economy Forum in New Delhi. (Source: Bloomberg)",
+          "headline": "Fast-Money Quants Are at Odds With Fundamental Stock Investors",
+          "what_happened": "Money managers who focus on economic growth and the strength of earnings are showing growing doubts about the rally in US stocks.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/videos/2026-10-14/how-to-survive-in-a-world-reshaped-by-trump-video",
-          "source_published_at": "2026-10-14T10:48:35+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-10-14/fast-money-quants-are-at-odds-with-fundamental-stock-investors",
+          "source_published_at": "2026-10-14T12:05:41+00:00"
         },
         {
-          "headline": "EU Bank Bosses Told to Expect ‘Pragmatic’ Reforms in 2027",
-          "what_happened": "European Union bank bosses watching Wall Street rivals reap the benefits of US President Donald Trump’s deregulation drive can expect the EU to find ways to deliver some rule relief as soon as next year, according to the head of the bloc’s banking regulator.",
+          "headline": "Oasis Boosts Nidec Stake, Says It’s Now Largest Shareholder",
+          "what_happened": "Oasis Management Co. founder Seth Fischer said his activist fund has increased its stake in Nidec Corp. to become the largest shareholder, adding heft to its call for the troubled Japanese motor maker to consider a sale.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-14/eu-bank-bosses-told-to-expect-pragmatic-reforms-in-2027",
-          "source_published_at": "2026-10-14T10:46:36+00:00"
-        },
-        {
-          "headline": "India's Mittal Says His Satellite Venture Is Ahead of Musk's Starlink",
-          "what_happened": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops. Today's guests: Helene Budliger Artieda, Switzerland's State Secretary for Economic Affairs; Kevin Sneader, Goldman Sachs President of Asia Pacific Ex-Japan (Source: Bloomberg)",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/videos/2026-10-14/the-pulse-10-14-2026-video",
-          "source_published_at": "2026-10-14T10:42:27+00:00"
-        },
-        {
-          "headline": "Strategists See European Stocks Posting a Bumper Earnings Season",
-          "what_happened": "Market strategists predict that the earnings season just kicking off in Europe will be a blockbuster one, with sectors including technology and energy taking the lead in beating profit estimates across the continent.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-14/strategists-see-european-stocks-posting-a-bumper-earnings-season",
-          "source_published_at": "2026-10-14T10:14:37+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-10-14/oasis-boosts-nidec-stake-says-it-s-now-largest-shareholder",
+          "source_published_at": "2026-10-14T11:59:20+00:00"
         }
       ]
     },
     {
       "category": "Indian Share Market",
       "stories": [
+        {
+          "headline": "Dow Jones| Nasdaq | US Stock Market Today | Live: S&P 500, Dow futures rise ahead of inflation data; banks in focus",
+          "what_happened": "Read the original report for details.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-fed-rate-yield-inflation-data-bank-earnings-blackrock-bank-of-america-alphabet-micron-inflation-dataai-chip-stock-price-news-14th-october-2026/liveblog/134942729.cms",
+          "source_published_at": "2026-10-14T12:15:05+00:00"
+        },
+        {
+          "headline": "India bonds sink deeper on RBI commentary, inflation concerns",
+          "what_happened": "Indian government bonds are currently facing notable losses, pushing the 10-year yield to its highest since March 2023. This downturn comes in the wake of hawkish remarks from Reserve Bank of India Governor Sanjay Malhotra about financial stability. Additionally, India's wholesale inflation saw an unexpected rise in September, leading to growing concerns over potential future monetary policy shifts.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-sink-deeper-on-rbi-commentary-inflation-concerns/articleshow/134942525.cms",
+          "source_published_at": "2026-10-14T12:11:19+00:00"
+        },
+        {
+          "headline": "Dynamatic Technologies among 7 stocks hitting 52-week highs; rally up to 32% in a month",
+          "what_happened": "Seven BSE 1000 stocks touched fresh 52-week highs despite the Sensex closing lower on Wednesday. West Coast Paper Mills led the list with a 32% monthly gain, followed by Dynamatic Technologies, Cyient DLM and Aditya Infotech.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/dynamatic-technologies-among-7-stocks-hitting-52-week-highs-rally-up-to-32-in-a-month/slideshow/134942503.cms",
+          "source_published_at": "2026-10-14T12:05:40+00:00"
+        },
+        {
+          "headline": "Sebi proposes market cap-based SME IPO norms, seeks public comments on regulatory overhaul",
+          "what_happened": "Sebi has proposed a sweeping overhaul of SME IPO regulations, including market capitalisation-based eligibility thresholds, higher profitability requirements, lower minimum application values and changes to allotment norms. The proposals also cover underwriting, market making, lock-in periods and migration to the main board. Public comments are invited until November 4, 2026.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-market-cap-based-sme-ipo-norms-seeks-public-comments-on-regulatory-overhaul/articleshow/134942348.cms",
+          "source_published_at": "2026-10-14T12:04:28+00:00"
+        },
+        {
+          "headline": "Market wrap: Nestle India, Infosys, Shriram Finance, HDFC Life top gainers and losers on Nifty and Sensex on Wednesday",
+          "what_happened": "Indian equities closed lower on Wednesday as investors booked profits ahead of key US inflation data. The Nifty 50 fell 0.44% to 22,623, while the Sensex declined 0.34% to 72,782. Nestle India and Infosys led Nifty gainers, while Shriram Finance and HDFC Life topped the losers’ list.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-nestle-india-infosys-shriram-finance-hdfc-life-top-gainers-and-losers-on-nifty-and-sensex-on-wednesday/articleshow/134942022.cms",
+          "source_published_at": "2026-10-14T11:56:38+00:00"
+        },
+        {
+          "headline": "Tata Technologies Q2 results: Profit rises 4% YoY to Rs 171 crore; revenue jumps 28%",
+          "what_happened": "Tata Technologies has reported an 4% increase in profits year-on-year for the second quarter of FY27, with its operating revenue soaring 28% to Rs 1,699 crore. The net income for this quarter stood at Rs 171 crore, indicating a healthy growth. Additionally, the company announced several key deal wins, which bolster its market position.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-technologies-q2-results-profit-rises-4-yoy-to-rs-171-crore-revenue-jumps-28/articleshow/134939893.cms",
+          "source_published_at": "2026-10-14T11:29:25+00:00"
+        },
+        {
+          "headline": "HDB Financial Services Q2 Results: Net profit jumps 34% YoY to Rs 780 crore, revenue up 10%",
+          "what_happened": "HDB Financial Services Q2 Results: HDB Financial Services reported a 34% year-on-year rise in Q2FY27 net profit to Rs 780 crore, while revenue from operations grew 10% to Rs 5,005 crore. The company also declared an interim dividend of Rs 2 per share. Its shares fell over 4% ahead of the earnings announcement on Wednesday.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hdb-financial-services-q2-results-net-profit-jumps-34-yoy-to-rs-780-crore-revenue-up-10/articleshow/134939587.cms",
+          "source_published_at": "2026-10-14T10:54:16+00:00"
+        },
         {
           "headline": "Bitcoin hovers near $83K as Asian stock sell-off triggers over $800 million in crypto liquidations",
           "what_happened": "Bitcoin hovered around $83,300 on Wednesday as a sharp sell-off in Asian equities triggered over $800 million in crypto liquidations. Broader macroeconomic uncertainty, softening institutional ETF demand, and rising tech volatility continue to weigh on investor sentiment despite large-scale accumulation at lower support levels.",
@@ -91,69 +154,6 @@
           "source_name": "Economic Times Markets",
           "source_url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-hovers-near-83k-as-asian-stock-sell-off-triggers-over-800-million-in-crypto-liquidations/articleshow/134939967.cms",
           "source_published_at": "2026-10-14T10:49:13+00:00"
-        },
-        {
-          "headline": "10 Nifty500 stocks that have fallen up to 58% in a year",
-          "what_happened": "Ten Nifty 500 stocks have fallen between 47% and 58% over the past year, significantly underperforming the broader market. KEC International, Reliance Power and KPIT Technologies lead the list of laggards, as nearly 50 stocks in the index have declined more than 30% during the period.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/10-nifty500-stocks-that-have-fallen-up-to-58-in-a-year/slideshow/134939701.cms",
-          "source_published_at": "2026-10-14T10:33:42+00:00"
-        },
-        {
-          "headline": "Rs 5 lakh crore worth FII outflows since 2024 capital gains tax hike wreak havoc on Dalal Street. Is a reversal on the cards?",
-          "what_happened": "Foreign investors have sold over Rs 5 lakh crore of Indian equities since the 2024 capital gains tax hike, with outflows intensifying in 2026. Finance Minister Nirmala Sitharaman’s comments on LTCG and STT have revived hopes of tax relief, but analysts remain divided on whether any rejig can trigger a sustained FII comeback.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-6-lakh-crore-worth-fii-outflows-since-2024-capital-gains-tax-hike-batter-dalal-street-is-a-reversal-on-the-cards/articleshow/134939069.cms",
-          "source_published_at": "2026-10-14T10:25:30+00:00"
-        },
-        {
-          "headline": "Rupee extends rise but falters past 95/USD on importer hedging, outflows",
-          "what_happened": "The Indian rupee has experienced an increase for the third consecutive session amid regulatory changes by the central bank. It reached a peak of 94.77 before settling at 95.15 against the dollar. Additionally, Indian importers continue to hedge against potential rupee weakness, contributing to ongoing dollar demand. Investors are awaiting US consumer inflation data for insights on future interest rates.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-extends-rise-but-falters-past-95/usd-on-importer-hedging-outflows/articleshow/134939222.cms",
-          "source_published_at": "2026-10-14T10:23:39+00:00"
-        },
-        {
-          "headline": "AIFs to play crucial role in India's economic growth, AI offers significant opportunities: Partner BCG",
-          "what_happened": "India's Alternative Investment Fund (AIF) industry has significant growth potential and could play a crucial role in the country's economic expansion, while artificial intelligence (AI) continues to present a major opportunity, said Mayank Jha, Managing Director and Partner at Boston Consulting Group (BCG).",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/aif-pms/aifs-to-play-crucial-role-in-indias-economic-growth-ai-offers-significant-opportunities-partner-bcg/articleshow/134938664.cms",
-          "source_published_at": "2026-10-14T10:02:35+00:00"
-        },
-        {
-          "headline": "Nvidia pledges $250 million in computing resources to boost UK AI safety research",
-          "what_happened": "Nvidia has committed $250 million in computing resources over five years to advance UK artificial intelligence safety research. Announced by CEO Jensen Huang on Wednesday, the $50 million annual pledge focuses on agentic AI security, supporting initiatives at Oxford, Imperial College London, and University College London.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-pledges-250-million-in-computing-resources-to-boost-uk-ai-safety-research/articleshow/134938351.cms",
-          "source_published_at": "2026-10-14T09:49:25+00:00"
-        },
-        {
-          "headline": "Global Market: European shares rise as ASML rally lifts tech stocks; investors eye US CPI",
-          "what_happened": "European shares increased modestly as the pan-European STOXX 600 index recovered from previous losses. ASML's strong demand led technology stocks to gain, while concerns about geopolitical risks remained. Oil prices rose following attacks on vessels in the Strait of Hormuz, which limited gains in equities. The market also awaits US consumer price index data that could impact interest-rate projections.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-rise-as-asml-rally-lifts-tech-stocks-investors-eye-us-cpi/articleshow/134937855.cms",
-          "source_published_at": "2026-10-14T09:24:20+00:00"
-        },
-        {
-          "headline": "Global Market: Asian investors pour money into hedge funds as bond markets falter",
-          "what_happened": "Asian investors are increasing allocations to hedge funds amid volatile bond markets, uneven equity performance and concerns about traditional portfolio strategies. Multi-strategy, macroeconomic and quantitative funds are gaining traction as investors seek diversification and more resilient returns across market cycles.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-asian-investors-pour-money-into-hedge-funds-as-bond-markets-falter/articleshow/134937550.cms",
-          "source_published_at": "2026-10-14T09:08:09+00:00"
         }
       ]
     },
@@ -161,21 +161,30 @@
       "category": "Technology & AI",
       "stories": [
         {
-          "headline": "My Friend Has No Soul",
-          "what_happened": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
+          "headline": "Alleged OpenAI spy vibe-coded a surveillance device using his wife's chatbot account",
+          "what_happened": "A Saudi national working as an engineer at OpenAI was arrested for allegedly planting an audio recording device, wrapped in toilet paper, inside the company's executive conference room. According to the indictment, he built the spy tool by vibe-coding it with a chatbot. If convicted, he faces up to five years in prison. The article Alleged OpenAI spy vibe-coded a surveillance device using his wife's chatbot account appeared first on The Decoder .",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Wired AI",
-          "source_url": "https://www.wired.com/story/my-friend-has-no-soul/",
-          "source_published_at": "2026-10-14T11:00:00+00:00"
+          "source_name": "The Decoder",
+          "source_url": "https://the-decoder.com/alleged-openai-spy-vibe-coded-a-surveillance-device-using-his-wifes-chatbot-account/",
+          "source_published_at": "2026-10-14T12:37:05+00:00"
         },
         {
           "headline": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
           "what_happened": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
-          "source_name": "TechCrunch",
+          "source_name": "TechCrunch AI",
           "source_url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+          "source_published_at": "2026-10-14T11:00:00+00:00"
+        },
+        {
+          "headline": "My Friend Has No Soul",
+          "what_happened": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Wired AI",
+          "source_url": "https://www.wired.com/story/my-friend-has-no-soul/",
           "source_published_at": "2026-10-14T11:00:00+00:00"
         },
         {
@@ -222,21 +231,75 @@
           "source_name": "TechCrunch",
           "source_url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
           "source_published_at": "2026-10-14T01:30:42+00:00"
-        },
-        {
-          "headline": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
-          "what_happened": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Wired AI",
-          "source_url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
-          "source_published_at": "2026-10-13T23:17:59+00:00"
         }
       ]
     },
     {
       "category": "Healthcare",
       "stories": [
+        {
+          "headline": "Inflammation is already elevated at the earliest stage of cardiovascular-kidney-metabolic syndrome",
+          "what_happened": "A new analysis of U.S. national health data finds that high-sensitivity C-reactive protein (hs-CRP), a blood marker of inflammation, rises across the stages of cardiovascular-kidney-metabolic (CKM) syndrome, with the largest increase at the earliest stage.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-10-inflammation-elevated-earliest-stage-cardiovascular.html",
+          "source_published_at": "2026-10-14T12:20:09+00:00"
+        },
+        {
+          "headline": "Opioids only useful for short-term pain relief, study finds",
+          "what_happened": "Researchers from the University of Alberta have found that opioids are best used for acute pain relief for four weeks or less and may cause more harm than good when used for chronic pain for more than 12 weeks.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-10-opioids-short-term-pain-relief.html",
+          "source_published_at": "2026-10-14T12:20:01+00:00"
+        },
+        {
+          "headline": "STAT+: Sanofi avoids fine as EU accepts offer to end antitrust probe over disparaging rival vaccine",
+          "what_happened": "E.U. antitrust regulators accepted concessions from Sanofi to settle a probe into an allegedly “misleading” campaign that disparaged a rival flu vaccine.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "STAT News",
+          "source_url": "https://www.statnews.com/pharmalot/2026/10/14/sanofi-avoids-fine-as-eu-accepts-offer-ends-antitrust-probe-over-disparaging-rival-vaccine/?utm_campaign=rss",
+          "source_published_at": "2026-10-14T12:17:35+00:00"
+        },
+        {
+          "headline": "Immune system discoveries reveal how body balances defense, protection and repair",
+          "what_happened": "In the past, immune cells were all simply known as white blood cells. Nowadays, we know that there are T cells, B lymphocytes, macrophages, autoreactive T helper cells, microglia, Tregs and others. Together, they form a team that patrols the body like a health police force. Their targets include viruses, harmful bacteria, fungi, parasites, cancer cells and toxins.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-10-immune-discoveries-reveal-body-defense.html",
+          "source_published_at": "2026-10-14T12:00:01+00:00"
+        },
+        {
+          "headline": "New study examines GLP-1 impact on interactions with criminal justice system, employment, housing stability",
+          "what_happened": "A wave of clinical trials have begun to test the ability of GLP-1 weight loss drugs to quell various substance use disorders, with some promising results. A new trial announced…",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "STAT News",
+          "source_url": "https://www.statnews.com/2026/10/14/health-news-glp-1-study-impact-interactions-with-criminal-justice-system-employment/?utm_campaign=rss",
+          "source_published_at": "2026-10-14T11:53:49+00:00"
+        },
+        {
+          "headline": "New research on Botticelli's Venus supports diagnosis of death from a pituitary tumor",
+          "what_happened": "New evidence supporting the theory that Botticelli's Venus died from a pituitary tumor has been published in Medical Humanities. It is the third in a series of papers led by Paolo Pozzilli, in which he set out research on the Renaissance aristocrat Simonetta Vespucci, Sandro Botticelli's muse, who died at 23 from suspected tuberculosis.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-10-botticelli-venus-diagnosis-death-pituitary.html",
+          "source_published_at": "2026-10-14T11:40:02+00:00"
+        },
+        {
+          "headline": "Safer nurse workloads could alleviate emergency department crowding",
+          "what_happened": "A new study led by researchers from Penn Nursing's Center for Health Outcomes and Policy Research (CHOPR) finds that improving hospital nurse workloads could alleviate delays in care contributing to emergency department crowding.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-10-safer-nurse-workloads-alleviate-emergency.html",
+          "source_published_at": "2026-10-14T11:20:01+00:00"
+        },
         {
           "headline": "A gut microbe makes a fatty acid that cuts artery plaque in half in mice",
           "what_happened": "A common gut bacterium produces a molecule that slows cholesterol production in the liver. When researchers gave the molecule to mice prone to artery disease, the animals developed roughly half as much fatty plaque as untreated controls.",
@@ -245,69 +308,6 @@
           "source_name": "Medical Xpress",
           "source_url": "https://medicalxpress.com/news/2026-10-gut-microbe-fatty-acid-artery.html",
           "source_published_at": "2026-10-14T11:00:21+00:00"
-        },
-        {
-          "headline": "Researchers identify role of newly discovered genetic variant in neurodevelopmental disorder",
-          "what_happened": "Researchers from Children's Hospital of Philadelphia (CHOP) have discovered the mechanisms of previously unknown changes in a gene that result in symptoms associated with a neurodevelopmental disorder. The findings underscore the importance of a critical pathway and its role in brain development. The findings were published in the American Journal of Human Genetics.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-role-newly-genetic-variant-neurodevelopmental.html",
-          "source_published_at": "2026-10-14T11:00:12+00:00"
-        },
-        {
-          "headline": "DR Congo Ebola vaccine trial to begin within weeks: WHO",
-          "what_happened": "The first clinical trial of an Ebola vaccine is expected to begin in the Democratic Republic of Congo by the end of October, World Health Organization experts said Tuesday.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-dr-congo-ebola-vaccine-trial.html",
-          "source_published_at": "2026-10-14T09:20:01+00:00"
-        },
-        {
-          "headline": "Why autoantibodies may be linked to preterm birth risk in some women",
-          "what_happened": "A typical pregnancy lasts 40 weeks, but for about 1 in 10 pregnant women labor begins too soon. Premature or preterm birth is the leading cause of newborn deaths worldwide. Yet doctors have struggled to understand why preterm birth occurs—or how to predict which pregnancies are at highest risk.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-autoantibodies-linked-preterm-birth-women.html",
-          "source_published_at": "2026-10-14T09:00:12+00:00"
-        },
-        {
-          "headline": "STAT+: Lobbyists and trade groups fight to shape how states regulate medical AI",
-          "what_happened": "Lobbying groups for doctors and hospitals and trade groups are working behind the scenes on how to regulate AI in medicine.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/?utm_campaign=rss",
-          "source_published_at": "2026-10-14T08:30:00+00:00"
-        },
-        {
-          "headline": "Opinion: How states can resist the potential Trump vaccine shortages",
-          "what_happened": "“States can serve as a last line of defense against the Trump administration’s anti-vaccine policy,” writes Joel Dodge.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/10/14/state-vaccine-factories-trump-shortages-vicp/?utm_campaign=rss",
-          "source_published_at": "2026-10-14T08:30:00+00:00"
-        },
-        {
-          "headline": "Opinion: We think a baby’s gut microbiome could be key to lifelong brain health",
-          "what_happened": "“We need more rigorous, large-scale research into the gut-brain axis across the life course,” write Holly Baines and George Vradenburg.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/10/14/gut-microbiome-baby-brain-health-research/?utm_campaign=rss",
-          "source_published_at": "2026-10-14T08:30:00+00:00"
-        },
-        {
-          "headline": "Ovaries remain active decades after menopause, study reveals",
-          "what_happened": "Contrary to popular belief, the postmenopausal ovary is not defunct. In a new study of ovaries from 28 women, scientists at Northwestern University and the Buck Institute for Research on Aging found that in the decades well past menopause, the ovary remains biologically active and continues to remodel with age, showing increased inflammation and changes in tissue structure. The study also found a molecular link between ovarian aging and cancer.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-ovaries-decades-menopause-reveals.html",
-          "source_published_at": "2026-10-14T05:00:01+00:00"
         }
       ]
     },
@@ -315,76 +315,76 @@
       "category": "Crypto Watch",
       "stories": [
         {
-          "headline": "Coins.ph says Philippine central bank license intact amid revocation claims",
-          "what_happened": "Coins.ph says its Philippine central bank license remains intact amid reports of possible revocation over alleged offshore gambling transactions.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/coinsph-says-bsp-license-intact-amid-claims-of-potential-revocation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-10-14T10:55:55+00:00"
-        },
-        {
-          "headline": "Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag",
-          "what_happened": "Bitcoin briefly reached $84,000 before easing back, while the CoinDesk 80 fell 0.6% since midnight as traders waited for U.S. inflation data.",
+          "headline": "U.S. September CPI comes in hot, sending bitcoin sharply lower",
+          "what_happened": "The news could put multiple rate hikes by the Federal Reserve back into play.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-holds-above-usd83-000-ahead-of-u-s-inflation-data-as-altcoins-lag",
-          "source_published_at": "2026-10-14T10:51:39+00:00"
+          "source_url": "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower",
+          "source_published_at": "2026-10-14T12:33:56+00:00"
         },
         {
-          "headline": "S&P 500 options are the hottest bet on this Hyperliquid exchange",
-          "what_happened": "Hypercall, an exchange built on Hyperliquid, says most of its $640 million in volume since June has come from the index.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/markets/2026/10/14/s-and-p-500-options-are-the-hottest-bet-on-this-hyperliquid-exchange",
-          "source_published_at": "2026-10-14T10:38:47+00:00"
-        },
-        {
-          "headline": "CryptoQuant’s 3 charts keeping Bitcoin’s ‘Uptober’ thesis valid",
-          "what_happened": "Bitcoin onchain analysis eyed a “potential bottom” for BTC price action in early October as demand weathered external headwinds.",
+          "headline": "Kraken parent to buy Lithuanian Saldo Bank amid TradFi expansion",
+          "what_happened": "Payward expects to close the acquisition in 2027, enabling it to expand its traditional banking services into four EU operating markets already served by Saldo Bank.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/markets/cryptoquant-charts-bitcoin-uptober-thesis-valid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-10-14T10:38:22+00:00"
+          "source_url": "https://cointelegraph.com/news/krakens-parent-buy-lithuanian-saldo-bank-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-10-14T12:26:05+00:00"
         },
         {
-          "headline": "Sam Bankman-Fried’s lawyer lays out ex-FTX CEO’s Supreme Court case",
-          "what_happened": "Should US high court justices grant review of the case, they could release a decision as early as June 2027.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/ftx-sam-bankman-fried-lawyer-supreme-court-appeal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-10-14T10:29:47+00:00"
-        },
-        {
-          "headline": "Bitcoin will become ‘less volatile’ and larger than gold: ‘The Bitcoin Standard’ author",
-          "what_happened": "Saifedean Ammous argues that Bitcoin already functions as money when held as a store of value; expects it will become larger and less volatile than gold as it matures.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/bitcoin-less-volatile-larger-gold-bitcoin-standard-author?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-10-14T10:25:53+00:00"
-        },
-        {
-          "headline": "Kraken Owner Payward to Buy Lithuania's Saldo Bank in EU Push",
-          "what_happened": "Co-CEO Arjun Sethi says customers want cash, crypto, tokenized stocks and credit in one place, starting with lending and cards.",
+          "headline": "Morning Minute: Move Over, Saylor, There’s a New Top Buyer in Town",
+          "what_happened": "With Strategy's preferred stock STRC closing in on $100 par, Saylor might not be the number two buyer for long...",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Decrypt",
-          "source_url": "https://decrypt.co/380912/kraken-owner-payward-to-buy-lithuanias-saldo-bank-in-eu-push",
-          "source_published_at": "2026-10-14T10:21:34+00:00"
+          "source_url": "https://decrypt.co/380920/morning-minute-move-over-saylor-theres-a-new-top-buyer-in-town",
+          "source_published_at": "2026-10-14T12:11:35+00:00"
         },
         {
-          "headline": "Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE",
-          "what_happened": "Standard Chartered expanded its spot crypto trading services to professional investors in the UAE region, with plans to offer access to more market participants.",
+          "headline": "Evernorth taps Ripple, Kraken, Coinbase and BitGo to put $648 million XRP treasury to work",
+          "what_happened": "Evernorth said it is planning a phased move into XRP lending and yield strategies following its Nasdaq debut.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Block",
+          "source_url": "https://www.theblock.co/news/deals/2026-10-14-evernorth-taps-ripple-kraken-coinbase-bitgo-xrp-treasury-work-418503",
+          "source_published_at": "2026-10-14T12:00:00+00:00"
+        },
+        {
+          "headline": "Can crypto users trust the supply chain behind hardware wallets?",
+          "what_happened": "Ledger hardware wallet implants have renewed scrutiny of the middlemen handling devices before they reach buyers, even through authorized sellers.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-10-14T10:07:03+00:00"
+          "source_url": "https://cointelegraph.com/news/hardware-wallet-supply-chain-risk-ledger-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-10-14T11:59:42+00:00"
+        },
+        {
+          "headline": "How Bitcoin Works",
+          "what_happened": "Bitcoin 201 examines Bitcoin as a secure monetary network. It follows the system from rule enforcement and monetary design through fees, privacy, scaling, security, governance, mining economics, energy use, Lightning, and long-term adoption.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Block",
+          "source_url": "https://www.theblock.co/learn/campus/how-bitcoin-works-417659",
+          "source_published_at": "2026-10-14T11:52:16+00:00"
+        },
+        {
+          "headline": "Here's how analysts see U.S. inflation influencing bitcoin",
+          "what_happened": "Your day-ahead look for Oct. 14, 2026",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "CoinDesk",
+          "source_url": "https://www.coindesk.com/daybook-us/2026/10/14/here-s-how-analysts-see-u-s-inflation-influencing-bitcoin",
+          "source_published_at": "2026-10-14T11:15:00+00:00"
+        },
+        {
+          "headline": "Dutch central bank grants Qivalis e-money license for MiCA-compliant euro token",
+          "what_happened": "Backed by BBVA, BNP Paribas, and ING, Qivalis secured Dutch regulatory authorization to offer onchain euro settlement infrastructure.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "CoinDesk",
+          "source_url": "https://www.coindesk.com/policy/2026/10/14/dutch-regulator-approves-qivalis-as-electronic-money-institution-under-mica-rules",
+          "source_published_at": "2026-10-14T11:12:36+00:00"
         }
       ],
       "watchlist": [
