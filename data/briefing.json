@@ -1,11 +1,20 @@
 {
   "title": "Daily Intelligence Briefing",
-  "published_at": "2026-10-14T11:07:06.040326+00:00",
+  "published_at": "2026-10-14T11:07:27.568002+00:00",
   "timezone": "Asia/Kolkata",
   "sections": [
     {
       "category": "Finance & Global Economy",
       "stories": [
+        {
+          "headline": "Fed’s Bowman Sees No Urgency for Further Action on Rates",
+          "what_happened": "Federal Reserve Vice Chair for Supervision Michelle Bowman said that although inflation remains above the central bank’s goal, “I think we have some time to wait and see how financial conditions and the economy evolves.” She spoke Wednesday with Institute of International Finance CEO Tim Adams at the IIF Annual Membership Meeting in Bangkok. (Source: Bloomberg)",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/videos/2026-10-14/fed-s-bowman-sees-no-urgency-for-further-action-on-rates-video",
+          "source_published_at": "2026-10-14T11:05:38+00:00"
+        },
         {
           "headline": "Wayfair among firms fined millions for misleading sales tactics",
           "what_happened": "The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total.",
@@ -16,8 +25,8 @@
           "source_published_at": "2026-10-14T11:05:16+00:00"
         },
         {
-          "headline": "Female Athletes Are Over Being Gaslit by Sneaker Giants (Video)",
-          "what_happened": "Read the original report for details.",
+          "headline": "Female Athletes Are Over Being Gaslit by Sneaker Giants",
+          "what_happened": "Why are women wearing sports shoes designed for men, just made smaller? Tim Loh explores the startups creating performance sneakers actually made for women. (Source: Bloomberg)",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
@@ -68,30 +77,12 @@
           "source_name": "Bloomberg Markets",
           "source_url": "https://www.bloomberg.com/news/articles/2026-10-14/strategists-see-european-stocks-posting-a-bumper-earnings-season",
           "source_published_at": "2026-10-14T10:14:37+00:00"
-        },
-        {
-          "headline": "To Make GTA VI, Rockstar Had To Remake Itself",
-          "what_happened": "How did Rockstar Games build Grand Theft Auto VI, what is expected to be the biggest video game blockbuster of all time? Well, first it had to rebuild itself, Jason Schreier explains. (Source: Bloomberg)",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/videos/2026-10-14/to-make-gta-vi-rockstar-had-to-remake-itself",
-          "source_published_at": "2026-10-14T10:01:04+00:00"
         }
       ]
     },
     {
       "category": "Indian Share Market",
       "stories": [
-        {
-          "headline": "HDB Financial Services Q2 Results: Net profit jumps 34% YoY to Rs 780 crore, revenue up 10%",
-          "what_happened": "HDB Financial Services Q2 Results: The non-banking financial company’s net profit margin also improved to 15.59% from 12.79% in the year-ago period.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hdb-financial-services-q2-results-net-profit-jumps-34-yoy-to-rs-780-crore-revenue-up-10/articleshow/134939587.cms",
-          "source_published_at": "2026-10-14T10:54:16+00:00"
-        },
         {
           "headline": "Bitcoin hovers near $83K as Asian stock sell-off triggers over $800 million in crypto liquidations",
           "what_happened": "Bitcoin hovered around $83,300 on Wednesday as a sharp sell-off in Asian equities triggered over $800 million in crypto liquidations. Broader macroeconomic uncertainty, softening institutional ETF demand, and rising tech volatility continue to weigh on investor sentiment despite large-scale accumulation at lower support levels.",
@@ -154,6 +145,15 @@
           "source_name": "Economic Times Markets",
           "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-rise-as-asml-rally-lifts-tech-stocks-investors-eye-us-cpi/articleshow/134937855.cms",
           "source_published_at": "2026-10-14T09:24:20+00:00"
+        },
+        {
+          "headline": "Global Market: Asian investors pour money into hedge funds as bond markets falter",
+          "what_happened": "Asian investors are increasing allocations to hedge funds amid volatile bond markets, uneven equity performance and concerns about traditional portfolio strategies. Multi-strategy, macroeconomic and quantitative funds are gaining traction as investors seek diversification and more resilient returns across market cycles.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-asian-investors-pour-money-into-hedge-funds-as-bond-markets-falter/articleshow/134937550.cms",
+          "source_published_at": "2026-10-14T09:08:09+00:00"
         }
       ]
     },
@@ -176,6 +176,24 @@
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "TechCrunch",
           "source_url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+          "source_published_at": "2026-10-14T11:00:00+00:00"
+        },
+        {
+          "headline": "The Tesla Roadster could have stayed vaporware",
+          "what_happened": "For a car that's supposed to be one of the fastest ever made, the new Tesla Roadster certainly took its sweet-ass time getting here. It's been nearly a decade since Elon Musk made the surprise announcement about plans to build a next-gen Roadster. Now, the Tesla Roadster is finally expected to make its production-ready debut […]",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/transportation/1010694/tesla-roadster-reveal-vaporware-spacex-elon-musk",
+          "source_published_at": "2026-10-14T11:00:00+00:00"
+        },
+        {
+          "headline": "Fairphone’s latest repairable earbuds are smaller, lighter, and longer-lasting",
+          "what_happened": "Repairable, ethical phone brand Fairphone has released its second pair of earbuds. The Fairbuds 2 are just as repairable as the first generation, but deliver improved audio and almost twice the battery life. The Fairbuds 2 are out now in the UK and Europe from £99 / €119, and a US launch at $119 will […]",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability",
           "source_published_at": "2026-10-14T11:00:00+00:00"
         },
         {
@@ -213,24 +231,6 @@
           "source_name": "Wired AI",
           "source_url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
           "source_published_at": "2026-10-13T23:17:59+00:00"
-        },
-        {
-          "headline": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-          "what_happened": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "TechCrunch AI",
-          "source_url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-          "source_published_at": "2026-10-13T23:13:31+00:00"
-        },
-        {
-          "headline": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-          "what_happened": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "TechCrunch AI",
-          "source_url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-          "source_published_at": "2026-10-13T23:05:34+00:00"
         }
       ]
     },
