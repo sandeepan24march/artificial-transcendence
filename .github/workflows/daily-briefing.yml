@@ -2,6 +2,9 @@
 name: Daily Intelligence Briefing
 
 on:
+  push:
+    branches:
+      - github-briefing-v1
   workflow_dispatch:
   schedule:
     - cron: "30 1 * * *"
