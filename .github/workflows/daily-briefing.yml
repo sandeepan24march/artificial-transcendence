@@ -1,0 +1,113 @@
+
+name: Daily Intelligence Briefing
+
+on:
+  push:
+    branches:
+      - github-briefing-v1
+    paths:
+      - "scripts/generate_briefing.py"
+      - "data/briefing.json"
+      - ".github/workflows/daily-briefing.yml"
+
+  workflow_dispatch:
+
+  schedule:
+    - cron: "30 1 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-intelligence-briefing
+  cancel-in-progress: false
+
+jobs:
+  generate-briefing:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate existing briefing JSON
+        run: python -m json.tool data/briefing.json > /dev/null
+
+      - name: Generate RSS-only daily briefing
+        run: python scripts/generate_briefing.py
+
+      - name: Validate generated briefing JSON
+        run: |
+          python -m json.tool data/briefing.json > /dev/null
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          data = json.loads(
+              Path("data/briefing.json").read_text(encoding="utf-8")
+          )
+
+          expected_categories = [
+              "Finance & Global Economy",
+              "Indian Share Market",
+              "Technology & AI",
+              "Healthcare",
+              "Crypto Watch",
+          ]
+
+          sections = data.get("sections", [])
+
+          assert len(sections) == 5, "Expected exactly five sections"
+          assert [
+              section.get("category") for section in sections
+          ] == expected_categories, "Section categories do not match"
+
+          assert data.get("published_at"), "Missing publication timestamp"
+
+          for section in sections:
+              assert isinstance(
+                  section.get("stories"), list
+              ), f"Invalid stories list: {section.get('category')}"
+
+              for story in section["stories"]:
+                  assert story.get("headline"), "Missing headline"
+                  assert story.get("source_url", "").startswith(
+                      ("https://", "http://")
+                  ), "Missing or invalid source URL"
+
+          expected_watchlist = [
+              "TAO", "BTC", "ETH", "SOL", "ADA", "BNB",
+              "USDT", "SPX6900", "BRETT", "RENDER", "AKT", "SUI"
+          ]
+
+          assert sections[4].get("watchlist") == expected_watchlist, (
+              "Crypto watchlist does not match"
+          )
+
+          print("Briefing JSON validation passed.")
+          print("Sections:", len(sections))
+          print(
+              "Total stories:",
+              sum(len(section["stories"]) for section in sections)
+          )
+          PY
+
+      - name: Commit updated briefing
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/briefing.json
+
+          if git diff --cached --quiet; then
+            echo "No briefing changes to commit."
+          else
+            git commit -m "Update daily intelligence briefing"
+            git push
+          fi
