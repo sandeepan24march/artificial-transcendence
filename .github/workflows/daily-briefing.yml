@@ -2,19 +2,18 @@
 name: Daily Intelligence Briefing
 
 on:
+  workflow_dispatch:
+
+  schedule:
+    # 07:00 India Standard Time (01:30 UTC)
+    - cron: "30 1 * * *"
+
   push:
     branches:
-      - github-briefing-v1
+      - main
     paths:
       - "scripts/generate_briefing.py"
-      - "data/briefing.json"
       - ".github/workflows/daily-briefing.yml"
-
-  workflow_dispatch:
-
-  workflow_dispatch:
-  schedule:
-    - cron: "30 1 * * *"
 
 permissions:
   contents: write
@@ -28,11 +27,6 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
-  contents: read
-
-jobs:
-  verify-workflow:
-    runs-on: ubuntu-latest
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -68,20 +62,18 @@ jobs:
           ]
 
           sections = data.get("sections", [])
-
           assert len(sections) == 5, "Expected exactly five sections"
-          assert [
-              section.get("category") for section in sections
-          ] == expected_categories, "Section categories do not match"
-
+          assert [s.get("category") for s in sections] == expected_categories, (
+              "Section categories do not match"
+          )
           assert data.get("published_at"), "Missing publication timestamp"
 
           for section in sections:
-              assert isinstance(
-                  section.get("stories"), list
-              ), f"Invalid stories list: {section.get('category')}"
-
-              for story in section["stories"]:
+              stories = section.get("stories")
+              assert isinstance(stories, list), (
+                  f"Invalid stories list: {section.get('category')}"
+              )
+              for story in stories:
                   assert story.get("headline"), "Missing headline"
                   assert story.get("source_url", "").startswith(
                       ("https://", "http://")
@@ -91,24 +83,22 @@ jobs:
               "TAO", "BTC", "ETH", "SOL", "ADA", "BNB",
               "USDT", "SPX6900", "BRETT", "RENDER", "AKT", "SUI"
           ]
-
           assert sections[4].get("watchlist") == expected_watchlist, (
               "Crypto watchlist does not match"
           )
 
+          total = sum(len(s["stories"]) for s in sections)
+          assert total >= 8, "Too few stories in briefing"
+
           print("Briefing JSON validation passed.")
           print("Sections:", len(sections))
-          print(
-              "Total stories:",
-              sum(len(section["stories"]) for section in sections)
-          )
+          print("Total stories:", total)
           PY
 
       - name: Commit updated briefing
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git add data/briefing.json
 
           if git diff --cached --quiet; then
@@ -117,11 +107,3 @@ jobs:
             git commit -m "Update daily intelligence briefing"
             git push
           fi
-      - name: Verify briefing data file
-        run: |
-          test -f data/briefing.json
-          python -m json.tool data/briefing.json > /dev/null
-          echo "Briefing JSON file exists and is valid."
-
-      - name: Report successful workflow test
-        run: echo "GitHub Actions workflow ran successfully."
