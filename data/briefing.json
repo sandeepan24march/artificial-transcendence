@@ -1,6 +1,6 @@
 {
   "title": "Daily Intelligence Briefing",
-  "published_at": "2026-10-14T09:35:38.295873+00:00",
+  "published_at": "2026-10-14T09:50:45.407847+00:00",
   "timezone": "Asia/Kolkata",
   "sections": [
     {
@@ -13,7 +13,7 @@
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "BBC Business",
           "source_url": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
-          "source_published_at": "2026-10-14T09:24:35+00:00"
+          "source_published_at": "2026-10-14T09:42:04+00:00"
         },
         {
           "headline": "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
@@ -84,6 +84,15 @@
       "category": "Indian Share Market",
       "stories": [
         {
+          "headline": "Global Market: European shares rise as ASML rally lifts tech stocks; investors eye US CPI",
+          "what_happened": "European shares increased modestly as the pan-European STOXX 600 index recovered from previous losses. ASML's strong demand led technology stocks to gain, while concerns about geopolitical risks remained. Oil prices rose following attacks on vessels in the Strait of Hormuz, which limited gains in equities. The market also awaits US consumer price index data that could impact interest-rate projections.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-rise-as-asml-rally-lifts-tech-stocks-investors-eye-us-cpi/articleshow/134937855.cms",
+          "source_published_at": "2026-10-14T09:24:20+00:00"
+        },
+        {
           "headline": "Global Market: Asian investors pour money into hedge funds as bond markets falter",
           "what_happened": "Asian investors are increasing allocations to hedge funds amid volatile bond markets, uneven equity performance and concerns about traditional portfolio strategies. Multi-strategy, macroeconomic and quantitative funds are gaining traction as investors seek diversification and more resilient returns across market cycles.",
           "why_it_matters": "See the original source for context.",
@@ -145,15 +154,6 @@
           "source_name": "Economic Times Markets",
           "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-european-companies-better-positioned-to-withstand-energy-price-shock-than-in-2022-analysts/articleshow/134936175.cms",
           "source_published_at": "2026-10-14T07:45:28+00:00"
-        },
-        {
-          "headline": "Groww Q2 Results: Cons net profit surges 54% YoY to Rs 726 crore; revenue jumps 47%",
-          "what_happened": "Groww Q2 Results: The company’s revenue from operations came in at Rs 1,501 crore, marking a 47% increase from Rs 1,019 crore posted in the corresponding quarter of the previous financial year.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/earnings/groww-q2-results-cons-net-profit-surges-54-yoy-to-rs-726-crore-revenue-jumps-47/articleshow/134935652.cms",
-          "source_published_at": "2026-10-14T07:28:41+00:00"
         }
       ]
     },
@@ -315,6 +315,15 @@
       "category": "Crypto Watch",
       "stories": [
         {
+          "headline": "Live updates: Bitcoin tumbles from near $84,000 ahead of U.S. inflation data",
+          "what_happened": "A brief run at $84,000 faded within the hour as tech stocks stalled and the chip selloff rolled on. Traders are waiting on the September CPI print.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "CoinDesk",
+          "source_url": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
+          "source_published_at": "2026-10-14T09:45:53+00:00"
+        },
+        {
           "headline": "Proposed French tax on regulated stablecoins could drive crypto traders offshore",
           "what_happened": "Chainalysis CEO in France Francois Volpoet warned the proposed 31.4% tax on regulated stablecoins could push traders toward unmonitored offshore channels.",
           "why_it_matters": "See the original source for context.",
@@ -376,15 +385,6 @@
           "source_name": "CoinDesk",
           "source_url": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
           "source_published_at": "2026-10-14T05:24:12+00:00"
-        },
-        {
-          "headline": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
-          "what_happened": "The switch will replace Solana’s existing validator voting system, remove vote transactions from blocks and could sharply change headline transaction counts even if user activity stays flat.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
-          "source_published_at": "2026-10-14T04:11:16+00:00"
         }
       ],
       "watchlist": [
