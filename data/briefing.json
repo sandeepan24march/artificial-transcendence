@@ -1,11 +1,29 @@
 {
   "title": "Daily Intelligence Briefing",
-  "published_at": "2026-10-15T04:13:01.243681+00:00",
+  "published_at": "2026-10-15T04:16:33.870292+00:00",
   "timezone": "Asia/Kolkata",
   "sections": [
     {
       "category": "Finance & Global Economy",
       "stories": [
+        {
+          "headline": "Canada Minister Anand Says Ties with India Has Improved",
+          "what_happened": "Canada's Foreign Minister Anita Anand says Canada’s relationship with India has “most definitely” improved after years of strain. Speaking with Bloomberg's Yvonne Man on the sideline of 2026 Bloomberg New Economy Forum in New Delhi, Anand said the two sides are working toward a comprehensive economic partnership agreement by the end of the year. (Source: Bloomberg)",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/videos/2026-10-15/canada-minister-anand-says-ties-with-india-has-improved-video",
+          "source_published_at": "2026-10-15T04:11:15+00:00"
+        },
+        {
+          "headline": "India’s IDBI Stake Sale Brings Timely Buffer Against $100 Oil",
+          "what_happened": "India’s long-awaited sale of IDBI Bank Ltd. will provide the government of Prime Minister Narendra Modi some fiscal relief as surging fuel prices and dwindling foreign inflows add to pressure on the economy.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-10-15/india-s-idbi-stake-sale-brings-timely-buffer-against-100-oil",
+          "source_published_at": "2026-10-15T04:07:24+00:00"
+        },
         {
           "headline": "Introducing: Disclosure Season 2",
           "what_happened": "Disclosure, the podcast dedicated to revealing the government’s inner workings, is back for Season 2 in audio and video. By law, nearly every move federal agencies make—every email, every memo, every receipt—belongs to the public. The key to gaining access is the Freedom of Information Act. In theory, FOIA obligates the government to open its files. But it also allows the government to hold back certain details, meaning that forcing transparency often requires a fight. Join Bloomberg investigative reporter Jason Leopold and First Amendment attorney Matt Topic for a guided tour of explosive details, bureaucratic foibles and details that govern",
@@ -59,24 +77,6 @@
           "source_name": "Bloomberg Markets",
           "source_url": "https://www.bloomberg.com/news/articles/2026-10-15/bonds-pay-the-price-for-india-s-rupee-defense-as-rate-bets-build",
           "source_published_at": "2026-10-15T03:14:33+00:00"
-        },
-        {
-          "headline": "Taiwan Dollar, Won Slump as Chip Stock Selloff Hurts Sentiment",
-          "what_happened": "The Taiwan dollar and South Korean won led losses among Asian currencies in early trading as an overnight slump in Wall Street semiconductor shares spilled into regional markets, dampening demand for artificial intelligence supply-chain plays.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-15/taiwan-dollar-won-slump-as-chip-stock-selloff-hurts-sentiment",
-          "source_published_at": "2026-10-15T02:57:56+00:00"
-        },
-        {
-          "headline": "Lithium Extends Deep Slump as Battery Demand Concerns Mount",
-          "what_happened": "Chinese lithium futures extended a deep selloff this week on growing concerns about the demand outlook for the battery metal.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-15/lithium-extends-deep-slump-as-battery-demand-concerns-mount",
-          "source_published_at": "2026-10-15T02:56:18+00:00"
         }
       ]
     },
@@ -315,6 +315,15 @@
       "category": "Crypto Watch",
       "stories": [
         {
+          "headline": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
+          "what_happened": "Computing power directed at Binance Pool has fallen from 26 EH/s in December to about 9 EH/s. Its remaining miners must choose another provider before a Nov. 10 cutoff.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "CoinDesk",
+          "source_url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
+          "source_published_at": "2026-10-15T04:13:56+00:00"
+        },
+        {
           "headline": "Bitcoin is back below $81,000 as Fed rate uncertainty weighs. Kospi plunges 8%",
           "what_happened": "Bets on an October Fed rate hike briefly spiked to nearly 50% after Wednesday’s inflation report, but have since cooled.",
           "why_it_matters": "See the original source for context.",
@@ -376,15 +385,6 @@
           "source_name": "Cointelegraph",
           "source_url": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "source_published_at": "2026-10-14T20:56:22+00:00"
-        },
-        {
-          "headline": "Patrick Witt exits White House crypto role as Clarity Act stalls",
-          "what_happened": "Leadership at the White House is shifting once again, as Patrick Witt’s tenure as the administration’s top crypto adviser comes to an end.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Block",
-          "source_url": "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611",
-          "source_published_at": "2026-10-14T20:30:15+00:00"
         }
       ],
       "watchlist": [
