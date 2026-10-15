@@ -3,8 +3,8 @@ name: Daily Intelligence Briefing
 on:
   workflow_dispatch:
   schedule:
-    # 07:00 India Standard Time (01:30 UTC)
-    - cron: "30 1 * * *"
+  # 09:00 India Standard Time (03:30 UTC)
+  - cron: "30 3 * * *"
   push:
     branches:
       - main
