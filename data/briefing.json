@@ -1,82 +1,82 @@
 {
   "title": "Daily Intelligence Briefing",
-  "published_at": "2026-10-14T12:45:09.914449+00:00",
+  "published_at": "2026-10-15T02:49:59.107167+00:00",
   "timezone": "Asia/Kolkata",
   "sections": [
     {
       "category": "Finance & Global Economy",
       "stories": [
         {
-          "headline": "Aramco Headquarters Hit as Houthis Widen Saudi Arabia Attacks",
-          "what_happened": "Iran-backed Houthis launched missile and drone attacks across Saudi Arabia, hitting oil giant Saudi Aramco’s headquarters, as well several cities in the kingdom. Abeer Abu Omar reports on Bloomberg Television. (Source: Bloomberg)",
+          "headline": "India’s Bond Market Shows Bets Building for More RBI Rate Hikes",
+          "what_happened": "The 10-year bond yield climbed to a more than three-year high of 7.41% on Wednesday.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/videos/2026-10-14/saudi-aramco-headquarters-hit-in-houthi-attack-video",
-          "source_published_at": "2026-10-14T12:34:23+00:00"
+          "source_url": "https://www.bloomberg.com/news/newsletters/2026-10-15/india-s-bond-market-shows-bets-building-for-more-rbi-rate-hikes",
+          "source_published_at": "2026-10-15T02:31:04+00:00"
         },
         {
-          "headline": "¿Por qué ha sido tan difícil derrotar a los hutíes en Yemen?",
-          "what_happened": "¿Por qué ha sido tan difícil derrotar a los hutíes en Yemen? El territorio, la diversificación de sus suministros y su creciente capacidad militar ayudan a entender cómo han resistido años de ofensivas y bombardeos. (Source: Bloomberg)",
+          "headline": "Philippine Peso Declines Past 63 Per Dollar for First Time",
+          "what_happened": "The Philippine peso breached the key psychological level of 63 per dollar for the first time, intensifying pressure on the central bank to defend the currency.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/videos/2026-10-14/-por-que-es-tan-dificil-derrotar-a-los-huties-video",
-          "source_published_at": "2026-10-14T12:28:14+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-10-15/philippine-peso-declines-past-63-per-dollar-for-first-time",
+          "source_published_at": "2026-10-15T02:18:06+00:00"
         },
         {
-          "headline": "Morgan Stanley Profit Climbs on Equity Trading, Wealth Management",
-          "what_happened": "Morgan Stanley saw third quarter profit rise as the firm’s equity traders topped analysts’ estimates and a record amount of money was brought in by the bank’s wealth-management operation. Kristine Aquino reports on Bloomberg Television. (Source: Bloomberg)",
+          "headline": "IMF APAC Chief Warns of Rising Market Risks",
+          "what_happened": "In an interview with Bloomberg Television, IMF Asia-Pacific Director Krishna Srinivasan raised concerns that overlapping market risks could spill over into Asian economies. (Source: Bloomberg)",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/videos/2026-10-14/morgan-stanley-profit-climbs-on-equity-trading-beat-video",
-          "source_published_at": "2026-10-14T12:15:05+00:00"
+          "source_url": "https://www.bloomberg.com/news/videos/2026-10-15/imf-apac-chief-warns-of-rising-market-risks-video",
+          "source_published_at": "2026-10-15T02:15:46+00:00"
         },
         {
-          "headline": "Natixis Economist Sees One More Fed Rate Hike",
-          "what_happened": "Christopher Hodge, chief US economist at Natixis, expects core CPI to come in slightly softer than forecast and sees inflation continuing to ease. He discusses the impact of higher energy prices, potential labor market weakness and housing pressures, while forecasting one final Fed rate hike in December before the tightening cycle ends. He spoke on Bloomberg Brief. (Source: Bloomberg)",
+          "headline": "Singapore DPM: Must Work Faster to Vie With Wealth Hubs",
+          "what_happened": "Singapore must work faster and harder as it competes with other global hubs that manage wealth says the island nation's Deputy Prime Minister Gan Kim Yong. He added that as global supply chains and investment flows shift, Singapore’s important role as a financial hub will provide further opportunities. The Deputy Prime Minister spoke with Haslinda Amin at the New Economy Forum in New Delhi. (Source: Bloomberg)",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/videos/2026-10-14/natixis-economist-sees-one-more-fed-rate-hike-video",
-          "source_published_at": "2026-10-14T12:14:16+00:00"
+          "source_url": "https://www.bloomberg.com/news/videos/2026-10-15/singapore-dpm-must-work-faster-to-vie-with-wealth-hubs-video",
+          "source_published_at": "2026-10-15T02:10:20+00:00"
         },
         {
-          "headline": "Wayfair among firms fined millions for misleading sales tactics",
-          "what_happened": "The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total.",
+          "headline": "IMF Warns China Stimulus Lacks Ambition, Leaves Yuan Undervalued",
+          "what_happened": "China’s yuan is undervalued in real terms because of the country’s flagging domestic economy, and steps to revive demand have fallen far short of what’s needed, according to a senior International Monetary Fund official.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-10-15/imf-warns-china-stimulus-lacks-ambition-leaves-yuan-undervalued",
+          "source_published_at": "2026-10-15T02:00:00+00:00"
+        },
+        {
+          "headline": "Anthropic flags revenue surge to investors ahead of stock market debut",
+          "what_happened": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "BBC Business",
-          "source_url": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
-          "source_published_at": "2026-10-14T12:09:45+00:00"
+          "source_url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+          "source_published_at": "2026-10-15T01:56:32+00:00"
         },
         {
-          "headline": "Zloty Is Still ‘Strong’ After Slide, Polish MPC’s Litwiniuk Says",
-          "what_happened": "Poland’s currency remains at a “strong” level even after weakening in recent months and isn’t a particular point of focus for the central bank, according to policymaker Przemyslaw Litwiniuk.",
+          "headline": "JPMorgan's Dimon Says Federal Debt May Lead to Bond Volatility, Higher Rates",
+          "what_happened": "JPMorgan Chase Chairman and CEO Jamie Dimon discusses the impact of the federal debt on the bond market during an event at the Economic Club of Chicago. (Source: Bloomberg)",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-14/zloty-is-still-strong-after-slide-polish-mpc-s-litwiniuk-says",
-          "source_published_at": "2026-10-14T12:09:44+00:00"
+          "source_url": "https://www.bloomberg.com/news/videos/2026-10-15/dimon-says-federal-debt-may-lead-to-bond-volatility-video",
+          "source_published_at": "2026-10-15T01:52:10+00:00"
         },
         {
-          "headline": "Fast-Money Quants Are at Odds With Fundamental Stock Investors",
-          "what_happened": "Money managers who focus on economic growth and the strength of earnings are showing growing doubts about the rally in US stocks.",
+          "headline": "India Top Court to Hear Election Challenge, Delhi Protest Cases",
+          "what_happened": "India’s Supreme Court is set to hear a challenge Thursday to the country’s contentious voter-roll revision, as opposition parties seek to halt the exercise and scrutinize the conduct of the top election official following days of protests and mass detentions.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-14/fast-money-quants-are-at-odds-with-fundamental-stock-investors",
-          "source_published_at": "2026-10-14T12:05:41+00:00"
-        },
-        {
-          "headline": "Oasis Boosts Nidec Stake, Says It’s Now Largest Shareholder",
-          "what_happened": "Oasis Management Co. founder Seth Fischer said his activist fund has increased its stake in Nidec Corp. to become the largest shareholder, adding heft to its call for the troubled Japanese motor maker to consider a sale.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-14/oasis-boosts-nidec-stake-says-it-s-now-largest-shareholder",
-          "source_published_at": "2026-10-14T11:59:20+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-10-15/india-top-court-to-hear-election-challenge-delhi-protest-cases",
+          "source_published_at": "2026-10-15T01:34:08+00:00"
         }
       ]
     },
@@ -84,76 +84,76 @@
       "category": "Indian Share Market",
       "stories": [
         {
-          "headline": "Dow Jones| Nasdaq | US Stock Market Today | Live: S&P 500, Dow futures rise ahead of inflation data; banks in focus",
-          "what_happened": "Read the original report for details.",
+          "headline": "Zetwerk Manufacturing Business IPO opens today; GMP signals 15% listing gain, check key details",
+          "what_happened": "The Rs 5,012.33-crore IPO comprises a fresh issue of shares worth Rs 2,830 crore and an offer for sale (OFS) of 14.45 crore shares valued at approximately Rs 2,182 crore.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-fed-rate-yield-inflation-data-bank-earnings-blackrock-bank-of-america-alphabet-micron-inflation-dataai-chip-stock-price-news-14th-october-2026/liveblog/134942729.cms",
-          "source_published_at": "2026-10-14T12:15:05+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/zetwerk-manufacturing-business-ipo-opens-today-gmp-signals-15-listing-gain-check-key-details/articleshow/134955495.cms",
+          "source_published_at": "2026-10-15T02:21:47+00:00"
         },
         {
-          "headline": "India bonds sink deeper on RBI commentary, inflation concerns",
-          "what_happened": "Indian government bonds are currently facing notable losses, pushing the 10-year yield to its highest since March 2023. This downturn comes in the wake of hawkish remarks from Reserve Bank of India Governor Sanjay Malhotra about financial stability. Additionally, India's wholesale inflation saw an unexpected rise in September, leading to growing concerns over potential future monetary policy shifts.",
+          "headline": "IPO Feast: 6 issues including Tonbo Imaging, Bonfiglioli & Fusion CX available for subscription; check GMP, other details",
+          "what_happened": "Of the six issues, four new IPOs, namely Tonbo Imaging India, Zetwerk Manufacturing Business, Bonfiglioli Transmissions and Sahajanand Medical Technologies, open for subscription today. HD Fire Protect enters the final day of its bidding window, while Fusion CX moves into the second day of su",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-sink-deeper-on-rbi-commentary-inflation-concerns/articleshow/134942525.cms",
-          "source_published_at": "2026-10-14T12:11:19+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-feast-6-issues-including-tonbo-imaging-bonfiglioli-fusion-cx-available-for-subscription-check-gmp-other-details/articleshow/134955477.cms",
+          "source_published_at": "2026-10-15T02:20:33+00:00"
         },
         {
-          "headline": "Dynamatic Technologies among 7 stocks hitting 52-week highs; rally up to 32% in a month",
-          "what_happened": "Seven BSE 1000 stocks touched fresh 52-week highs despite the Sensex closing lower on Wednesday. West Coast Paper Mills led the list with a 32% monthly gain, followed by Dynamatic Technologies, Cyient DLM and Aditya Infotech.",
+          "headline": "Oil Price Today (October 15): Crude oil dips to $105 despite rising Middle East tensions. Here’s why",
+          "what_happened": "Brent crude futures declined $1.50, or 1.41%, to $104.55 a barrel, while US West Texas Intermediate (WTI) crude futures dropped $1.02, or 1.07%, to $94.07. Both benchmarks reversed gains made in the previous session.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/dynamatic-technologies-among-7-stocks-hitting-52-week-highs-rally-up-to-32-in-a-month/slideshow/134942503.cms",
-          "source_published_at": "2026-10-14T12:05:40+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-15-crude-oil-dips-to-105-despite-rising-middle-east-tensions-heres-why/articleshow/134955455.cms",
+          "source_published_at": "2026-10-15T02:13:16+00:00"
         },
         {
-          "headline": "Sebi proposes market cap-based SME IPO norms, seeks public comments on regulatory overhaul",
-          "what_happened": "Sebi has proposed a sweeping overhaul of SME IPO regulations, including market capitalisation-based eligibility thresholds, higher profitability requirements, lower minimum application values and changes to allotment norms. The proposals also cover underwriting, market making, lock-in periods and migration to the main board. Public comments are invited until November 4, 2026.",
+          "headline": "Hyundai Motor to invest $15.5 billion in India by 2032",
+          "what_happened": "Hyundai Motor Group announced plans to invest $15.5 billion in India from 2023 to 2032. This investment aims to enhance manufacturing operations and support growth in the automotive sector. The group recognizes India's importance as a strategic market for future mobility. As part of the investment, Hyundai will also focus on research and development activities and infrastructure enhancement.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-market-cap-based-sme-ipo-norms-seeks-public-comments-on-regulatory-overhaul/articleshow/134942348.cms",
-          "source_published_at": "2026-10-14T12:04:28+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/hyundai-motor-to-invest-15-5-billion-in-india-by-2032/articleshow/134955345.cms",
+          "source_published_at": "2026-10-15T02:10:09+00:00"
         },
         {
-          "headline": "Market wrap: Nestle India, Infosys, Shriram Finance, HDFC Life top gainers and losers on Nifty and Sensex on Wednesday",
-          "what_happened": "Indian equities closed lower on Wednesday as investors booked profits ahead of key US inflation data. The Nifty 50 fell 0.44% to 22,623, while the Sensex declined 0.34% to 72,782. Nestle India and Infosys led Nifty gainers, while Shriram Finance and HDFC Life topped the losers’ list.",
+          "headline": "Positive Breakout: These 6 midcap stocks cross above their 200 DMAs",
+          "what_happened": "As long as the stock is priced above the 200-day SMA on the daily time frame, it is generally considered to be an overall uptrend",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-nestle-india-infosys-shriram-finance-hdfc-life-top-gainers-and-losers-on-nifty-and-sensex-on-wednesday/articleshow/134942022.cms",
-          "source_published_at": "2026-10-14T11:56:38+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-6-midcap-stocks-cross-above-their-200-dmas/slideshow/134955443.cms",
+          "source_published_at": "2026-10-15T02:07:25+00:00"
         },
         {
-          "headline": "Tata Technologies Q2 results: Profit rises 4% YoY to Rs 171 crore; revenue jumps 28%",
-          "what_happened": "Tata Technologies has reported an 4% increase in profits year-on-year for the second quarter of FY27, with its operating revenue soaring 28% to Rs 1,699 crore. The net income for this quarter stood at Rs 171 crore, indicating a healthy growth. Additionally, the company announced several key deal wins, which bolster its market position.",
+          "headline": "South Korea triggers 'sidecar' trading halt, KOSPI slumps over 7%",
+          "what_happened": "The KOSPI index in South Korea plummeted, leading to a five-minute trading suspension as sell orders outnumbered buyers. Major tech players, including Samsung Electronics and SK Hynix, faced considerable losses, fueling the decline. This downturn marks the KOSPI’s longest losing trend since September 2024, sparking worries about recovery. Foreign investors also contributed to the decline by being net sellers, while Treasury bond interest rates dipped slightly amidst ongoing market instability.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-technologies-q2-results-profit-rises-4-yoy-to-rs-171-crore-revenue-jumps-28/articleshow/134939893.cms",
-          "source_published_at": "2026-10-14T11:29:25+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korea-triggers-sidecar-trading-halt-kospi-slumps-over-7/articleshow/134955382.cms",
+          "source_published_at": "2026-10-15T02:05:23+00:00"
         },
         {
-          "headline": "HDB Financial Services Q2 Results: Net profit jumps 34% YoY to Rs 780 crore, revenue up 10%",
-          "what_happened": "HDB Financial Services Q2 Results: HDB Financial Services reported a 34% year-on-year rise in Q2FY27 net profit to Rs 780 crore, while revenue from operations grew 10% to Rs 5,005 crore. The company also declared an interim dividend of Rs 2 per share. Its shares fell over 4% ahead of the earnings announcement on Wednesday.",
+          "headline": "Dollar retreats from 18-month high despite hot CPI as Fed officials temper hike bets",
+          "what_happened": "The dollar has fallen back after peaking at an 18-month high, fueled by stronger than expected inflation data. Expectations of an October rate hike were moderated by prudent remarks from Federal Reserve officials. With Treasury yields decreasing, the dollar slipped against key currencies like the euro and sterling. Traders are now closely monitoring the upcoming US producer price and retail sales figures to gauge future market movements.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hdb-financial-services-q2-results-net-profit-jumps-34-yoy-to-rs-780-crore-revenue-up-10/articleshow/134939587.cms",
-          "source_published_at": "2026-10-14T10:54:16+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-retreats-from-18-month-high-despite-hot-cpi-as-fed-officials-temper-hike-bets/articleshow/134955362.cms",
+          "source_published_at": "2026-10-15T02:02:02+00:00"
         },
         {
-          "headline": "Bitcoin hovers near $83K as Asian stock sell-off triggers over $800 million in crypto liquidations",
-          "what_happened": "Bitcoin hovered around $83,300 on Wednesday as a sharp sell-off in Asian equities triggered over $800 million in crypto liquidations. Broader macroeconomic uncertainty, softening institutional ETF demand, and rising tech volatility continue to weigh on investor sentiment despite large-scale accumulation at lower support levels.",
+          "headline": "Gold steadies after hitting one-week low",
+          "what_happened": "Gold prices have stabilized after recently dipping to a one-week low, now sitting at $4,114.57 per ounce. This slight recovery follows an uptick in US consumer prices, primarily driven by rising gasoline costs, pushing discussions about potential interest rate hikes. Currently, there is a 32% chance of a rate increase this month. Investors are keenly awaiting significant economic reports expected later today.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-hovers-near-83k-as-asian-stock-sell-off-triggers-over-800-million-in-crypto-liquidations/articleshow/134939967.cms",
-          "source_published_at": "2026-10-14T10:49:13+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-steadies-after-hitting-one-week-low/articleshow/134955322.cms",
+          "source_published_at": "2026-10-15T02:00:22+00:00"
         }
       ]
     },
@@ -161,76 +161,76 @@
       "category": "Technology & AI",
       "stories": [
         {
-          "headline": "Alleged OpenAI spy vibe-coded a surveillance device using his wife's chatbot account",
-          "what_happened": "A Saudi national working as an engineer at OpenAI was arrested for allegedly planting an audio recording device, wrapped in toilet paper, inside the company's executive conference room. According to the indictment, he built the spy tool by vibe-coding it with a chatbot. If convicted, he faces up to five years in prison. The article Alleged OpenAI spy vibe-coded a surveillance device using his wife's chatbot account appeared first on The Decoder .",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Decoder",
-          "source_url": "https://the-decoder.com/alleged-openai-spy-vibe-coded-a-surveillance-device-using-his-wifes-chatbot-account/",
-          "source_published_at": "2026-10-14T12:37:05+00:00"
-        },
-        {
-          "headline": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-          "what_happened": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
+          "headline": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+          "what_happened": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "TechCrunch AI",
-          "source_url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-          "source_published_at": "2026-10-14T11:00:00+00:00"
+          "source_url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+          "source_published_at": "2026-10-15T01:01:32+00:00"
         },
         {
-          "headline": "My Friend Has No Soul",
-          "what_happened": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Wired AI",
-          "source_url": "https://www.wired.com/story/my-friend-has-no-soul/",
-          "source_published_at": "2026-10-14T11:00:00+00:00"
-        },
-        {
-          "headline": "The Tesla Roadster could have stayed vaporware",
-          "what_happened": "For a car that's supposed to be one of the fastest ever made, the new Tesla Roadster certainly took its sweet-ass time getting here. It's been nearly a decade since Elon Musk made the surprise announcement about plans to build a next-gen Roadster. Now, the Tesla Roadster is finally expected to make its production-ready debut […]",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/transportation/1010694/tesla-roadster-reveal-vaporware-spacex-elon-musk",
-          "source_published_at": "2026-10-14T11:00:00+00:00"
-        },
-        {
-          "headline": "Fairphone’s latest repairable earbuds are smaller, lighter, and longer-lasting",
-          "what_happened": "Repairable, ethical phone brand Fairphone has released its second pair of earbuds. The Fairbuds 2 are just as repairable as the first generation, but deliver improved audio and almost twice the battery life. The Fairbuds 2 are out now in the UK and Europe from £99 / €119, and a US launch at $119 will […]",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability",
-          "source_published_at": "2026-10-14T11:00:00+00:00"
-        },
-        {
-          "headline": "Men Can’t Stop Faking How Much They Know About AI",
-          "what_happened": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Wired AI",
-          "source_url": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
-          "source_published_at": "2026-10-14T09:30:00+00:00"
-        },
-        {
-          "headline": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
-          "what_happened": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Wired AI",
-          "source_url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
-          "source_published_at": "2026-10-14T09:00:00+00:00"
-        },
-        {
-          "headline": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
-          "what_happened": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
+          "headline": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
+          "what_happened": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
-          "source_published_at": "2026-10-14T01:30:42+00:00"
+          "source_url": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+          "source_published_at": "2026-10-15T00:49:31+00:00"
+        },
+        {
+          "headline": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+          "what_happened": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
+          "source_published_at": "2026-10-15T00:30:00+00:00"
+        },
+        {
+          "headline": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+          "what_happened": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” […]",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "TechCrunch AI",
+          "source_url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+          "source_published_at": "2026-10-15T00:00:00+00:00"
+        },
+        {
+          "headline": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+          "what_happened": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
+          "source_published_at": "2026-10-14T23:00:00+00:00"
+        },
+        {
+          "headline": "McKinsey is making job applicants spar with a fake AI client",
+          "what_happened": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work,\" the […]",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Verge AI",
+          "source_url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+          "source_published_at": "2026-10-14T22:53:31+00:00"
+        },
+        {
+          "headline": "The best feature of Apple’s HomeView might be its simplicity",
+          "what_happened": "I'm just going to come right out and say it. I love the approach Apple has taken with the HomeView. I think it's the shared, always-available household interface that my family might finally use. Is Apple's first smart display my dream smart home dashboard? No. But is it the right product for Apple Home at […]",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
+          "source_published_at": "2026-10-14T22:00:02+00:00"
+        },
+        {
+          "headline": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+          "what_happened": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+          "source_published_at": "2026-10-14T22:00:00+00:00"
         }
       ]
     },
@@ -238,76 +238,76 @@
       "category": "Healthcare",
       "stories": [
         {
-          "headline": "Inflammation is already elevated at the earliest stage of cardiovascular-kidney-metabolic syndrome",
-          "what_happened": "A new analysis of U.S. national health data finds that high-sensitivity C-reactive protein (hs-CRP), a blood marker of inflammation, rises across the stages of cardiovascular-kidney-metabolic (CKM) syndrome, with the largest increase at the earliest stage.",
+          "headline": "NHS diagnoses may reach fewer than one in 15 south London teens with mental disorders",
+          "what_happened": "Fewer than one in 15 young people in south London estimated to have a mental health disorder may have received a diagnosis from NHS mental health services, according to a new study from the Institute of Psychiatry, Psychology & Neuroscience (IoPPN) at King's College London.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-inflammation-elevated-earliest-stage-cardiovascular.html",
-          "source_published_at": "2026-10-14T12:20:09+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-10-nhs-south-london-teens-mental.html",
+          "source_published_at": "2026-10-15T02:00:02+00:00"
         },
         {
-          "headline": "Opioids only useful for short-term pain relief, study finds",
-          "what_happened": "Researchers from the University of Alberta have found that opioids are best used for acute pain relief for four weeks or less and may cause more harm than good when used for chronic pain for more than 12 weeks.",
+          "headline": "How many daily steps do you need to lose weight?",
+          "what_happened": "Staying active is key to staying healthy, and fitness trackers and smartwatches have become popular tools for tracking activity. But just how many steps does someone need to take each day to lose weight? Experts say there's no one-size-fits-all answer. The number 10,000 is repeated often, but research shows anywhere from 4,000 to 10,000 steps per day can still provide health benefits.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-opioids-short-term-pain-relief.html",
-          "source_published_at": "2026-10-14T12:20:01+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-10-daily-weight.html",
+          "source_published_at": "2026-10-15T00:40:01+00:00"
         },
         {
-          "headline": "STAT+: Sanofi avoids fine as EU accepts offer to end antitrust probe over disparaging rival vaccine",
-          "what_happened": "E.U. antitrust regulators accepted concessions from Sanofi to settle a probe into an allegedly “misleading” campaign that disparaged a rival flu vaccine.",
+          "headline": "Compass Pathways CEO: Psychedelics company will ‘go slow before we go fast’",
+          "what_happened": "The CEO of Compass Pathways said the company, whose psychedelic therapy is set for regulatory review this year, is prepared to “go slow before we go fast.”",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/pharmalot/2026/10/14/sanofi-avoids-fine-as-eu-accepts-offer-ends-antitrust-probe-over-disparaging-rival-vaccine/?utm_campaign=rss",
-          "source_published_at": "2026-10-14T12:17:35+00:00"
+          "source_url": "https://www.statnews.com/2026/10/14/compass-pathways-psychedelics-stat-summit/?utm_campaign=rss",
+          "source_published_at": "2026-10-15T00:01:24+00:00"
         },
         {
-          "headline": "Immune system discoveries reveal how body balances defense, protection and repair",
-          "what_happened": "In the past, immune cells were all simply known as white blood cells. Nowadays, we know that there are T cells, B lymphocytes, macrophages, autoreactive T helper cells, microglia, Tregs and others. Together, they form a team that patrols the body like a health police force. Their targets include viruses, harmful bacteria, fungi, parasites, cancer cells and toxins.",
+          "headline": "How RNA molecules influence the development of aggressive leukemia",
+          "what_happened": "Researchers at the University of Veterinary Medicine Vienna, in collaboration with the CeMM Research Center for Molecular Medicine and St. Anna Children's Cancer Research, have developed a new analytical method that reveals which RNA molecules are involved in cancer-promoting cellular structures. Using this method, the Vienna-based research team identified the RNA molecule Gas5 as an important regulator of NUP98::KDM5A oncogenic condensates, which control gene activity in aggressive forms of acute myeloid leukemia (AML). This new insight may provide important starting points for cancer research and improved patient treatment. The study was pu",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-immune-discoveries-reveal-body-defense.html",
-          "source_published_at": "2026-10-14T12:00:01+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-10-rna-molecules-aggressive-leukemia.html",
+          "source_published_at": "2026-10-14T23:40:08+00:00"
         },
         {
-          "headline": "New study examines GLP-1 impact on interactions with criminal justice system, employment, housing stability",
-          "what_happened": "A wave of clinical trials have begun to test the ability of GLP-1 weight loss drugs to quell various substance use disorders, with some promising results. A new trial announced…",
+          "headline": "Former FDA officials blast DOGE as ‘one of the biggest disasters in American history’",
+          "what_happened": "Three former FDA chiefs criticized the DOGE cuts to the agency, saying they robbed the FDA of institutional knowledge that will take years to restore.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/10/14/health-news-glp-1-study-impact-interactions-with-criminal-justice-system-employment/?utm_campaign=rss",
-          "source_published_at": "2026-10-14T11:53:49+00:00"
+          "source_url": "https://www.statnews.com/2026/10/14/former-fda-commissioners-say-recruit-defend-support-agency-workforce/?utm_campaign=rss",
+          "source_published_at": "2026-10-14T23:23:20+00:00"
         },
         {
-          "headline": "New research on Botticelli's Venus supports diagnosis of death from a pituitary tumor",
-          "what_happened": "New evidence supporting the theory that Botticelli's Venus died from a pituitary tumor has been published in Medical Humanities. It is the third in a series of papers led by Paolo Pozzilli, in which he set out research on the Renaissance aristocrat Simonetta Vespucci, Sandro Botticelli's muse, who died at 23 from suspected tuberculosis.",
+          "headline": "Mixed beam measurement method could help make ion cancer therapy more precise",
+          "what_happened": "In ion beam therapy, atomic nuclei are accelerated to high energies in a particle accelerator, for example, a synchrotron, and precisely directed at a tumor. There, they damage cancer cells and destroy tumor tissue. This technique is now used at several specialized medical facilities around the world, including MedAustron in Wiener Neustadt, Austria.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-botticelli-venus-diagnosis-death-pituitary.html",
-          "source_published_at": "2026-10-14T11:40:02+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-10-method-ion-cancer-therapy-precise.html",
+          "source_published_at": "2026-10-14T23:20:05+00:00"
         },
         {
-          "headline": "Safer nurse workloads could alleviate emergency department crowding",
-          "what_happened": "A new study led by researchers from Penn Nursing's Center for Health Outcomes and Policy Research (CHOPR) finds that improving hospital nurse workloads could alleviate delays in care contributing to emergency department crowding.",
+          "headline": "MRI analysis tool reveals brain artery differences missed by older software",
+          "what_happened": "The brain's network of blood vessels plays a critical role in maintaining neurological health. Changes to these vessels are associated with conditions including stroke, cognitive impairment and dementia. Yet studying the brain's smallest arteries can be challenging, in part because extracting detailed measurements from MRI images often requires substantial manual work.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-safer-nurse-workloads-alleviate-emergency.html",
-          "source_published_at": "2026-10-14T11:20:01+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-10-mri-analysis-tool-reveals-brain.html",
+          "source_published_at": "2026-10-14T23:00:16+00:00"
         },
         {
-          "headline": "A gut microbe makes a fatty acid that cuts artery plaque in half in mice",
-          "what_happened": "A common gut bacterium produces a molecule that slows cholesterol production in the liver. When researchers gave the molecule to mice prone to artery disease, the animals developed roughly half as much fatty plaque as untreated controls.",
+          "headline": "Simple, noninvasive technique can assess collagen in the skin of scleroderma patients",
+          "what_happened": "Scleroderma (systemic sclerosis) is a rare, chronic autoimmune disease that causes the body to produce too much collagen, leading to the hardening and thickening of the skin and internal organs. For more than 50 years, physicians have relied on manually pinching the skin to assess its thickness, a subjective approach that remains central to the diagnosis of systemic sclerosis, assessment of disease extent and progression and monitoring of response to treatment.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-gut-microbe-fatty-acid-artery.html",
-          "source_published_at": "2026-10-14T11:00:21+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-10-simple-noninvasive-technique-collagen-skin.html",
+          "source_published_at": "2026-10-14T22:30:34+00:00"
         }
       ]
     },
@@ -315,76 +315,76 @@
       "category": "Crypto Watch",
       "stories": [
         {
-          "headline": "U.S. September CPI comes in hot, sending bitcoin sharply lower",
-          "what_happened": "The news could put multiple rate hikes by the Federal Reserve back into play.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower",
-          "source_published_at": "2026-10-14T12:33:56+00:00"
-        },
-        {
-          "headline": "Kraken parent to buy Lithuanian Saldo Bank amid TradFi expansion",
-          "what_happened": "Payward expects to close the acquisition in 2027, enabling it to expand its traditional banking services into four EU operating markets already served by Saldo Bank.",
+          "headline": "VanEck seeks to withdraw application for Lido staked Ether ETF",
+          "what_happened": "VanEck initially filed an S-1 registration statement for the exchange-traded fund in October last year.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/krakens-parent-buy-lithuanian-saldo-bank-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-10-14T12:26:05+00:00"
+          "source_url": "https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-10-15T01:21:52+00:00"
         },
         {
-          "headline": "Morning Minute: Move Over, Saylor, There’s a New Top Buyer in Town",
-          "what_happened": "With Strategy's preferred stock STRC closing in on $100 par, Saylor might not be the number two buyer for long...",
+          "headline": "Polygon gains US payments licenses after closing Coinme deal",
+          "what_happened": "The deal gives Polygon access to 37 money transmitter licenses and 11 state exemptions.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Cointelegraph",
+          "source_url": "https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-10-15T00:55:21+00:00"
+        },
+        {
+          "headline": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
+          "what_happened": "After a summer of AI models escaping test environments and hacking real companies, hundreds of researchers say the internet itself should be treated as a security boundary.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Decrypt",
-          "source_url": "https://decrypt.co/380920/morning-minute-move-over-saylor-theres-a-new-top-buyer-in-town",
-          "source_published_at": "2026-10-14T12:11:35+00:00"
+          "source_url": "https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet",
+          "source_published_at": "2026-10-14T21:46:04+00:00"
         },
         {
-          "headline": "Evernorth taps Ripple, Kraken, Coinbase and BitGo to put $648 million XRP treasury to work",
-          "what_happened": "Evernorth said it is planning a phased move into XRP lending and yield strategies following its Nasdaq debut.",
+          "headline": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
+          "what_happened": "Developer Brandon Thomas used Anthropic's Claude to build free, open-source replicas of Word, Excel and PowerPoint. They're rough, but they show how cheap cloning software has become.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Block",
-          "source_url": "https://www.theblock.co/news/deals/2026-10-14-evernorth-taps-ripple-kraken-coinbase-bitgo-xrp-treasury-work-418503",
-          "source_published_at": "2026-10-14T12:00:00+00:00"
+          "source_name": "Decrypt",
+          "source_url": "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office",
+          "source_published_at": "2026-10-14T21:16:03+00:00"
         },
         {
-          "headline": "Can crypto users trust the supply chain behind hardware wallets?",
-          "what_happened": "Ledger hardware wallet implants have renewed scrutiny of the middlemen handling devices before they reach buyers, even through authorized sellers.",
+          "headline": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
+          "what_happened": "Illinois officials already agreed to delay implementation of a 0.2% tax on crypto assets, but industry-aligned organizations are pushing for summary judgment on the merits.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/hardware-wallet-supply-chain-risk-ledger-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-10-14T11:59:42+00:00"
+          "source_url": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-10-14T20:56:22+00:00"
         },
         {
-          "headline": "How Bitcoin Works",
-          "what_happened": "Bitcoin 201 examines Bitcoin as a secure monetary network. It follows the system from rule enforcement and monetary design through fees, privacy, scaling, security, governance, mining economics, energy use, Lightning, and long-term adoption.",
+          "headline": "Patrick Witt exits White House crypto role as Clarity Act stalls",
+          "what_happened": "Leadership at the White House is shifting once again, as Patrick Witt’s tenure as the administration’s top crypto adviser comes to an end.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "The Block",
-          "source_url": "https://www.theblock.co/learn/campus/how-bitcoin-works-417659",
-          "source_published_at": "2026-10-14T11:52:16+00:00"
+          "source_url": "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611",
+          "source_published_at": "2026-10-14T20:30:15+00:00"
         },
         {
-          "headline": "Here's how analysts see U.S. inflation influencing bitcoin",
-          "what_happened": "Your day-ahead look for Oct. 14, 2026",
+          "headline": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
+          "what_happened": "A new Chainalysis report found payments through Coinbase’s x402 protocol surged from about 1,500 in mid-2025 to more than 138 million by Q3 2026, with U.S. wallets dominating spending on AI models.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
-          "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/daybook-us/2026/10/14/here-s-how-analysts-see-u-s-inflation-influencing-bitcoin",
-          "source_published_at": "2026-10-14T11:15:00+00:00"
+          "source_name": "Decrypt",
+          "source_url": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
+          "source_published_at": "2026-10-14T20:16:05+00:00"
         },
         {
-          "headline": "Dutch central bank grants Qivalis e-money license for MiCA-compliant euro token",
-          "what_happened": "Backed by BBVA, BNP Paribas, and ING, Qivalis secured Dutch regulatory authorization to offer onchain euro settlement infrastructure.",
+          "headline": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
+          "what_happened": "Sberbank now holds both custody and exchange status under Russia's new crypto law, and plans to bring Bitcoin, Ethereum and USDT to apps used by 110 million retail clients.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
-          "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/policy/2026/10/14/dutch-regulator-approves-qivalis-as-electronic-money-institution-under-mica-rules",
-          "source_published_at": "2026-10-14T11:12:36+00:00"
+          "source_name": "Decrypt",
+          "source_url": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
+          "source_published_at": "2026-10-14T19:46:03+00:00"
         }
       ],
       "watchlist": [
