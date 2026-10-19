@@ -1,82 +1,82 @@
 {
   "title": "Daily Intelligence Briefing",
-  "published_at": "2026-10-19T04:27:40.191392+00:00",
+  "published_at": "2026-10-19T09:13:27.076852+00:00",
   "timezone": "Asia/Kolkata",
   "sections": [
     {
       "category": "Finance & Global Economy",
       "stories": [
         {
-          "headline": "French Violence Raises Alert as Protests Flare Across Europe",
-          "what_happened": "The violence that rocked France this weekend as cost-of-living protests degenerated into looting and burning nationwide is raising alert levels across Europe, where elections will be held in at least half a dozen countries next year.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-19/french-violence-raises-alert-as-protests-flare-across-europe",
-          "source_published_at": "2026-10-19T04:15:00+00:00"
-        },
-        {
-          "headline": "PIIE’s Lovely on China-US Trade",
-          "what_happened": "Mary Lovely, Senior Fellow at PIIE, says China’s dominance in rare earth production gives Beijing significant leverage in trade issues with the US. She speaks with Stephen Engle on the sidelines of the Bund Summit in Shanghai. (Source: Bloomberg)",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/videos/2026-10-19/piie-s-lovely-on-china-us-trade-video",
-          "source_published_at": "2026-10-19T04:14:12+00:00"
-        },
-        {
-          "headline": "China's Growth Rebounds While Home-Price Slump Eases",
-          "what_happened": "China’s growth accelerated more than expected in the third quarter while home prices fell at a slower pace in September. Maybank Macro Research Director Erica Tay discusses what it may mean for stimulus expectations. (Source: Bloomberg)",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/videos/2026-10-19/china-s-growth-rebounds-while-home-price-slump-eases-video",
-          "source_published_at": "2026-10-19T04:02:32+00:00"
-        },
-        {
-          "headline": "The UK Shows How AI Could Affect Jobs",
-          "what_happened": "The UK is at the sharp end of transformations in the age of AI because finance, one of the industries most exposed to disruption, is also one of the UK’s biggest employers and most important exports. Bloomberg Opinion columnist Paul J. Davies explains why other nations should watch closely. (Source: Bloomberg)",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/videos/2026-10-19/opinion-the-uk-shows-how-ai-could-affect-jobs-video",
-          "source_published_at": "2026-10-19T04:01:30+00:00"
-        },
-        {
-          "headline": "Vietnam Plans Index Options for Next Year After FTSE Upgrade",
-          "what_happened": "Vietnam aims to introduce stock index options in the first quarter of next year as the country seeks to deepen its capital markets and attract more overseas investors following an upgrade to its equity market.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-19/vietnam-plans-index-options-for-next-year-after-ftse-upgrade",
-          "source_published_at": "2026-10-19T03:25:57+00:00"
-        },
-        {
-          "headline": "Indonesia Said to Meet Monday With MSCI Over Shock Index Threat",
-          "what_happened": "Indonesian officials plan to meet with MSCI Inc. executives on Monday, according to people familiar with the matter, after saying they were blindsided by the index provider’s threat to reclassify the country as a standalone market — a much more severe step than they thought was under discussion during months of talks.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-19/indonesia-said-to-meet-monday-with-msci-over-shock-index-threat",
-          "source_published_at": "2026-10-19T03:17:53+00:00"
-        },
-        {
-          "headline": "China's growth accelerates as AI export boom outweighs domestic weakness",
-          "what_happened": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
+          "headline": "What is the Budget and what could be in it?",
+          "what_happened": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "BBC Business",
-          "source_url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
-          "source_published_at": "2026-10-19T03:17:46+00:00"
+          "source_url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+          "source_published_at": "2026-10-19T09:01:40+00:00"
         },
         {
-          "headline": "China State Funds Active as Stocks Post Record Weekly Losing Run",
-          "what_happened": "Signs are emerging that a record 10-week losing streak for China’s benchmark stock index has prompted state-backed funds to step up their presence in the market.",
+          "headline": "People playing loud music on buses could face £100 fine",
+          "what_happened": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "BBC Business",
+          "source_url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
+          "source_published_at": "2026-10-19T09:00:57+00:00"
+        },
+        {
+          "headline": "China Signals Overnight Rate Set to Become Main Policy Benchmark",
+          "what_happened": "China’s central bank signaled its overnight reverse repurchase rate will replace the current seven-day rate as the new policy benchmark, in another step that aligns it closer with global peers.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-19/china-state-funds-active-as-stocks-post-record-weekly-losing-run",
-          "source_published_at": "2026-10-19T03:10:33+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-10-19/china-signals-plan-for-overnight-rate-to-play-bigger-policy-role",
+          "source_published_at": "2026-10-19T08:58:31+00:00"
+        },
+        {
+          "headline": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+          "what_happened": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "BBC Business",
+          "source_url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+          "source_published_at": "2026-10-19T08:31:32+00:00"
+        },
+        {
+          "headline": "Indonesia's Selloff Deepens With Officials set for MSCI Meeting",
+          "what_happened": "Indonesian markets extended their selloff, with stocks deepening their worst rout in almost 30 years and losses spreading to bonds and the rupiah after MSCI warned the country may face a two-step downgrade. Bloomberg's Anthony Stephens has more. (Source: Bloomberg)",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/videos/2026-10-19/insonesia-s-selloff-deepens-after-msci-warning-video",
+          "source_published_at": "2026-10-19T08:19:00+00:00"
+        },
+        {
+          "headline": "HKMA Gives Darryl Chan New Roles in Executive Function Reshuffle",
+          "what_happened": "Hong Kong’s de facto central bank is again shuffling executive roles, according to people familiar with the matter, as it prepares to make way for a new crop of leaders in the coming years.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-10-19/hkma-gives-darryl-chan-new-roles-in-executive-function-reshuffle",
+          "source_published_at": "2026-10-19T08:03:16+00:00"
+        },
+        {
+          "headline": "Can Microbes Solve the Copper Problem?",
+          "what_happened": "The global copper supply is on a collision course with growing electricity demand. Now some companies are turning to biomining, the process of using microbes to extract metals, to boost supply. (Source: Bloomberg)",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/videos/2026-10-19/can-microbes-solve-the-copper-problem-video",
+          "source_published_at": "2026-10-19T08:00:04+00:00"
+        },
+        {
+          "headline": "Don Wilson on the GPU Market’s Trillion Dollar Question",
+          "what_happened": "When we spoke to Don Wilson, founder and CEO of DRW, in Chicago last year, he told us he wanted to build a market for GPUs that would eventually be bigger than oil. A year’s time in the age of AI is an eternity, and so for the first episode of this year’s Chicago live show - recorded at City Winery - Wilson joins us on stage again to talk about what’s changed and what hasn’t in his quest to help build this market. We get his take on the recent tech selloff, including credit concerns around neocl",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/audio/2026-10-19/don-wilson-on-the-gpu-market-s-trillion-dollar-question",
+          "source_published_at": "2026-10-19T08:00:00+00:00"
         }
       ]
     },
@@ -84,82 +84,100 @@
       "category": "Indian Share Market",
       "stories": [
         {
-          "headline": "Axis Bank shares fall over 4% despite 38% YoY jump in Q2 net profit. Why brokerages are revising target prices?",
-          "what_happened": "Axis Bank reported a 38% year-on-year rise in standalone net profit to Rs 7,003 crore in Q2 FY27, while net interest income rose 12%. Jefferies retained its Buy rating, while Centrum Broking and Dolat Capital lowered their target prices.",
+          "headline": "Global Market: Euro falls as French political unrest, high energy prices weigh on sentiment",
+          "what_happened": "The euro weakened amid elevated energy prices and renewed French political uncertainty, while investors reassessed the outlook for US growth, interest rates and the dollar. The yen, yuan and Indonesian rupiah also moved as markets weighed central bank signals and economic risks.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/axis-bank-shares-in-focus-after-q2-results-why-jefferies-remains-bullish-even-as-other-brokerages-reduce-target-prices/articleshow/135039127.cms",
-          "source_published_at": "2026-10-19T03:51:26+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-falls-as-french-political-unrest-high-energy-prices-weigh-on-sentiment/articleshow/135044480.cms",
+          "source_published_at": "2026-10-19T08:51:17+00:00"
         },
         {
-          "headline": "RBI announces $10.5 billion liquidity infusion via repo",
-          "what_happened": "The RBI will infuse up to 1 trillion rupees ($10.53 billion) through the operation, which traders said must be to help lenders tide over tax outflows amid tightening of the daily cash reserve requirement.",
+          "headline": "UltraTech Cement Q2 Results: Net profit jumps 21% YoY to Rs 1,494 crore; revenue up 19%",
+          "what_happened": "UltraTech Cement Q2 Results: The cement maker reported a 21% year-on-year rise in consolidated net profit to Rs 1,494 crore in Q2 FY27, while revenue grew 19% to Rs 23,295 crore. However, profit fell 43% sequentially amid monsoon-related disruptions and the West Asia crisis, with margins also declining from the previous quarter.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/forex/rbi-announces-10-5-billion-liquidity-infusion-via-repo/articleshow/135038836.cms",
-          "source_published_at": "2026-10-19T03:33:42+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/earnings/ultratech-cement-q2-results-net-profit-rises-21-yoy-to-rs-1494-crore-revenue-up-19/articleshow/135044076.cms",
+          "source_published_at": "2026-10-19T08:32:25+00:00"
         },
         {
-          "headline": "IDBI Bank shares in focus as Q2 net profit falls 39%; NII tanks nearly 50% YoY",
-          "what_happened": "IDBI Bank reported a 39% YoY decline in Q2 FY27 net profit, partly due to a one-off gain in the previous year. Despite this, underlying profitability, margins, asset quality, deposits and advances showed improvement. Meanwhile, Fairfax Financial’s proposed 60.72% stake acquisition marks a major milestone in the bank’s privatisation.",
+          "headline": "Jio’s mega IPO breaks all records with Rs 2.5 lakh crore anchor demand: BlackRock, GIC, LIC participate",
+          "what_happened": "Jio Platforms is making waves with its IPO, drawing in around Rs 2.5 lakh crore from institutional investors, reflecting remarkable enthusiasm in the market. With backing from renowned global asset managers and sovereign wealth funds, this Rs 30,200 crore offering launches on October 21, featuring a price band of Rs 1,065 to Rs 1,119 per share. The company aims to use most proceeds to clear existing debts, enhancing financial stability.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/idbi-bank-shares-in-focus-as-q2-net-profit-falls-39-nii-tanks-nearly-50-yoy/articleshow/135038766.cms",
-          "source_published_at": "2026-10-19T03:27:46+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/jios-mega-ipo-breaks-all-records-with-rs-2-5-lakh-crore-anchor-demand-blackrock-gic-lic-participate/articleshow/135043514.cms",
+          "source_published_at": "2026-10-19T08:10:18+00:00"
         },
         {
-          "headline": "Tonbo Imaging India IPO Day 3: GMP at 74%, issue subscribed over 7x. Check key details",
-          "what_happened": "Tonbo Imaging India’s IPO closes amid strong investor demand, with 7.78 times subscription by Day 2 and a grey market premium of 74%. The Rs 852.18 crore issue is entirely an offer for sale. Investors will track allotment, listing expectations and the defence technology company’s declining FY26 financial performance.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/tonbo-imaging-india-ipo-day-3-gmp-at-74-issue-subscribed-over-7x-check-key-details/articleshow/135038712.cms",
-          "source_published_at": "2026-10-19T03:25:02+00:00"
-        },
-        {
-          "headline": "ICICI Bank Share Price Live Updates: ICICI Bank's Breakout Above Resistance Level Highlights Market Strength",
+          "headline": "Why Nebius shares are falling amid AI funding fears",
           "what_happened": "Read the original report for details.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-live-updates-19-oct-2026/liveblog/135038693.cms",
-          "source_published_at": "2026-10-19T03:20:37+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-nebius-shares-are-falling-amid-ai-funding-fears/slideshow/135043802.cms",
+          "source_published_at": "2026-10-19T08:03:17+00:00"
         },
         {
-          "headline": "L&T Finance among 4 F&O stocks with a sharp rise in futures open interest",
-          "what_happened": "A slideshow exploring four NSE F&O stocks that witnessed a sharp increase in futures open interest on October 16, highlighting changing market participation and notable shifts in derivatives activity.",
+          "headline": "Global Market: China backs IMF scrutiny of fiscal risks in major economies",
+          "what_happened": "China backed the IMF’s efforts to monitor fiscal risks in major advanced economies and assess global spillover effects. PBOC Governor Pan Gongsheng highlighted rising debt, financial imbalances and cross-border capital flows, while opposing protectionism. The IMF urged China to strengthen domestic consumption and reduce reliance on exports.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/lampt-finance-among-4-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/135038726.cms",
-          "source_published_at": "2026-10-19T03:19:00+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-china-backs-imf-scrutiny-of-fiscal-risks-in-major-economies/articleshow/135043610.cms",
+          "source_published_at": "2026-10-19T08:01:53+00:00"
         },
         {
-          "headline": "U-turn from regulator may be new lifeline to Indian derivatives",
-          "what_happened": "The return of a stable settlement system in India's equity-derivatives market could signal a promising recovery. Following the tumultuous closure auction process introduced in August, regulators are aiming to restore order. Market players are optimistic that this newfound clarity will not only enhance trader confidence but also boost derivatives trading volumes over time.",
+          "headline": "Global Market: Indonesia stock exchange to meet MSCI after downgrade warning triggers market rout",
+          "what_happened": "Indonesia’s stock exchange will meet MSCI on Monday to seek clarity over a warning that could strip the country of its emerging-market status. The threat triggered a sharp selloff, wiping $65 billion off market capitalisation on Friday. A downgrade could prompt foreign fund outflows and weaken investor participation in Indonesian equities.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/u-turn-from-regulator-may-be-new-lifeline-to-indian-derivatives/articleshow/135038625.cms",
-          "source_published_at": "2026-10-19T03:17:36+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-indonesia-stock-exchange-to-meet-msci-after-downgrade-warning-triggers-market-rout/articleshow/135043186.cms",
+          "source_published_at": "2026-10-19T07:45:06+00:00"
         },
         {
-          "headline": "Axis Bank Share Price Live Updates: Axis Bank Trades Below 100-Day SMA Amid Decline",
-          "what_happened": "Read the original report for details.",
+          "headline": "Global Market: Eurozone bond selloff to weigh on growth, curb inflation, Lagarde says",
+          "what_happened": "ECB President Christine Lagarde warned that a global bond selloff is tightening euro zone financial conditions, raising borrowing costs and weighing on growth. Policymakers face a challenge balancing persistent energy-driven inflation risks against slowing economic activity.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-today-live-updates-19-oct-2026/liveblog/135038578.cms",
-          "source_published_at": "2026-10-19T03:10:43+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-eurozone-bond-selloff-to-weigh-on-growth-curb-inflation-lagarde-says/articleshow/135043065.cms",
+          "source_published_at": "2026-10-19T07:41:07+00:00"
+        },
+        {
+          "headline": "HFCL Q2 Results: Profit zooms 448% YoY to Rs 394 crore; stock hits 5% upper circuit",
+          "what_happened": "HFCL reported a 448% year-on-year jump in Q2FY27 net profit to Rs 394 crore, compared with Rs 71.92 crore a year ago. Revenue surged 144% to Rs 2,542 crore, while EBITDA rose 224% to Rs 658 crore. EBITDA margin expanded 640 basis points to 25.89%. The optical fibre and AI beneficiary’s stock hit the 5% upper circuit at Rs 268.70 on the BSE and has gained nearly 300% so far this year.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hfcl-q2-results-profit-zooms-448-yoy-to-rs-394-crore-stock-hits-5-upper-circuit/articleshow/135042693.cms",
+          "source_published_at": "2026-10-19T07:12:14+00:00"
         }
       ]
     },
     {
       "category": "Technology & AI",
       "stories": [
+        {
+          "headline": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+          "what_happened": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Wired AI",
+          "source_url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+          "source_published_at": "2026-10-19T09:00:00+00:00"
+        },
+        {
+          "headline": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+          "what_happened": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
+          "source_published_at": "2026-10-19T07:30:00+00:00"
+        },
         {
           "headline": "A Savannah police officer gave her Flock login to her ICE agent husband",
           "what_happened": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE and said sharing access to the system violated the department's security protocols. While he […]",
@@ -213,24 +231,6 @@
           "source_name": "The Verge AI",
           "source_url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
           "source_published_at": "2026-10-18T18:28:10+00:00"
-        },
-        {
-          "headline": "Disney agrees to hire the majority of Character.AI’s workforce",
-          "what_happened": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "TechCrunch AI",
-          "source_url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-          "source_published_at": "2026-10-18T16:30:00+00:00"
-        },
-        {
-          "headline": "Video game ownership bill introduced in Congress",
-          "what_happened": "Rep. Ritchie Torres of New York's 15th congressional district in the Bronx introduced the Power To The Players Act this week. If passed, the bill would direct the Federal Trade Commission to establish regulations that guarantee consumers ownership of a game when they pay for it, rather than a licensing agreement. It's increasingly common for […]",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
-          "source_published_at": "2026-10-18T16:27:51+00:00"
         }
       ]
     },
@@ -238,76 +238,76 @@
       "category": "Healthcare",
       "stories": [
         {
-          "headline": "Marginalization, lack of primary care provider increase risk of early death from metastatic breast cancer",
-          "what_happened": "People who are marginalized or lack access to a primary care provider are at greater risk of early death from newly diagnosed (de novo) metastatic breast cancer, according to research in the Canadian Medical Association Journal.",
+          "headline": "AI that understands, reasons and acts: Closing the integration gap in enterprise imaging",
+          "what_happened": "Agentic AI assists with routing urgent scans, cutting minutes to treatment.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-marginalization-lack-primary-early-death.html",
-          "source_published_at": "2026-10-19T04:10:01+00:00"
+          "source_name": "MedTech Dive",
+          "source_url": "https://www.medtechdive.com/spons/ai-that-understands-reasons-and-acts-closing-the-integration-gap-in-enter/833071/",
+          "source_published_at": "2026-10-19T09:00:00+00:00"
         },
         {
-          "headline": "STAT+: Cambridge scientist David Sabatini speaks out after courtroom victory: ‘The hardest years of my life’",
-          "what_happened": "\"The hardest years of my life,\" is how Cambridge scientist David Sabatini describes the time since his downfall from MIT.",
+          "headline": "STAT+: Gilead’s IBS drug eliminated symptoms for patients, mid-stage study finds",
+          "what_happened": "An oral treatment from Gilead Sciences eliminated the symptoms experienced by patients with a type of inflammatory bowel disease, according to mid-stage study results reported Monday.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/10/18/david-sabatini-speaks-out-after-courtroom-win-metoo-trial/?utm_campaign=rss",
-          "source_published_at": "2026-10-19T00:54:03+00:00"
+          "source_url": "https://www.statnews.com/2026/10/19/gilead-ibs-drug-succeeds-phase-2-trial/?utm_campaign=rss",
+          "source_published_at": "2026-10-19T08:35:00+00:00"
         },
         {
-          "headline": "Greener anesthesia cuts operating room emissions in half, slashes anesthetic costs nearly 40%",
-          "what_happened": "Hospitals can sharply reduce the climate impact and cost of surgery without compromising patient safety by changing routine anesthesia practices, including reducing the use of high-emission anesthetic gases, suggests a new study presented at the ANESTHESIOLOGY 2026 annual meeting.",
+          "headline": "STAT+: Top immunology association divided over $8.4-billion California ballot measure to fund the field, emails show",
+          "what_happened": "Internal emails obtained by STAT show that the American Association of Immunologists is sharply divided over California's Proposition 38, even though it would provide $8.4 billion in taxpayer dollars for…",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "STAT News",
+          "source_url": "https://www.statnews.com/2026/10/19/california-prop-38-immunology-research-bond-oddly-specific-earmark/?utm_campaign=rss",
+          "source_published_at": "2026-10-19T08:30:00+00:00"
+        },
+        {
+          "headline": "STAT+: Does Isomorphic Labs have what it takes to revolutionize drugmaking?",
+          "what_happened": "Isomorphic Labs wants to turn its technology into an engine for new medicines. The question now is whether — and how — it can deliver on that promise.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "STAT News",
+          "source_url": "https://www.statnews.com/2026/10/19/can-isomorphic-labs-revolutionize-drugmaking/?utm_campaign=rss",
+          "source_published_at": "2026-10-19T08:30:00+00:00"
+        },
+        {
+          "headline": "Opinion: My mother killed herself. I wish assisted suicide had been an option",
+          "what_happened": "“Sometimes mental illness is terminal,” Torie Bosch writes in a personal essay about medical aid in dying for psychiatric reasons.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "STAT News",
+          "source_url": "https://www.statnews.com/2026/10/19/medical-aid-in-dying-mental-illness-canada/?utm_campaign=rss",
+          "source_published_at": "2026-10-19T08:30:00+00:00"
+        },
+        {
+          "headline": "Opinion: Measles is back — and becoming a midterm liability for Republicans",
+          "what_happened": "“Silence on vaccines is becoming a dealbreaker for voters who would otherwise vote Republican,” write physicians and former GOP Reps. Larry Buchson and Michael Burgess.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "STAT News",
+          "source_url": "https://www.statnews.com/2026/10/19/measles-2026-midterms-vaccine-hesitancy-liability-republicans/?utm_campaign=rss",
+          "source_published_at": "2026-10-19T08:30:00+00:00"
+        },
+        {
+          "headline": "STAT+: How the No Surprises Act’s nonprofit arbitrators are operating like ‘mini gods’ and getting rich doing it",
+          "what_happened": "A STAT investigation found that several nonprofits are raking in massive sums by acting as arbitrators in a program that helps protect patients from surprise medical bills.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "STAT News",
+          "source_url": "https://www.statnews.com/2026/10/19/no-surprises-act-billing-arbitration-profits-stat-investigation/?utm_campaign=rss",
+          "source_published_at": "2026-10-19T08:30:00+00:00"
+        },
+        {
+          "headline": "Kenya's Ebola cases hit 8, with no community transmission yet",
+          "what_happened": "Ebola cases in Kenya rose to eight on Sunday after another person tested positive while in quarantine, having been identified as a contact of the first patient.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-greener-anesthesia-room-emissions-slashes.html",
-          "source_published_at": "2026-10-18T23:00:06+00:00"
-        },
-        {
-          "headline": "Antibiotic use from childhood linked to higher odds of IBS in young adulthood",
-          "what_happened": "Antibiotic use from childhood through early adulthood was associated with higher odds of irritable bowel syndrome (IBS) at age 24, with the odds increasing as the number of antibiotic prescriptions rose, according to a new study presented at UEG Week 2026.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-antibiotic-childhood-linked-higher-odds.html",
-          "source_published_at": "2026-10-18T22:10:06+00:00"
-        },
-        {
-          "headline": "Immune changes could signal inflammatory bowel disease up to 10 years before diagnosis",
-          "what_happened": "A large-scale study, presented at UEG Week 2026, has identified distinct antibody patterns up to 10 years before the diagnosis of inflammatory bowel disease (IBD), potentially opening new avenues for earlier risk detection and providing insights into future disease course.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-immune-inflammatory-bowel-disease-years.html",
-          "source_published_at": "2026-10-18T22:10:01+00:00"
-        },
-        {
-          "headline": "Upper endoscopy patients who inhale cannabis may need more anesthesia than edible users",
-          "what_happened": "Patients who smoke or vape cannabis may need more anesthesia during an upper endoscopy than those who use edibles or do not use cannabis, according to a new study presented at the Anesthesiology 2026 annual meeting.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-upper-endoscopy-patients-inhale-cannabis.html",
-          "source_published_at": "2026-10-18T21:50:07+00:00"
-        },
-        {
-          "headline": "Melatonin and Ambien before surgery may improve sleep, reduce pain and opioid use after surgery",
-          "what_happened": "Improving sleep before surgery through the use of melatonin or Ambien (zolpidem) may ease presurgical anxiety, reduce pain after surgery, decrease opioid requirements and help patients recover better, according to an analysis of 25 years of research presented at the ANESTHESIOLOGY 2026 annual meeting.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-melatonin-ambien-surgery-pain-opioid.html",
-          "source_published_at": "2026-10-18T21:50:01+00:00"
-        },
-        {
-          "headline": "AI platform allows real-time conversation between patients and their medical devices",
-          "what_happened": "A new AI-driven platform could allow people to interact with their medical devices by sending messages using a smartphone application and receiving feedback in real time. Participants in a proof-of-concept study undergoing monitoring for seizures could ask questions about their brain activity, receive personalized alerts, report symptoms and behaviors and help train the system to better recognize seizure-related patterns.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-ai-platform-real-conversation-patients.html",
-          "source_published_at": "2026-10-18T21:00:06+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-10-kenya-ebola-cases-community-transmission.html",
+          "source_published_at": "2026-10-19T08:10:01+00:00"
         }
       ]
     },
@@ -315,76 +315,76 @@
       "category": "Crypto Watch",
       "stories": [
         {
-          "headline": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
-          "what_happened": "Bitcoin, Nasdaq futures and Asian stocks rally as stronger-than-expected China GDP and falling oil prices lift risk appetite.",
+          "headline": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
+          "what_happened": "Your look at what's coming in the week starting Oct. 19.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
-          "source_published_at": "2026-10-19T03:36:58+00:00"
+          "source_url": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
+          "source_published_at": "2026-10-19T09:12:39+00:00"
         },
         {
-          "headline": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
-          "what_happened": "The service will initially support bitcoin, ether and the stablecoins USDC, EURC and EURAU, with the bank managing clients’ wallets and private keys.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
-          "source_published_at": "2026-10-19T02:00:00+00:00"
-        },
-        {
-          "headline": "World launches World ID suite for banks, makes Zoom deepfake check generally available",
-          "what_happened": "World ID for Zoom is generally available after a beta that began in April, and is designed to spot deepfaked participants on Zoom calls.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Block",
-          "source_url": "https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869",
-          "source_published_at": "2026-10-19T01:10:00+00:00"
-        },
-        {
-          "headline": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
-          "what_happened": "Qubic says 87.1% of the stolen funds remain onchain and the rest were frozen at crypto exchange MEXC, as network validators prepare to vote on a recovery plan.",
+          "headline": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report",
+          "what_happened": "JPMorgan is reportedly expanding its JPM Coin deposit token to Ethereum, allowing institutional clients to make payments and settle tokenized asset transactions.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-10-19T01:03:27+00:00"
+          "source_url": "https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-10-19T08:58:45+00:00"
         },
         {
-          "headline": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
-          "what_happened": "Eight more companies objected to trading on the planned OKX-ICE venue, while Nasdaq has separately said it would opt out under the SEC’s framework.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
-          "source_published_at": "2026-10-18T23:28:06+00:00"
-        },
-        {
-          "headline": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
-          "what_happened": "HEX founder Richard Heart detained in early morning raid in Istanbul, Starknet plunges almost 50% as it votes to become an L1, and Bitwise says all signs point to Crypto Spring.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-10-18T22:58:17+00:00"
-        },
-        {
-          "headline": "Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off",
-          "what_happened": "Kalshi, Polymarket, Robinhood and Underdog, which also received cease-and-desist orders, have not filed suits in Missouri, according to court records.",
+          "headline": "JPMorgan expands ‘JPM Coin’ deposit token to Ethereum for institutional clients",
+          "what_happened": "The USD-denominated deposit token now supports peer-to-peer transfers within the Ethereum Virtual Machine ecosystem, including Base.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "The Block",
-          "source_url": "https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866",
-          "source_published_at": "2026-10-18T19:50:28+00:00"
+          "source_url": "https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874",
+          "source_published_at": "2026-10-19T08:31:31+00:00"
         },
         {
-          "headline": "The White House's crypto chief departs: State of Crypto",
-          "what_happened": "Patrick Witt announced his departure from the White House last week.",
+          "headline": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
+          "what_happened": "US spot Ether ETFs recorded around $955 million in October net outflows so far, while Bitcoin funds extended their weekly withdrawal streak to two weeks.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Cointelegraph",
+          "source_url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-10-19T07:54:13+00:00"
+        },
+        {
+          "headline": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
+          "what_happened": "A bitcoin wallet dormant since 2013 moved 411 BTC, now worth about $34 million. It is one of several long-dormant wallets to wake up recently.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
-          "source_published_at": "2026-10-18T18:30:00+00:00"
+          "source_url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
+          "source_published_at": "2026-10-19T06:23:16+00:00"
+        },
+        {
+          "headline": "Zoom adds ‘proof of human’ badges to show you’re not a deepfake",
+          "what_happened": "Sam Altman-backed World has rolled out biometric verification badges for Zoom enterprise users, aiming to combat AI deepfake impersonation and fraud.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Cointelegraph",
+          "source_url": "https://cointelegraph.com/news/zoom-proof-of-human-badges-world-id-ai-deepfakes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-10-19T05:55:44+00:00"
+        },
+        {
+          "headline": "Here’s what happened in crypto today",
+          "what_happened": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Cointelegraph",
+          "source_url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-10-19T05:48:07+00:00"
+        },
+        {
+          "headline": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
+          "what_happened": "The team behind Zakura wants every swap through NEAR Intents to get its own key, so a refund address left on NEAR’s public chain can’t expose a user’s wider payment history.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "CoinDesk",
+          "source_url": "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers",
+          "source_published_at": "2026-10-19T05:23:02+00:00"
         }
       ],
       "watchlist": [
