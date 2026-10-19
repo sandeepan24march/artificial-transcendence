@@ -1,11 +1,29 @@
 {
   "title": "Daily Intelligence Briefing",
-  "published_at": "2026-10-19T04:20:56.249010+00:00",
+  "published_at": "2026-10-19T04:27:40.191392+00:00",
   "timezone": "Asia/Kolkata",
   "sections": [
     {
       "category": "Finance & Global Economy",
       "stories": [
+        {
+          "headline": "French Violence Raises Alert as Protests Flare Across Europe",
+          "what_happened": "The violence that rocked France this weekend as cost-of-living protests degenerated into looting and burning nationwide is raising alert levels across Europe, where elections will be held in at least half a dozen countries next year.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-10-19/french-violence-raises-alert-as-protests-flare-across-europe",
+          "source_published_at": "2026-10-19T04:15:00+00:00"
+        },
+        {
+          "headline": "PIIE’s Lovely on China-US Trade",
+          "what_happened": "Mary Lovely, Senior Fellow at PIIE, says China’s dominance in rare earth production gives Beijing significant leverage in trade issues with the US. She speaks with Stephen Engle on the sidelines of the Bund Summit in Shanghai. (Source: Bloomberg)",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/videos/2026-10-19/piie-s-lovely-on-china-us-trade-video",
+          "source_published_at": "2026-10-19T04:14:12+00:00"
+        },
         {
           "headline": "China's Growth Rebounds While Home-Price Slump Eases",
           "what_happened": "China’s growth accelerated more than expected in the third quarter while home prices fell at a slower pace in September. Maybank Macro Research Director Erica Tay discusses what it may mean for stimulus expectations. (Source: Bloomberg)",
@@ -59,24 +77,6 @@
           "source_name": "Bloomberg Markets",
           "source_url": "https://www.bloomberg.com/news/articles/2026-10-19/china-state-funds-active-as-stocks-post-record-weekly-losing-run",
           "source_published_at": "2026-10-19T03:10:33+00:00"
-        },
-        {
-          "headline": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
-          "what_happened": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "BBC Business",
-          "source_url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-          "source_published_at": "2026-10-19T02:41:41+00:00"
-        },
-        {
-          "headline": "Nifty Bank Heavyweights HDFC, ICICI in Focus After Weekend Earnings",
-          "what_happened": "HDFC Bank, ICICI Bank and Axis Bank report a mixed set of numbers.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/newsletters/2026-10-19/nifty-bank-heavyweights-hdfc-icici-in-focus-after-weekend-earnings",
-          "source_published_at": "2026-10-19T02:37:35+00:00"
         }
       ]
     },
@@ -84,7 +84,7 @@
       "category": "Indian Share Market",
       "stories": [
         {
-          "headline": "Axis Bank shares in focus after Q2 results. Why Jefferies remains bullish even as other brokerages reduce target prices",
+          "headline": "Axis Bank shares fall over 4% despite 38% YoY jump in Q2 net profit. Why brokerages are revising target prices?",
           "what_happened": "Axis Bank reported a 38% year-on-year rise in standalone net profit to Rs 7,003 crore in Q2 FY27, while net interest income rose 12%. Jefferies retained its Buy rating, while Centrum Broking and Dolat Capital lowered their target prices.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
@@ -147,7 +147,7 @@
           "source_published_at": "2026-10-19T03:17:36+00:00"
         },
         {
-          "headline": "Axis Bank Share Price Live Updates: Axis Bank's bearish movement below EMA",
+          "headline": "Axis Bank Share Price Live Updates: Axis Bank Trades Below 100-Day SMA Amid Decline",
           "what_happened": "Read the original report for details.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
