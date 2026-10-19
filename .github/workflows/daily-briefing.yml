@@ -1,10 +1,13 @@
+
 name: Daily Intelligence Briefing
 
 on:
   workflow_dispatch:
+
   schedule:
-  # 09:00 India Standard Time (03:30 UTC)
-  - cron: "30 3 * * *"
+    # 09:00 India Standard Time (03:30 UTC)
+    - cron: "30 3 * * *"
+
   push:
     branches:
       - main
@@ -23,42 +26,73 @@ jobs:
   generate-briefing:
     runs-on: ubuntu-latest
     timeout-minutes: 15
+
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
       - name: Validate existing briefing JSON
         run: python -m json.tool data/briefing.json > /dev/null
+
       - name: Generate RSS-only daily briefing
         run: python scripts/generate_briefing.py
+
       - name: Validate generated briefing JSON
         run: |
           python -m json.tool data/briefing.json > /dev/null
           python - <<'PYCODE'
           import json
           from pathlib import Path
-          data = json.loads(Path("data/briefing.json").read_text(encoding="utf-8"))
-          expected = ["Finance & Global Economy", "Indian Share Market", "Technology & AI", "Healthcare", "Crypto Watch"]
+
+          data = json.loads(
+              Path("data/briefing.json").read_text(encoding="utf-8")
+          )
+
+          expected = [
+              "Finance & Global Economy",
+              "Indian Share Market",
+              "Technology & AI",
+              "Healthcare",
+              "Crypto Watch",
+          ]
+
           sections = data.get("sections", [])
-          assert len(sections) == 5 and [s.get("category") for s in sections] == expected
+
+          assert len(sections) == 5
+          assert [s.get("category") for s in sections] == expected
           assert data.get("published_at")
+
           for section in sections:
               assert isinstance(section.get("stories"), list)
               for story in section["stories"]:
                   assert story.get("headline")
-                  assert story.get("source_url", "").startswith(("https://", "http://"))
-          assert sections[4].get("watchlist") == ["TAO", "BTC", "ETH", "SOL", "ADA", "BNB", "USDT", "SPX6900", "BRETT", "RENDER", "AKT", "SUI"]
+                  assert story.get("source_url", "").startswith(
+                      ("https://", "http://")
+                  )
+
+          expected_watchlist = [
+              "TAO", "BTC", "ETH", "SOL", "ADA", "BNB",
+              "USDT", "SPX6900", "BRETT", "RENDER", "AKT", "SUI",
+          ]
+
+          assert sections[4].get("watchlist") == expected_watchlist
           assert sum(len(s["stories"]) for s in sections) >= 8
+
           print("Briefing JSON validation passed.")
           PYCODE
+
       - name: Commit updated briefing
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add data/briefing.json
+
           if git diff --cached --quiet; then
             echo "No briefing changes to commit."
           else
