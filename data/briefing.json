@@ -1,82 +1,82 @@
 {
   "title": "Daily Intelligence Briefing",
-  "published_at": "2026-10-21T08:48:56.537082+00:00",
+  "published_at": "2026-10-22T08:51:23.879327+00:00",
   "timezone": "Asia/Kolkata",
   "sections": [
     {
       "category": "Finance & Global Economy",
       "stories": [
         {
-          "headline": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-          "what_happened": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+          "headline": "Can Independent Venues Survive the Rise of Live Nation?",
+          "what_happened": "Live Nation is deeply embedded in the business of US live music, from ticketing and touring to venues. After a major antitrust defeat, the question now is whether breaking it up will help the independent music scene. (Source: Bloomberg)",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/videos/2026-10-22/can-independent-venues-survive-the-rise-of-live-nation-video",
+          "source_published_at": "2026-10-22T08:45:59+00:00"
+        },
+        {
+          "headline": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+          "what_happened": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "BBC Business",
-          "source_url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-          "source_published_at": "2026-10-21T08:42:49+00:00"
+          "source_url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+          "source_published_at": "2026-10-22T08:43:43+00:00"
         },
         {
-          "headline": "What is happening to UK prices?",
-          "what_happened": "UK inflation rose in September, pushed up by higher petrol and diesel prices.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "BBC Business",
-          "source_url": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-          "source_published_at": "2026-10-21T08:35:47+00:00"
-        },
-        {
-          "headline": "UK’s Biggest Port Operator Valued at £10 Billion in Stake Sale",
-          "what_happened": "Australian pension fund investor IFM Investors has taken a 64% stake in Associated British Ports in one of the biggest UK deals of the year.",
+          "headline": "Indonesia Eyes $1.5 Billion Panda Bond as It Confronts MSCI Risk",
+          "what_happened": "Indonesia is seeking to raise 10 billion yuan ($1.5 billion) through a panda bond sale, returning to China’s onshore debt market as Southeast Asia’s largest economy confronts MSCI Inc.’s double downgrade threat.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-21/uk-s-biggest-port-operator-valued-at-10-billion-in-stake-sale",
-          "source_published_at": "2026-10-21T08:34:22+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-10-22/indonesia-eyes-1-5-billion-panda-bond-as-it-confronts-msci-risk",
+          "source_published_at": "2026-10-22T08:37:13+00:00"
         },
         {
-          "headline": "South Africa Eyes New Fiscal Anchor to Rein in Debt",
-          "what_happened": "South African Finance Minister Enoch Godongwana is poised to unveil a fiscal anchor to entrench progress made in repairing the nation’s public finances as the Iran war puts those gains to the test. Bloomberg’s Jennifer Zabasajja reports. (Source: Bloomberg)",
+          "headline": "Hudson River Trading India Arm Earnings Show Early Impact of Options Crackdown",
+          "what_happened": "Hudson River Trading LLC’s Indian unit reported modest profit and revenue growth in fiscal 2026, an early sign that tighter regulation of the country’s options market may be weighing on high-frequency trading firms.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/videos/2026-10-21/south-africa-eyes-new-fiscal-anchor-to-rein-in-debt-video",
-          "source_published_at": "2026-10-21T08:33:21+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-10-22/hudson-river-trading-india-arm-earnings-show-early-impact-of-options-crackdown",
+          "source_published_at": "2026-10-22T08:23:08+00:00"
         },
         {
-          "headline": "Surging fuel prices push UK inflation rate to 3.5% ahead of Budget",
-          "what_happened": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "BBC Business",
-          "source_url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
-          "source_published_at": "2026-10-21T08:07:09+00:00"
-        },
-        {
-          "headline": "James Robinson on What It Looks Like When a State is Failing",
-          "what_happened": "The third and last episode from our Chicago live show is with James Robinson, a professor at the University of Chicago and a recipient of the 2024 Nobel Prize in economics (which he shared with Daron Acemoglu and Simon Johnson). His most famous work is 2012’s Why Nations Fail, and in that book he and his co-author Acemoglu document the institutional factors — whether it is reliably run elections or open markets that help facilitate innovation — that determine why some states thrive and others do",
+          "headline": "Al Falasi: Satellites for Disaster Prevention Over War",
+          "what_happened": "In a milestone for the UAE's domestic space industry, Altair-1, the first commercial satellite built in the country, was successfully launched in October 2026. Ahmad Belhoul Al Falasi, Chairman of the UAE Space Agency spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa about the UAE’s space ambitions. (Source: Bloomberg)",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/audio/2026-10-21/james-robinson-on-what-it-looks-like-when-a-state-is-failing",
-          "source_published_at": "2026-10-21T08:00:00+00:00"
+          "source_url": "https://www.bloomberg.com/news/videos/2026-10-22/al-falasi-satellites-for-disaster-prevention-over-war-video",
+          "source_published_at": "2026-10-22T08:03:01+00:00"
         },
         {
-          "headline": "Ukraine’s Anti-Graft Agencies Search Central Bank Building",
-          "what_happened": "Ukraine’s National Anti-Corruption Bureau and Special Anti-Corruption Prosecutor’s Office searched the premises of the country’s central bank and an employee’s residence, they said in a Telegram statement.",
+          "headline": "How Henrik Lundqvist Built His Second Career",
+          "what_happened": "In this episode of The Deal, Alex Rodriguez and Jason Kelly talk with Henrik Lundqvist, the Hall of Fame hockey player and Madison Square Garden ambassador, about how he built his second career. (Source: Bloomberg)",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-21/ukraine-s-anti-graft-agencies-search-central-bank-building",
-          "source_published_at": "2026-10-21T07:59:47+00:00"
+          "source_url": "https://www.bloomberg.com/news/videos/2026-10-22/how-henrik-lundqvist-built-his-second-career-video",
+          "source_published_at": "2026-10-22T08:01:01+00:00"
         },
         {
-          "headline": "Former Hungarian Central Bank Governor Gyorg Matolcsy Detained",
-          "what_happened": "Former Hungarian central bank Governor Gyorgy Matolcsy was detained early on Wednesday as prosecutors probe cases of embezzlement and fraud under his leadership.",
+          "headline": "Bhaskar Sunkara Thinks the Market Has a Place Under Socialism",
+          "what_happened": "A proposal for transcending capitalism.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-21/former-hungarian-central-bank-governor-matolcsy-detained-telex",
-          "source_published_at": "2026-10-21T07:41:17+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-10-22/bhaskar-sunkara-thinks-the-market-has-a-place-under-socialism",
+          "source_published_at": "2026-10-22T08:00:28+00:00"
+        },
+        {
+          "headline": "Odd Lots: Bhaskar Sunkara’s Case for Market Socialism (Podcast)",
+          "what_happened": "In September, Gallup released a poll that showed that 43% percent of Americans viewed socialism positively, the highest approval since Gallup began the poll back in 2010. Since Zohran Mamdani won the NYC mayoral election, the left has made a number of gains across national politics. Still, the majority of Americans view socialism negatively, according to Gallup. As a longtime DSA member and veteran of leftist media, Bhaskar Sunkara is one of socialism’s leading advocates, and he’s spent much of",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/audio/2026-10-22/odd-lots-bhaskar-sunkara-s-case-for-market-socialism-podcast",
+          "source_published_at": "2026-10-22T08:00:00+00:00"
         }
       ]
     },
@@ -84,76 +84,76 @@
       "category": "Indian Share Market",
       "stories": [
         {
-          "headline": "HD Fire Protect shares list at 23% premium; expert highlights key factors to watch",
-          "what_happened": "HD Fire Protect shares listed at a 23% premium over the IPO issue price of Rs 271, debuting at Rs 334.40 on the BSE and Rs 335 on the NSE. Experts say future performance will depend on customer expansion, margin stability, operating cash flows and demand for fire protection equipment.",
+          "headline": "Stock crash alert! eMudhra shares plunge 37% in just two sessions. What’s unfolding?",
+          "what_happened": "eMudhra shares plunged 37% in two sessions after a critical security incident involving compromised private keys linked to eight intermediate Certificate Authority certificates. MeitY said its Indian digital signature and eSign services remain unaffected. The affected global TLS business contributes around 1% of revenue, but reputational risks remain.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/hd-fire-protect-shares-list-at-23-premium-expert-highlights-key-factors-to-watch/articleshow/135086485.cms",
-          "source_published_at": "2026-10-21T08:20:55+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/stock-crash-alert-emudhra-shares-plunge-37-in-just-two-sessions-whats-unfolding/articleshow/135112232.cms",
+          "source_published_at": "2026-10-22T08:06:54+00:00"
         },
         {
-          "headline": "Jio IPO: Nithin Kamath explains how Jio played an important role in making what Zerodha is today",
-          "what_happened": "Zerodha CEO Nithin Kamath has credited Reliance Jio and Airtel with helping build India’s digital ecosystem and expand capital markets. Reflecting on Jio’s decade-long journey, Kamath said affordable data, along with Aadhaar and UPI, enabled online-first businesses like Zerodha to grow and helped drive a surge in retail investing.",
+          "headline": "Meta Q3 Earnings: AI spending, revenue beat & new stock class",
+          "what_happened": "Meta Platforms beat third-quarter revenue estimates as advertising growth lifted sales 26% to $64.6 billion. However, rising capital expenditure on artificial intelligence, negative free cash flow and a new non-voting share class put the spotlight on investment returns and shareholder implications.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-nithin-kamath-explains-how-jio-played-an-important-role-in-making-what-zerodha-is-today/articleshow/135086123.cms",
-          "source_published_at": "2026-10-21T08:05:07+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/meta-q3-earnings-ai-spending-revenue-beat-amp-new-stock-class/slideshow/135112550.cms",
+          "source_published_at": "2026-10-22T07:59:11+00:00"
         },
         {
-          "headline": "Carlsberg said to near public filing for $700 million India IPO",
-          "what_happened": "Carlsberg is preparing to publicly file for a potential $700 million IPO of its Indian business, with investor roadshows expected next week and a possible December launch. The proposed offering would involve a secondary share sale, as India’s IPO market gains momentum. Carlsberg India holds approximately 22% market share.",
+          "headline": "Never a dull moment! Why Jefferies raised Eternal’s target price after Q2 earnings",
+          "what_happened": "Jefferies raised its target price on Eternal to Rs 430 from Rs 415, implying around 38% upside from its previous close of Rs 312.35. The brokerage cited Blinkit’s faster store expansion and improving unit economics, food delivery growth of over 20%, and rising confidence in District.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/carlsberg-said-to-near-public-filing-for-700-million-india-ipo/articleshow/135086210.cms",
-          "source_published_at": "2026-10-21T08:02:27+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/never-a-dull-moment-why-jefferies-raised-eternals-target-price-after-q2-earnings/articleshow/135112113.cms",
+          "source_published_at": "2026-10-22T07:56:41+00:00"
         },
         {
-          "headline": "Rs 30,213 crore, 100 minutes, Rs 2.5 lakh crore: How Jio IPO broke 3 records even before listing",
-          "what_happened": "Reliance Industries’ Jio Platforms has set new IPO records, with its Rs 30,213 crore issue becoming India’s largest-ever public offering and getting fully subscribed within 100 minutes of opening. The IPO surpasses Hyundai Motor India’s Rs 27,870 crore issue in 2024. At the upper end of its Rs 1,065–1,119 price band, Jio Platforms is valued at around Rs 10.3 lakh crore. The issue closes on October 23.",
+          "headline": "NCDEX launches NDEX and FINNDEX indices to foray into equity and derivatives markets",
+          "what_happened": "NCDEX has launched NDEX and FINNDEX, two rule-based indices covering large and liquid Indian equities and financial sector stocks. The benchmarks use a multi-factor methodology incorporating market capitalisation, liquidity, beta and volatility, with semi-annual rebalancing.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-30213-crore-100-minutes-rs-2-5-lakh-crore-how-jio-ipo-broke-3-records-even-before-listing/articleshow/135085644.cms",
-          "source_published_at": "2026-10-21T07:31:37+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/ncdex-launches-ndex-and-finndex-indices-to-foray-into-equity-and-derivatives-markets/articleshow/135112040.cms",
+          "source_published_at": "2026-10-22T07:53:22+00:00"
         },
         {
-          "headline": "Reliance Industries shares jump 3% as Jio’s Rs 30,213 crore IPO gets fully subscribed on Day 1. What lies ahead?",
-          "what_happened": "Reliance Industries shares rose on Wednesday as Jio Platforms’ Rs 30,213 crore IPO was fully subscribed within an hour of opening. was fully subscribed within an hour of opening. With strong investor demand for the issue, attention is turning to Jio’s valuation, RIL’s diverse business portfolio and the potential value-unlocking opportunities for investors following the much-awaited listing.",
+          "headline": "Ashish Kacholia portfolio: Ace investor adds 3 new stocks, trims stake in 13 companies in Q2",
+          "what_happened": "Ace investor Ashish Kacholia reshuffled his Rs 3,000 crore portfolio in Q2FY27, adding three stocks, increasing stakes in two companies and trimming holdings in 13 others. The changes include new bets on ESDS Software Solutions, Ardee Industries and Credent Connect N Care, while Fineotex Chemicals and Brand Concepts may have been exited.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-shares-jump-3-as-jios-rs-30213-crore-ipo-gets-fully-subscribed-on-day-1-what-lies-ahead/articleshow/135085466.cms",
-          "source_published_at": "2026-10-21T07:28:48+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/ashish-kacholia-portfolio-ace-investor-adds-3-new-stocks-trims-stake-in-13-companies-in-q2/articleshow/135111945.cms",
+          "source_published_at": "2026-10-22T07:49:31+00:00"
         },
         {
-          "headline": "Bonfiglioli Transmissions IPO allotment today; GMP signals 23% listing gain. Here's how to check status",
-          "what_happened": "Bonfiglioli Transmissions’ Rs 2,533.66 crore IPO was subscribed 46.05 times, with allotment expected to be finalised today. Shares are scheduled to list on the BSE and NSE on October 23, while a grey market premium of around 23% points to potential listing gains.",
+          "headline": "Global Market: China's yuan hits more than four-year high against dollar",
+          "what_happened": "In a remarkable turn of events, China's yuan has surged against the US dollar, hitting levels unseen in over four years. This strength is linked to a declining dollar and prevailing central bank strategies. Although the People's Bank of China set a midpoint lower than anticipated, its actions aim to moderate currency appreciation. Analysts believe the yuan's resilience may hinge on sustained export performance and domestic demand influences.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/bonfiglioli-transmissions-ipo-allotment-today-gmp-signals-23-listing-gain-heres-how-to-check-status/articleshow/135085301.cms",
-          "source_published_at": "2026-10-21T07:24:03+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-yuan-hits-more-than-four-year-high-against-dollar/articleshow/135111723.cms",
+          "source_published_at": "2026-10-22T07:45:40+00:00"
         },
         {
-          "headline": "Why are analysts still cautious despite Super Micro’s strong outlook?",
-          "what_happened": "Super Micro Computer raised its first-quarter revenue forecast to $18.5 billion–$19.5 billion on stronger AI infrastructure demand. Higher gross margin guidance also lifted sentiment, while investors await earnings to assess cash flow, working capital and the sustainability of growth.",
+          "headline": "Adani Green Energy shares fall 4% after Q2 results. What are Jefferies, JM Financial saying?",
+          "what_happened": "Adani Green Energy reported a 15% year-on-year rise in Q2FY27 net profit to Rs 673 crore, while revenue grew 39% to Rs 4,520 crore. Shares fell 4% after the results. Jefferies maintained its Buy rating, while JM Financial retained Add, citing growth opportunities and operational challenges.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-are-analysts-still-cautious-despite-super-micros-strong-outlook/slideshow/135085360.cms",
-          "source_published_at": "2026-10-21T06:58:13+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-green-energy-shares-fall-4-after-q2-results-what-are-jefferies-jm-financial-saying/articleshow/135110271.cms",
+          "source_published_at": "2026-10-22T06:48:52+00:00"
         },
         {
-          "headline": "Global Market: Eurozone banking crisis fears return as government borrowing costs surge",
-          "what_happened": "Rising euro zone borrowing costs have renewed fears of a sovereign debt crisis, particularly in France. European banks’ stronger capital buffers, diversified bond holdings and tighter regulation offer protection, but prolonged market volatility could increase funding costs, weaken profitability and revive investor concerns over banks’ exposure to government debt.",
+          "headline": "Lam Research Stock: Why did LRCX shares fall despite record profits?",
+          "what_happened": "Lam Research posted record revenue of $8.22 billion, driven by AI infrastructure and memory chip demand. Supply constraints, declining China revenue contribution and cautious outlook weighed on investor sentiment despite strong earnings.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-eurozone-banking-crisis-fears-return-as-government-borrowing-costs-surge/articleshow/135084695.cms",
-          "source_published_at": "2026-10-21T06:48:14+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/lam-research-stock-why-did-lrcx-shares-fall-despite-record-profits/slideshow/135110117.cms",
+          "source_published_at": "2026-10-22T06:30:44+00:00"
         }
       ]
     },
@@ -161,76 +161,76 @@
       "category": "Technology & AI",
       "stories": [
         {
-          "headline": "Claude Science tackles deadly scorpion stings by designing protein binders from scratch",
-          "what_happened": "Anthropic's Claude independently designed protein binders targeting deadly scorpion neurotoxins. Out of more than 318,000 designs, 211 were tested in the lab. Seventeen met the criteria, and the two strongest bind extremely tightly to Cn2, a toxin from a Mexican scorpion. Whether they actually work as antivenom remains an open question. The article Claude Science tackles deadly scorpion stings by designing protein binders from scratch appeared first on The Decoder .",
+          "headline": "Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent \"Claude Duet\"",
+          "what_happened": "Anthropic has launched Claude Duet, a proactive AI agent that handles tasks on its own, even when the user is offline. The app is built on Claude Opus 5.5 and connects to services like Gmail, Slack, and Stripe through more than 6,000 connectors. It asks for approval before sensitive actions like payments. With Duet, Anthropic is responding to similar products from xAI, Meta, and OpenAI. The article Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent \"Claude Duet\" appeared first on The Decoder .",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "The Decoder",
-          "source_url": "https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/",
-          "source_published_at": "2026-10-21T08:37:06+00:00"
+          "source_url": "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/",
+          "source_published_at": "2026-10-22T08:35:22+00:00"
         },
         {
-          "headline": "OpenAI acquires Orchestra Bio to build AI agents that speed up drug development",
-          "what_happened": "OpenAI is acquiring startup Orchestra Bio and plans to merge it with its life sciences AI platform Rosalind. The goal is to build AI agents that help pharma teams coordinate drug development, from tracking trials to spotting problems. Developing a new drug in the US takes ten to 15 years on average. OpenAI already works with Novo Nordisk and Moderna on AI-driven pharma research. The article OpenAI acquires Orchestra Bio to build AI agents that speed up drug development appeared first on The Decoder .",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Decoder",
-          "source_url": "https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/",
-          "source_published_at": "2026-10-21T08:32:54+00:00"
-        },
-        {
-          "headline": "Can Europe Build Data Centers Without Giving Up Its Climate Goals?",
-          "what_happened": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
+          "headline": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+          "what_happened": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Wired AI",
-          "source_url": "https://www.wired.com/story/europe-data-centers-climate-change/",
-          "source_published_at": "2026-10-21T08:30:00+00:00"
+          "source_url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+          "source_published_at": "2026-10-22T02:24:17+00:00"
         },
         {
-          "headline": "YouTube might be testing hiding the dislike button",
-          "what_happened": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and a user on Reddit also shared an image of the dislike button being absent for them. Right now, […]",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
-          "source_published_at": "2026-10-21T00:00:56+00:00"
-        },
-        {
-          "headline": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-          "what_happened": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or […]",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Verge AI",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-          "source_published_at": "2026-10-20T23:04:19+00:00"
-        },
-        {
-          "headline": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-          "what_happened": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "TechCrunch AI",
-          "source_url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-          "source_published_at": "2026-10-20T23:01:23+00:00"
-        },
-        {
-          "headline": "SpaceX and Tesla boards form special committees to review merger",
-          "what_happened": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
+          "headline": "Tesla says it will start selling Cybercabs by end of year",
+          "what_happened": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company’s third-quarter earnings call, Lars Moravy, vice president of engineering at Tesla, […]",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
-          "source_published_at": "2026-10-20T22:57:57+00:00"
+          "source_url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+          "source_published_at": "2026-10-22T00:17:54+00:00"
         },
         {
-          "headline": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-          "what_happened": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+          "headline": "YouTube says it isn’t testing hiding the dislike button",
+          "what_happened": "On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a YouTube spokesperson, in a Wednesday statement to The Verge, confirmed that YouTube is \"not testing hiding […]",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
+          "source_published_at": "2026-10-21T23:46:45+00:00"
+        },
+        {
+          "headline": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+          "what_happened": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings call, the company finally gave itself a deadline. According to Tesla VP for Autonomous Driving Ashok Elluswamy, Tesla owners will be able […]",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+          "source_published_at": "2026-10-21T23:36:31+00:00"
+        },
+        {
+          "headline": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+          "what_happened": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "TechCrunch AI",
-          "source_url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-          "source_published_at": "2026-10-20T22:24:02+00:00"
+          "source_url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+          "source_published_at": "2026-10-21T22:51:22+00:00"
+        },
+        {
+          "headline": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+          "what_happened": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+          "source_published_at": "2026-10-21T22:45:34+00:00"
+        },
+        {
+          "headline": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+          "what_happened": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Wired AI",
+          "source_url": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+          "source_published_at": "2026-10-21T22:39:50+00:00"
         }
       ]
     },
@@ -238,76 +238,76 @@
       "category": "Healthcare",
       "stories": [
         {
-          "headline": "A counterintuitive way to build trust in measles vaccines and public health",
-          "what_happened": "Some experts say public health messaging would be more credible if it focused less on measles deaths and acknowledged that most children survive.",
+          "headline": "Opinion: What I got wrong about the Affordable Care Act — and how to fix it",
+          "what_happened": "“The big mistake, ironically, was the ACA’s lack of focus on affordability,” writes Dana Goldman.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/10/21/measles-vaccination-uptake-experts-suggest-messaging-change/?utm_campaign=rss",
-          "source_published_at": "2026-10-21T08:30:00+00:00"
+          "source_url": "https://www.statnews.com/2026/10/22/aca-failure-contain-healthcare-costs-economist-regret/?utm_campaign=rss",
+          "source_published_at": "2026-10-22T08:30:00+00:00"
         },
         {
-          "headline": "STAT+: Mark Cuban wants to crack open the market for rare disease treatments",
-          "what_happened": "Mark Cuban's Cost Plus Drugs says it can reduce manufacturing costs for custom rare disease drugs and n-of-1 gene therapies.",
+          "headline": "Opinion: The inherited disease my family called ‘it’ had a name, which changed everything",
+          "what_happened": "For 50 years, doctors shrugged about the disease running through Miranda Pappas’ family. Then she discovered something.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/10/21/mark-cuban-cost-plus-drugs-rare-disease-medicines/?utm_campaign=rss",
-          "source_published_at": "2026-10-21T08:30:00+00:00"
+          "source_url": "https://www.statnews.com/2026/10/22/rare-disease-family-name-fenib-personal-essay/?utm_campaign=rss",
+          "source_published_at": "2026-10-22T08:30:00+00:00"
         },
         {
-          "headline": "Opinion: Replication is necessary even if scientists do everything right",
-          "what_happened": "“Committing a Type 1 error does not reflect poorly on the quality of the science done,” writes Mark Louie F. Ramos",
+          "headline": "STAT+: Telehealth leapfrogs FDA approval with off-label GLP-1 prescriptions for addiction",
+          "what_happened": "As telehealth promotes GLP-1s for addiction, experts worry about fragmented care, and exposing patients to unknown risks.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/10/21/nih-replication-process-type-1-error-bhattacharya/?utm_campaign=rss",
-          "source_published_at": "2026-10-21T08:30:00+00:00"
+          "source_url": "https://www.statnews.com/2026/10/22/glp-1-drugs-substance-use-disorder-telehealth-off-label-prescription/?utm_campaign=rss",
+          "source_published_at": "2026-10-22T08:30:00+00:00"
         },
         {
-          "headline": "Opinion: How knocking on doors can help beat measles — again",
-          "what_happened": "“As measles outbreaks spread in the U.S., it may be time to learn how other countries get their outbreaks under control,” writes Raj Panjabi.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/10/21/measles-public-health-door-to-door-initiatives/?utm_campaign=rss",
-          "source_published_at": "2026-10-21T08:30:00+00:00"
-        },
-        {
-          "headline": "STAT+: A German biotech has big ambitions in cancer. Now it needs to get a medicine approved",
-          "what_happened": "After a quarter century of work, the German biotech Immatics is facing a pivotal moment as it awaits Phase 3 results for its lead candidate in melanoma.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/10/21/immatics-cancer-cell-therapy-targets-prame-protein/?utm_campaign=rss",
-          "source_published_at": "2026-10-21T08:30:00+00:00"
-        },
-        {
-          "headline": "Do women with postpartum psychosis receive adequate medical care?",
-          "what_happened": "Women with postpartum psychosis are making repeated pleas for help before receiving a diagnosis, with the first Australian study of their help-seeking experiences finding that participants contacted health services a median of seven times before getting the care they needed.",
+          "headline": "FDA patient, consumer reps often tied to pharma-funded groups",
+          "what_happened": "Patient and consumer representatives advising U.S. Food and Drug Administration (FDA) expert panels might actually be a Trojan horse for the pharmaceutical industry, a new study says.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-women-postpartum-psychosis-adequate-medical.html",
-          "source_published_at": "2026-10-21T07:10:12+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-10-fda-patient-consumer-reps-pharma.html",
+          "source_published_at": "2026-10-22T02:40:01+00:00"
         },
         {
-          "headline": "How hurricanes affect hospitalizations and deaths among older adults using electricity-dependent medical devices",
-          "what_happened": "New research in the Journal of the American Geriatrics Society indicates that older adults who rely on electricity-dependent medical devices—such as ventilators, respirators and dialysis machines—may face substantial health risks during and after hurricanes, especially in communities experiencing severe flooding.",
+          "headline": "Canada's youngest generation is off to a healthy start, but screen time is a challenge",
+          "what_happened": "Canada's youngest generation is off to a good start for being physically active, but there's also room to grow, according to a first-ever national assessment focused on children under age 5, led by a University of Alberta researcher.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-hurricanes-affect-hospitalizations-deaths-older.html",
-          "source_published_at": "2026-10-21T07:10:01+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-10-canada-youngest-generation-healthy-screen.html",
+          "source_published_at": "2026-10-22T01:20:04+00:00"
         },
         {
-          "headline": "Can drinking tea help protect against cardiovascular disease?",
-          "what_happened": "In a Journal of Internal Medicine study, people who drank tea had a lower risk of vascular disease than non-tea drinkers.",
+          "headline": "AAO: Sequential nonarteritic anterior ischemic optic neuropathy occurs earlier with GLP-1 receptor agonist exposure",
+          "what_happened": "For patients with nonarteritic anterior ischemic optic neuropathy (NAION), glucagon-like peptide-1 (GLP-1) receptor agonist exposure is associated with earlier sequential NAION, according to a study presented at the annual meeting of the American Academy of Ophthalmology, held Oct. 9 to 12 in New Orleans.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-tea-cardiovascular-disease.html",
-          "source_published_at": "2026-10-21T07:00:02+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-10-aao-sequential-nonarteritic-anterior-ischemic.html",
+          "source_published_at": "2026-10-22T00:20:01+00:00"
+        },
+        {
+          "headline": "Eye tracking could help virtual reality pain therapy adapt to individual needs",
+          "what_happened": "Combining artificial intelligence (AI) with eye tracking in virtual reality could one day help personalize treatment for millions living with chronic pain, according to world-first research from the University of East Anglia.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-10-eye-tracking-virtual-reality-pain.html",
+          "source_published_at": "2026-10-21T23:10:08+00:00"
+        },
+        {
+          "headline": "Attacks on water systems are attacks on health, say experts",
+          "what_happened": "Water scarcity seldom starts wars, but wars increasingly degrade vital water systems on which health and recovery depend, creating a cycle that reinforces ongoing fragility and violence, warn experts in The BMJ's climate issue.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-10-health-experts.html",
+          "source_published_at": "2026-10-21T22:30:19+00:00"
         }
       ]
     },
@@ -315,31 +315,31 @@
       "category": "Crypto Watch",
       "stories": [
         {
-          "headline": "Tether leads $15 million funding round for AI-focused payment startup Mural",
-          "what_happened": "The Series A round, which included participation from North Island Ventures and existing investors, brings New York-based Mural's total funding to $28 million.",
+          "headline": "Asian stocks tumble, bitcoin retreats as China enters bear market",
+          "what_happened": "Technology shares led regional losses as mixed U.S. earnings unsettled investors and Brent crude climbed above $112 a barrel.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural",
-          "source_published_at": "2026-10-21T08:47:11+00:00"
+          "source_url": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
+          "source_published_at": "2026-10-22T08:49:08+00:00"
         },
         {
-          "headline": "Ether ETF outflows continue, pass $1B in October so far",
-          "what_happened": "US spot Ether ETFs have shed $1.08 billion so far in October, the biggest monthly outflow of 2026, while Bitcoin ETF inflows slowed after Monday’s spike.",
+          "headline": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
+          "what_happened": "US spot Bitcoin ETFs drew $1.08 billion over three trading sessions to push October flows back above water.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-10-21T08:11:50+00:00"
+          "source_url": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-10-22T07:37:32+00:00"
         },
         {
-          "headline": "Zcash developers confirm November date for upgrade that triples payment speed",
-          "what_happened": "The NU7 upgrade will cut the time between Zcash blocks to 25 seconds from 75 seconds. The chosen block height still has to be merged into the spec and shipped in node software.",
+          "headline": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
+          "what_happened": "Chinese prosecutors are seeking to confiscate more than 61,800 Bitcoin tied to a $5.7 billion fraud scheme, days after a U.K. court ruled Chinese law governs victims’ claims to the coins.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/markets/2026/10/21/zcash-developers-confirm-november-date-for-upgrade-that-triples-payment-speed",
-          "source_published_at": "2026-10-21T08:10:12+00:00"
+          "source_url": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
+          "source_published_at": "2026-10-22T06:24:10+00:00"
         },
         {
           "headline": "Here’s what happened in crypto today",
@@ -348,43 +348,43 @@
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Cointelegraph",
           "source_url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-10-21T06:00:00+00:00"
+          "source_published_at": "2026-10-22T05:56:18+00:00"
         },
         {
-          "headline": "Malaysia central bank launches DLT platform for tokenized bonds",
-          "what_happened": "The platform tracks tokenized securities ownership and transfers, linking to Malaysia’s RENTAS+ system to settle corresponding payments in central bank money.",
+          "headline": "Move over memecoins: Crypto ‘meme games’ coming, bagholders and all",
+          "what_happened": "“Plenty will be ponzis. Plenty will get exploited. Plenty will insta die. There will be ridiculous gains, and people will get absolutely f***ing rinsed,” says Illuvium co-founder Kieran Warwick.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-10-21T05:56:29+00:00"
+          "source_url": "https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-10-22T05:35:38+00:00"
         },
         {
-          "headline": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
-          "what_happened": "Institutions can trade through Ripple Prime and post RLUSD as collateral. Finding enough buyers and sellers for large positions could prove harder.",
+          "headline": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
+          "what_happened": "The new voting system targets settlement in about 150 milliseconds, potentially shortening waits for payments and deposits. Users can keep their existing wallets.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
-          "source_published_at": "2026-10-21T05:25:57+00:00"
+          "source_url": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
+          "source_published_at": "2026-10-22T05:24:58+00:00"
         },
         {
-          "headline": "Tech giants rush to block 8 eMudhra certs that could enable fake sites",
-          "what_happened": "A private key generation flaw allowed anyone to guess them and forge HTTPS certificates for any website.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/tech-giants-rush-to-block-flawed-emudhra-certs-that-could-enable-fake-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-10-21T05:15:00+00:00"
-        },
-        {
-          "headline": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
-          "what_happened": "Alpenglow will replace the voting system Solana has used since 2020, targeting roughly 150-millisecond finality after months of testing that included a failed migration and rollback.",
+          "headline": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+          "what_happened": "Past steep rallies ran on about $235 million a day of net inflows into ETFs. The funds are yet to match that pace, according to data analyzed by CoinDesk.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
-          "source_published_at": "2026-10-21T04:35:52+00:00"
+          "source_url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
+          "source_published_at": "2026-10-22T04:41:59+00:00"
+        },
+        {
+          "headline": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
+          "what_happened": "The fix lost its two-week countdown less than two days from the finish after support slipped to 26 of 35 validators. It’s now back at 31.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "CoinDesk",
+          "source_url": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
+          "source_published_at": "2026-10-22T04:36:20+00:00"
         }
       ],
       "watchlist": [
