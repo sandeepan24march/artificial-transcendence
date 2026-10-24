@@ -1,6 +1,6 @@
 {
   "title": "Daily Intelligence Briefing",
-  "published_at": "2026-10-24T04:06:50.813861+00:00",
+  "published_at": "2026-10-24T04:10:49.619982+00:00",
   "timezone": "Asia/Kolkata",
   "sections": [
     {
@@ -84,6 +84,24 @@
       "category": "Indian Share Market",
       "stories": [
         {
+          "headline": "DRL says cap on trade margins a positive, posts 36% dip in Q2 PAT",
+          "what_happened": "In the second quarter of FY2027, Dr. Reddy's Labs experienced a downturn in both revenue and profit. However, the company supports new trade margin regulations that aim to improve access to vital medicines. With a commitment to boosting its core business performance, management is also dedicated to exploring growth avenues.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/earnings/drl-says-cap-on-trade-margins-a-positive-posts-36-dip-in-q2-pat/articleshow/135161325.cms",
+          "source_published_at": "2026-10-24T03:53:30+00:00"
+        },
+        {
+          "headline": "Adani Power profit surges 142% on strong demand amid weak rains",
+          "what_happened": "Adani Power has reported a 142% increase in net profit for the July-September quarter. This profit was driven by strong electricity demand and exceptional prior-period income. Operating revenue for the company saw a nearly 30% increase compared to the previous year. The company also recognized significant revenue due to adjustments in historic energy charges under its power purchase agreements.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-power-profit-surges-142-on-strong-demand-amid-weak-rains/articleshow/135161231.cms",
+          "source_published_at": "2026-10-24T03:47:21+00:00"
+        },
+        {
           "headline": "JSW Steel posts three-fold jump in profit, lines up capacity expansion",
           "what_happened": "JSW Steel achieved an impressive three-fold rise in its consolidated net profit for the September quarter, highlighted by a record-breaking 13% increase in sales volumes compared to last year. The company has received approval for ambitious expansion projects, aiming to add 5 million tonnes at the Utkal site in Odisha.",
           "why_it_matters": "See the original source for context.",
@@ -111,7 +129,7 @@
           "source_published_at": "2026-10-24T03:41:28+00:00"
         },
         {
-          "headline": "Wall St Week Ahead: Earnings flood, Fed meeting will test rickety AI market rally",
+          "headline": "Wall Street Week Ahead: Earnings flood, Fed meeting will test rickety AI market rally",
           "what_happened": "US stock investors are on the edge of their seats as they anticipate quarterly earnings from tech giants like Alphabet, Microsoft, and Amazon. This week is pivotal, with the Federal Reserve meeting also in sight, likely to shape how investors feel about the AI sector. After disappointing earnings from firms such as Meta and Lam Research, mixed sentiment looms over the market, especially with the midterm elections on the horizon.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
@@ -129,31 +147,13 @@
           "source_published_at": "2026-10-24T03:30:47+00:00"
         },
         {
-          "headline": "India's net FDI inflows falls to $3 billion in August",
+          "headline": "Gross FDI inflows to India fall to $11 billion in August",
           "what_happened": "Gross foreign direct investment (FDI) to India decreased to $11 billion in August, from $14 billion a month ago. Net FDI to India slows $3 billion in August, from $7 billion in July. Financial services, communication services, computer services and manufacturing accounted for around 73% of total FDI equity inflows during April-August 2026.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
           "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/indias-net-fdi-inflows-falls-to-3-billion-in-august/articleshow/135160936.cms",
           "source_published_at": "2026-10-24T03:24:13+00:00"
-        },
-        {
-          "headline": "Swiggy sinks 16% to record low as quick-commerce losses widen",
-          "what_happened": "Shares of Swiggy fell by 16.4% to ₹176.70, marking a record low for the company. This decline raises concerns over cash burn and achieving profitability in its quick-commerce business. Analysts are questioning Swiggy's strategic choices and execution following its market debut. The widening losses in the quick-commerce segment have drawn attention to the company's overall performance.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-falls-16-to-new-low-qcomm-losses-spook-street/articleshow/135160761.cms",
-          "source_published_at": "2026-10-24T03:13:22+00:00"
-        },
-        {
-          "headline": "BSE begins hunt for MD & CEO successor ahead of 2027 exit",
-          "what_happened": "BSE has initiated the search for its next managing director and chief executive officer. Sundararaman Ramamurthy is scheduled to retire in June 2027 after reaching the age limit. The exchange is looking for candidates with at least 20 years of experience, which includes senior leadership roles. Applicants need to be under 62 years old as of July 1, 2027.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/bse-begins-hunt-for-md-ceo-successor-ahead-of-2027-exit/articleshow/135160663.cms",
-          "source_published_at": "2026-10-24T03:06:38+00:00"
         }
       ]
     },
