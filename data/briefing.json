@@ -1,82 +1,82 @@
 {
   "title": "Daily Intelligence Briefing",
-  "published_at": "2026-10-29T10:19:06.582891+00:00",
+  "published_at": "2026-10-30T10:21:16.040649+00:00",
   "timezone": "Asia/Kolkata",
   "sections": [
     {
       "category": "Finance & Global Economy",
       "stories": [
         {
-          "headline": "Poundland's future hangs in the balance as chain edges towards collapse",
-          "what_happened": "Poundland's bosses have filed a notice of intention to appoint administrators to the business.",
+          "headline": "South Korea's Latest Viral Youth Trend is Reading Books",
+          "what_happened": "Why are young people raised on short-form video suddenly reading books in public? Thu-Huong Ha reports on South Korea’s \"texthip\" phenomenon, where reading has become the newest cultural status symbol. (Source: Bloomberg)",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/videos/2026-10-30/south-korea-s-latest-viral-youth-trend-is-reading-books-video",
+          "source_published_at": "2026-10-30T10:15:46+00:00"
+        },
+        {
+          "headline": "Signs of a Tech Slowdown Are the Last Thing This Market Needs",
+          "what_happened": "Earnings point to a pocket of weakness that’s pulling the Nasdaq lower.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/newsletters/2026-10-30/signs-of-a-tech-slowdown-are-the-last-thing-this-market-needs",
+          "source_published_at": "2026-10-30T10:13:39+00:00"
+        },
+        {
+          "headline": "Kalshi, Polymarket Piled On Media Deals Ahead of the Midterms",
+          "what_happened": "Prediction markets have become a growing source of revenue for media companies just ahead of the midterm elections, but not everyone thinks the proliferation of gambling odds in political reporting is a good thing.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/kalshi-polymarket-piled-on-media-deals-ahead-of-the-midterms",
+          "source_published_at": "2026-10-30T10:00:00+00:00"
+        },
+        {
+          "headline": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+          "what_happened": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "BBC Business",
-          "source_url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-          "source_published_at": "2026-10-29T10:14:03+00:00"
+          "source_url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "source_published_at": "2026-10-30T09:33:51+00:00"
         },
         {
-          "headline": "Healey's Budget Placates Gilt Markets, Santander Says",
-          "what_happened": "Santander CIB's UK Chief Economist Victoria Clarke says, \"The UK fiscal trajectory was printed on paper yesterday: it does not look brilliant but it looks okay and it wasn't massively worse, but it needs to be delivered.\" She speaks at an exclusive event in London for Bloomberg.com subscribers following Chancellor John Healey's Budget. (Source: Bloomberg)",
+          "headline": "Genmab’s Stellar Cancer-Drug Data Fuels Stock’s $10 Billion Week",
+          "what_happened": "It’s been a breakout week for Danish biotech Genmab A/S.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/videos/2026-10-29/healey-s-budget-placates-gilt-markets-santander-says-video",
-          "source_published_at": "2026-10-29T09:57:57+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/genmab-s-stellar-cancer-drug-data-fuels-stock-s-10-billion-week",
+          "source_published_at": "2026-10-30T09:01:52+00:00"
         },
         {
-          "headline": "Have Britain's Income Taxes Grown Too High?",
-          "what_happened": "Bloomberg UK Senior Reporter John Stepek discusses Chancellor of the Exchequer John Healey's budget and the potential impact of his tax measures on the labor market and general public. He speaks during an event held exclusively for Bloomberg.com subscribers in London. (Source: Bloomberg)",
+          "headline": "China’s Mega Banks Post Record Profits as Margins Recover",
+          "what_happened": "China’s top state banks reported their strongest quarterly profits ever, as improved margins and trading gains from bond investments outweighed sluggish loan growth in a slowing economy.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/videos/2026-10-29/have-britain-s-income-taxes-grown-too-high-video",
-          "source_published_at": "2026-10-29T09:38:14+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/china-s-mega-banks-report-profit-jumps-as-margins-recover",
+          "source_published_at": "2026-10-30T08:49:48+00:00"
         },
         {
-          "headline": "Stronger UK-EU Ties Would Strengthen Pound, JPMorgan's Gimber Says",
-          "what_happened": "JPMorgan Asset Management Global Market Strategist Hugh Gimber comments on the outlook for the UK economy following yesterday's budget, saying \"measures that brought the UK closer to the EU would enhance the prospect of strong investment over the years to come.\" He speaks before a live audience on The Opening Trade's \"After the Budget, Before the Bell\" — an exclusive event for Bloomberg subscribers in London. (Source: Bloomberg)",
+          "headline": "UK Wins Back Bond Investors With Dose of Fiscal Restraint",
+          "what_happened": "The rehabilitation of the UK bond market took another step forward as Prime Minister Andy Burnham’s debut budget reassured investors this week, sending yields to a five-week low.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/videos/2026-10-29/jpmorgan-says-stronger-uk-eu-ties-would-strengthen-pound-video",
-          "source_published_at": "2026-10-29T09:33:30+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/uk-wins-back-bond-investors-with-dose-of-fiscal-restraint",
+          "source_published_at": "2026-10-30T08:48:08+00:00"
         },
         {
-          "headline": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-          "what_happened": "Properties where someone has died in tragic circumstances can have big reductions in price.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "BBC Business",
-          "source_url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
-          "source_published_at": "2026-10-29T09:30:03+00:00"
-        },
-        {
-          "headline": "Euro Bearish Bias Persists in Options and Charts Before ECB",
-          "what_happened": "The euro is trading near its weakest level since May 2025 in the run-up to the European Central Bank’s interest rate meeting later Thursday, with options and technical signals pointing to the risk of further losses.",
+          "headline": "Bleak Friday Looms for Stocks: Market Analysis",
+          "what_happened": "Tom Mackenzie, Guy Johnson and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/euro-bearish-bias-persists-in-options-and-charts-before-ecb",
-          "source_published_at": "2026-10-29T09:22:58+00:00"
-        },
-        {
-          "headline": "‘Free the Onions’ Rally Sparks Debate on 68-Year-Old Trading Ban",
-          "what_happened": "Outside the Chicago Mercantile Exchange last week, a small group of university students staged an irreverent rally that sparked a serious debate among some of America’s financial elite about what can and can’t be traded.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/-free-the-onions-rally-sparks-debate-on-68-year-old-trading-ban",
-          "source_published_at": "2026-10-29T09:15:00+00:00"
-        },
-        {
-          "headline": "Bank Assets in India Hub That Competes With Singapore Jump 60%",
-          "what_happened": "Banking assets in India’s international financial hub have surged about 60% since June, a top official said, as growth in the nation’s credit markets boosts GIFT City that’s competing with Singapore and Hong Kong in attracting foreign capital.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/bank-assets-in-india-hub-that-competes-with-singapore-jump-60",
-          "source_published_at": "2026-10-29T08:57:48+00:00"
+          "source_url": "https://www.bloomberg.com/news/videos/2026-10-30/bleak-friday-looms-for-stocks-3-minutes-mliv-video",
+          "source_published_at": "2026-10-30T08:29:07+00:00"
         }
       ]
     },
@@ -84,76 +84,76 @@
       "category": "Indian Share Market",
       "stories": [
         {
-          "headline": "Bajaj Electricals exec chairman Shekhar Bajaj to become non-executive board member from January",
-          "what_happened": "Bajaj Electricals executive chairman Shekhar Bajaj will step down from his current role by the end of 2026 after leading the company for four decades. He will transition to a non-executive board position from January 1, 2027, subject to shareholder approval. The move is part of the company’s shift towards a professionally managed, board-led governance model, it said.",
+          "headline": "FIIs hold $717 billion worth of Indian stocks, but trim exposure across 56% of Nifty 500 companies. Where are they investing?",
+          "what_happened": "FIIs held $717 billion worth of Nifty 500 stocks in September 2026, with private banks accounting for the largest share of their investments. While foreign investors increased exposure to sectors such as healthcare, technology and automobiles, they trimmed holdings in 56% of Nifty 500 companies over the past year.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-electricals-exec-chairman-shekhar-bajaj-to-become-non-executive-board-member-from-january/articleshow/135300503.cms",
-          "source_published_at": "2026-10-29T10:06:09+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-hold-717-billion-worth-of-indian-stocks-but-trim-exposure-across-56-of-nifty-500-companies-where-are-they-investing/articleshow/135353242.cms",
+          "source_published_at": "2026-10-30T09:07:37+00:00"
         },
         {
-          "headline": "US Market: Microsoft, Oracle outshine Alphabet as investors demand AI returns",
-          "what_happened": "Wall Street increasingly favours technology companies demonstrating financial discipline in AI investments. Microsoft and Oracle gained on strong cash flow prospects, while Alphabet shares plunged amid rising capital expenditure and slower search growth. Investors are prioritising sustainable returns, profitability and cash generation over aggressive artificial intelligence infrastructure expansion.",
+          "headline": "Sun Pharma Q2 Results: Profit falls 36% YoY to Rs 1,989 crore on exceptional charges",
+          "what_happened": "Sun Pharma Q2 Results: Revenue from operations rose 12% YoY to Rs 16,199 crore from Rs 14,478 crore in Q2 of last financial year, supported by strong growth in its domestic formulations business and emerging markets.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-microsoft-oracle-outshine-alphabet-as-investors-demand-ai-returns/articleshow/135300442.cms",
-          "source_published_at": "2026-10-29T09:59:21+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/earnings/sun-pharma-q2-results-profit-falls-36-yoy-to-rs-1989-crore-on-exceptional-charges/articleshow/135352681.cms",
+          "source_published_at": "2026-10-30T09:02:06+00:00"
         },
         {
-          "headline": "Dean of valuation Aswath Damodaran pegs Anthropic's worth at $1.475 trillion ahead of mega IPO",
-          "what_happened": "Aswath Damodaran values Anthropic at $1.475 trillion ahead of its anticipated IPO, but warns that compute costs, slowing revenue growth, and competition could alter its outlook. His scenarios range from a negative $373 billion to $4.04 trillion in equity value.",
+          "headline": "Global Market: European automakers get earnings boost as Chinese competition weighs on recovery",
+          "what_happened": "European automakers have received a boost from recent earnings, but their recovery remains fragile. Rising competition from Chinese manufacturers, costly technological shifts and structural weaknesses continue to cloud the sector's long-term growth prospects.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dean-of-valuation-aswath-damodaran-pegs-anthropics-worth-at-1-475-trillion-ahead-of-mega-ipo/articleshow/135300228.cms",
-          "source_published_at": "2026-10-29T09:53:33+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-european-automakers-get-earnings-boost-as-chinese-competition-weighs-on-recovery/articleshow/135352780.cms",
+          "source_published_at": "2026-10-30T08:55:32+00:00"
         },
         {
-          "headline": "Global Market: Japanese investors extend foreign bond selling streak to six weeks",
-          "what_happened": "Japanese investors extended their selling streak in foreign long-term bonds to six weeks, although falling US Treasury yields slowed outflows. Meanwhile, they increased short-term bill purchases and foreign stock investments, while overseas investors returned to Japanese equities.",
+          "headline": "Varun Beverages shares fall over 4% as Q3 margin pressure weighs despite a 33% YoY revenue growth",
+          "what_happened": "Varun Beverages reported strong Q3 CY2026 revenue, profit and volume growth, but its shares fell as higher packaging costs weighed on margins. EBITDA margin declined 140 basis points year-on-year, while the company announced an interim dividend of Rs 0.50 per share.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japanese-investors-extend-foreign-bond-selling-streak-to-six-weeks/articleshow/135299602.cms",
-          "source_published_at": "2026-10-29T09:35:06+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/varun-beverages-shares-fall-over-4-as-q3-margin-pressure-weighs-despite-a-33-yoy-revenue-growth/articleshow/135352713.cms",
+          "source_published_at": "2026-10-30T08:53:44+00:00"
         },
         {
-          "headline": "RIL Q2 Results Preview: Profit outlook brightens as O2C business set to drive growth",
-          "what_happened": "Reliance Industries is expected to report 15-17% year-on-year growth in September-quarter EBITDA, driven by a sharp recovery in its oil-to-chemicals business. Brokerages expect stronger refining margins, higher throughput and a weaker rupee to offset subdued retail and oil and gas performance. Investors will track O2C profitability, Jio Platforms’ earnings and retail margins as RIL announces results.",
+          "headline": "Global Market: Binance breach rekindles fears over cryptocurrency security",
+          "what_happened": "A reported $6.3 billion breach at Binance, described as the largest crypto heist on record, has renewed concerns about digital-asset security. Binance has located about $3 billion in affected assets and pledged to cover losses. The incident joins major attacks on Bybit, Ronin Network, Wormhole and other platforms, highlighting persistent vulnerabilities across exchanges, wallets, blockchain bridges and DeFi services.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/earnings/ril-q2-results-preview-profit-outlook-brightens-as-o2c-business-set-to-drive-growth/articleshow/135299167.cms",
-          "source_published_at": "2026-10-29T09:24:40+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-binance-breach-rekindles-fears-over-cryptocurrency-security/articleshow/135351569.cms",
+          "source_published_at": "2026-10-30T08:30:16+00:00"
         },
         {
-          "headline": "Global Market: Japan bond yields steady ahead of BOJ policy decision",
-          "what_happened": "Japanese government bond yields remained largely steady ahead of the Bank of Japan’s policy decision on Friday, supported by strong demand at a two-year bond auction and gains in US Treasuries. Markets expect the BOJ to hold rates steady, while a Reuters poll points to a possible 25-basis-point hike in December.",
+          "headline": "Reliance Industries Q2 Results 2026 Live: Jio Platforms, RIL to announce Q2 results today. Brokerages expect strong numbers for RIL",
+          "what_happened": "Read the original report for details.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-bond-yields-steady-ahead-of-boj-policy-decision/articleshow/135298606.cms",
-          "source_published_at": "2026-10-29T09:20:04+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/ril-jio-platforms-q2-results-2026-live-updates-reliance-industries-jpl-quarter-2-earnings-result-fy27-revenue-dividend-share-price/liveblog/135351601.cms",
+          "source_published_at": "2026-10-30T08:27:39+00:00"
         },
         {
-          "headline": "Ambuja Cements Q2 Results: Net profit tanks 90% YoY to Rs 114 crore on tax reversal effect; revenue rises 10%",
-          "what_happened": "Ambuja Cements Q2 Results: The company reported a 90% year-on-year decline in Q2 FY27 net profit to Rs 114 crore due to a Rs 1,697 crore income tax provision reversal in the year-ago quarter. Revenue rose 10% to Rs 6,113 crore. Shareholders also approved the proposed amalgamation of ACC and Orient Cement with Ambuja, with completion expected in FY27, subject to approvals.",
+          "headline": "Global Market: Wall Street's top asset managers bet big on AI infrastructure boom",
+          "what_happened": "Wall Street’s leading alternative asset managers are ramping up investments in AI infrastructure, betting on long-term leases and creditworthy tenants to secure predictable returns. However, rising debt levels among neoclouds and concerns over AI spending returns are bringing private credit risks into focus.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/earnings/ambuja-cements-q2-results-net-profit-tanks-90-yoy-to-rs-114-crore-revenue-rises-10/articleshow/135298817.cms",
-          "source_published_at": "2026-10-29T09:13:35+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-wall-streets-top-asset-managers-bet-big-on-ai-infrastructure-boom/articleshow/135349828.cms",
+          "source_published_at": "2026-10-30T07:37:43+00:00"
         },
         {
-          "headline": "Pine Labs shares jump 7% as Q2 net profit soars 543% YoY to Rs 39 crore",
-          "what_happened": "Pine Labs shares rose sharply on Thursday after the fintech company reported a 543% year-on-year jump in Q2 FY27 net profit to Rs 38.6 crore. Revenue rose 24% to Rs 806.2 crore, while EBITDA increased 67.3%. Growth in payments, UPI transactions and international markets supported performance as the company expands into AI-led commerce.",
+          "headline": "Can AWS growth help Amazon shares rebound from the post-earnings selloff?",
+          "what_happened": "Amazon shares fell more than 9% after its third-quarter revenue and earnings missed expectations, while heavy AI investment pushed free cash flow into negative territory. AWS delivered strong growth, but cautious holiday-quarter guidance and plans for about $220 billion in 2026 capital expenditure heightened concerns over spending and future returns.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/pine-labs-shares-jump-7-as-q2-net-profit-soars-543-yoy-to-rs-39-crore/articleshow/135298034.cms",
-          "source_published_at": "2026-10-29T08:51:41+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/can-aws-growth-help-amazon-shares-rebound-from-the-post-earnings-selloff/slideshow/135350722.cms",
+          "source_published_at": "2026-10-30T07:36:10+00:00"
         }
       ]
     },
@@ -161,76 +161,76 @@
       "category": "Technology & AI",
       "stories": [
         {
-          "headline": "Google's AI search problem finally shows up in the earnings report, some investors believe",
-          "what_happened": "Google's stock dropped as much as ten percent after its quarterly earnings. Cloud revenue more than doubled to $30.7 billion, but search revenue grew just 12 percent, slower than expected. Google acknowledged that its fast-growing AI mode brings in less revenue than traditional search, and it is now expanding its AI mode ad program internationally. The article Google's AI search problem finally shows up in the earnings report, some investors believe appeared first on The Decoder .",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Decoder",
-          "source_url": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe/",
-          "source_published_at": "2026-10-29T10:16:34+00:00"
-        },
-        {
-          "headline": "AI has come for Arizona’s water",
-          "what_happened": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surround it, and it is endless. I drive past one […]",
+          "headline": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+          "what_happened": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger […]",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "The Verge AI",
-          "source_url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
-          "source_published_at": "2026-10-29T10:00:04+00:00"
+          "source_url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+          "source_published_at": "2026-10-30T09:00:00+00:00"
         },
         {
-          "headline": "I Gave My Blood to the AI Death Clock",
-          "what_happened": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Wired AI",
-          "source_url": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
-          "source_published_at": "2026-10-29T10:00:00+00:00"
-        },
-        {
-          "headline": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
-          "what_happened": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply chain.\" Even a single Made-in-USA laptop would be a surprise, because no […]",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
-          "source_published_at": "2026-10-29T02:22:46+00:00"
-        },
-        {
-          "headline": "Upwind raises $400M after walking away from Datadog acquisition offer",
-          "what_happened": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+          "headline": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+          "what_happened": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
-          "source_published_at": "2026-10-28T23:15:00+00:00"
+          "source_url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+          "source_published_at": "2026-10-30T07:01:00+00:00"
         },
         {
-          "headline": "Adam Mosseri says negativity around AI is ‘going to get worse’",
-          "what_happened": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and […]",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Verge AI",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
-          "source_published_at": "2026-10-28T23:05:39+00:00"
-        },
-        {
-          "headline": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
-          "what_happened": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
-          "source_published_at": "2026-10-28T22:47:50+00:00"
-        },
-        {
-          "headline": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-          "what_happened": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+          "headline": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+          "what_happened": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "TechCrunch AI",
-          "source_url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-          "source_published_at": "2026-10-28T21:58:32+00:00"
+          "source_url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+          "source_published_at": "2026-10-30T01:20:48+00:00"
+        },
+        {
+          "headline": "The director of Obsession put a new horror short on YouTube",
+          "what_happened": "Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short, titled \"Mama Bear,\" is nearly five minutes long. The video is pretty unnerving, and fair warning that it gets a little graphic, but it's a fun one to watch if you're looking for something scary […]",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
+          "source_published_at": "2026-10-29T23:57:18+00:00"
+        },
+        {
+          "headline": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+          "what_happened": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+          "source_published_at": "2026-10-29T23:44:56+00:00"
+        },
+        {
+          "headline": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+          "what_happened": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "TechCrunch AI",
+          "source_url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+          "source_published_at": "2026-10-29T23:42:22+00:00"
+        },
+        {
+          "headline": "Intel says it’s selling every affordable laptop chip it can make",
+          "what_happened": "During Intel's latest earnings call, CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips \"is outstripping supply.\" According to CFO David Zinsner, the chips are now sold out. Zinsner said Intel has \"seen significant growth in Wildcat Lake. It's coming exactly at the right time because it's cost-optimized and we're seeing a […]",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
+          "source_published_at": "2026-10-29T23:42:21+00:00"
+        },
+        {
+          "headline": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+          "what_happened": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
+          "source_published_at": "2026-10-29T22:27:23+00:00"
         }
       ]
     },
@@ -238,76 +238,76 @@
       "category": "Healthcare",
       "stories": [
         {
-          "headline": "Colorectal cancer in younger patients shows distinct cellular and gene-activity patterns",
-          "what_happened": "Mass General Brigham researchers from the Gene Lay Institute of Immunology and Inflammation, along with researchers at Dana-Farber Cancer Institute and the Broad Institute, have uncovered biological clues to why colorectal cancer can behave more aggressively in younger people. Published in Nature Medicine, the study—the largest of its kind—lays a foundation for understanding age-associated differences in colorectal cancer and exploring future treatments.",
+          "headline": "Cholesterol-sharing mechanism points to potential new target for pancreatic cancer treatment",
+          "what_happened": "Fox Chase Cancer Center researchers identified a potential therapeutic target for pancreatic cancer after showing that tumor growth can be slowed and immune suppression can be reduced in preclinical trials by blocking a particular protein, called anoctamin 6 (ANO6).",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-colorectal-cancer-younger-patients-distinct.html",
-          "source_published_at": "2026-10-29T10:00:05+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-10-cholesterol-mechanism-potential-pancreatic-cancer.html",
+          "source_published_at": "2026-10-30T10:00:13+00:00"
         },
         {
-          "headline": "STAT+: New atlas of colorectal tumors sheds light on why cancers in young people are more dangerous",
-          "what_happened": "A new atlas of colorectal tumors sheds light on why cancers in young people are more dangerous.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/10/29/early-onset-colorectal-cancer-dana-farber-study-qa-kimmie-ng/?utm_campaign=rss",
-          "source_published_at": "2026-10-29T10:00:00+00:00"
-        },
-        {
-          "headline": "RFK Jr. eases access to unproven peptides despite opposition from FDA scientists",
-          "what_happened": "The Trump administration on Wednesday acted to ease access to unproven peptide drugs favored by Health Secretary Robert F. Kennedy Jr. Food and Drug Administration scientific staffers had little input on the decision and opposed the changes, according to six people familiar with its development.",
+          "headline": "Nursing decisions to navigate when dying patients become unresponsive",
+          "what_happened": "Flinders University research published in the Journal of Advanced Nursing has examined how specialist palliative care nurses navigate these complex decisions and found they draw on clinical expertise, ethical judgment, close observation and family engagement to guide care during a patient's final days.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-rfk-jr-eases-access-unproven.html",
-          "source_published_at": "2026-10-29T09:18:35+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-10-nursing-decisions-dying-patients-unresponsive.html",
+          "source_published_at": "2026-10-30T09:16:19+00:00"
         },
         {
-          "headline": "Opinion: STAT+: Is AI more a partner, competitor, or crutch for biomedical scientists?",
-          "what_happened": "Biologist Paul Knoepfler asks: Could overdependence on AI make us less capable as researchers?",
+          "headline": "Opinion: What a mother’s 1834 letter about measles tells us about MAHA",
+          "what_happened": "An 1834 letter about a measles outbreak sheds light on today’s anti-vaccine movement, writes a medical historian.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/10/29/ai-science-biology-dependence-ethics-research/?utm_campaign=rss",
-          "source_published_at": "2026-10-29T08:30:00+00:00"
+          "source_url": "https://www.statnews.com/2026/10/30/maha-measles-letter-1834-pseudoscience-women/?utm_campaign=rss",
+          "source_published_at": "2026-10-30T08:30:00+00:00"
         },
         {
-          "headline": "STAT+: Biopharma industry at odds over impact of Treasury’s new China rule",
-          "what_happened": "An exemption for a common kind of biopharma deal is at the heart of disagreements over the proposal.",
+          "headline": "STAT+: FDA, CMS scramble to avoid regulatory logjam as more states look to test AI in clinical settings",
+          "what_happened": "Officials are moving behind the scenes to head off a conflict brewing between states and the federal government over regulating AI.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/10/29/biotech-licensing-deals-treasury-rules-stir-debate/?utm_campaign=rss",
-          "source_published_at": "2026-10-29T08:30:00+00:00"
+          "source_url": "https://www.statnews.com/2026/10/30/fda-cms-health-ai-regulation-state-sandboxes-run-into-federal-rules/?utm_campaign=rss",
+          "source_published_at": "2026-10-30T08:30:00+00:00"
         },
         {
-          "headline": "Politicians have failed to tackle health care affordability. It’s now voters’ rallying cry",
-          "what_happened": "As costs surge, voters are embracing more radical solutions to the crisis.",
+          "headline": "The health care issues STAT reporters are watching in the midterms",
+          "what_happened": "In this week's \"STATus Report,\" STAT reporters break down how the midterms could shape federal health and science policy, and an El-Sayed interview.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/10/29/health-care-costs-midterms-issue-out-of-pocket-series-part-6/?utm_campaign=rss",
-          "source_published_at": "2026-10-29T08:30:00+00:00"
+          "source_url": "https://www.statnews.com/2026/10/30/health-care-policy-midterm-elections-status-report-alex-hogan/?utm_campaign=rss",
+          "source_published_at": "2026-10-30T08:30:00+00:00"
         },
         {
-          "headline": "Opinion: Health care needs buyers willing to say no",
-          "what_happened": "\"The industry’s major players have little appetite for change,\" writes Anthony T. Lo Sasso.",
+          "headline": "Opinion: How Congress can fix expert advisory committees",
+          "what_happened": "“This evisceration of scientific advice is untenable,” write C. Joseph Ross Daval and Aaron S. Kesselheim.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/10/29/health-care-premiums-open-enrollment-employer-costs/?utm_campaign=rss",
-          "source_published_at": "2026-10-29T08:30:00+00:00"
+          "source_url": "https://www.statnews.com/2026/10/30/scientific-expert-advisory-committees-fda-hhs-congress/?utm_campaign=rss",
+          "source_published_at": "2026-10-30T08:30:00+00:00"
         },
         {
-          "headline": "Immune changes linked to diabetes could guide development of new cancer treatments",
-          "what_happened": "New research in The Journal of Immunology uncovers how high blood sugar (hyperglycemia) and type 1 diabetes (T1D) may protect against certain cancers like melanoma, breast and colon cancer. T1D has been associated with a decreased risk of certain cancers, but the exact reasons why have remained a mystery. New data from studies in mice now show that it could be due to changes in immune cells, called T cells, caused by hyperglycemia.",
+          "headline": "STAT+: How a simple UTI turns into a $1,756 bill",
+          "what_happened": "They visited for what they thought were obvious urgent care issues — coughs, congestion, flu — and were shocked to get bills for ER care instead, totaling thousands of dollars.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "STAT News",
+          "source_url": "https://www.statnews.com/2026/10/30/hybrid-er-urgent-care-clinics-hidden-billing-complaints-intuitive-health/?utm_campaign=rss",
+          "source_published_at": "2026-10-30T08:30:00+00:00"
+        },
+        {
+          "headline": "Passive tobacco smoke exposure linked to nonallergic atopic dermatitis severity in young children",
+          "what_happened": "Passive tobacco smoke exposure, particularly paternal smoking and postnatal household exposure, is associated with increased disease severity among children aged 0 to 2 years with nonallergic atopic dermatitis, according to a study published in Advances in Dermatology and Allergology.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-immune-linked-diabetes-cancer-treatments.html",
-          "source_published_at": "2026-10-29T04:10:05+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-10-passive-tobacco-exposure-linked-nonallergic.html",
+          "source_published_at": "2026-10-30T02:00:05+00:00"
         }
       ]
     },
@@ -315,76 +315,76 @@
       "category": "Crypto Watch",
       "stories": [
         {
-          "headline": "Thai Supreme Court rules bitcoin is property after thief challenges conviction",
-          "what_happened": "The court said bitcoin has a market price, can be cashed out and held by the public. It upheld a 10-year sentence for a man who helped the robbers.",
+          "headline": "Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5",
+          "what_happened": "The hardware wallet manufacturer has yet to examine the device, but is treating the report as credible and told buyers to move their funds.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
-          "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction",
-          "source_published_at": "2026-10-29T10:04:36+00:00"
+          "source_name": "Decrypt",
+          "source_url": "https://decrypt.co/382216/trezor-warns-cryptobilis-buyers-after-report-of-hardware-implant-in-safe-5",
+          "source_published_at": "2026-10-30T10:07:29+00:00"
         },
         {
-          "headline": "Bermuda taps WalletConnect to advance its onchain economy plan",
-          "what_happened": "Bermuda chose WalletConnect to bring crypto payments to local merchants, starting with ticketing platform PTIX in the second quarter of 2027.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/business/2026/10/29/bermuda-taps-walletconnect-to-advance-its-onchain-economy-plan",
-          "source_published_at": "2026-10-29T10:00:00+00:00"
-        },
-        {
-          "headline": "Former Swift CEO joins stablecoin firm OpenTrade as chairman",
-          "what_happened": "Lazaro Campos takes the board role as the London-based company reports $300 million in assets locked and more than $1 billion in annual transaction volume.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/business/2026/10/29/former-swift-ceo-joins-stablecoin-firm-opentrade-as-chairman-after-a-usd17-million-raise",
-          "source_published_at": "2026-10-29T09:00:00+00:00"
-        },
-        {
-          "headline": "The chart bitcoin traders should be paying attention to",
-          "what_happened": "A market at an inflection point could shape inflation trends and the prices of risk assets, from bitcoin to tech stocks.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to",
-          "source_published_at": "2026-10-29T07:44:44+00:00"
-        },
-        {
-          "headline": "Bitcoin ETFs add $137M, pushing October back into the green",
-          "what_happened": "Bitcoin ETFs drew $424 million over three days, lifting October net inflows to $111 million despite a hawkish Federal Reserve decision and weaker crypto sentiment.",
+          "headline": "THORChain’s RUNE jumps 13% after Binance’s record $6.3B hack",
+          "what_happened": "North Korean hackers previously used THORChain to move funds stolen from Bybit and Bitget, prompting calls for the protocol to intervene.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-10-29T07:32:20+00:00"
+          "source_url": "https://cointelegraph.com/markets/rune-token-surges-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-10-30T09:52:29+00:00"
         },
         {
-          "headline": "Utah files criminal charges against Kalshi, executives over alleged illegal gambling",
-          "what_happened": "Utah AG Derek Brown filed criminal charges against Kalshi, Tarek Mansour and Luana Lopes Lara for allegedly promoting online gambling.",
+          "headline": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
+          "what_happened": "Andrew Kang’s departure comes as Strategy reports $21 billion in quarterly operating income and bitcoin holdings of 848,517 BTC.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "CoinDesk",
+          "source_url": "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6",
+          "source_published_at": "2026-10-30T09:41:07+00:00"
+        },
+        {
+          "headline": "Binance Finds 'Additional Points of Breach' in $6.3B Hack",
+          "what_happened": "CEO Richard Teng said the attack was \"not a single 'one-click' action,\" as Binance confirmed about $3 billion has been frozen.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Decrypt",
+          "source_url": "https://decrypt.co/382203/binance-finds-additional-points-of-breach-in-6-3b-hack",
+          "source_published_at": "2026-10-30T09:31:59+00:00"
+        },
+        {
+          "headline": "Trezor warns CryptoBilis buyers to move funds over suspected implant",
+          "what_happened": "Trezor urged customers who bought devices from CryptoBilis since March to move their funds after a report of a suspected hardware implant.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Cointelegraph",
+          "source_url": "https://cointelegraph.com/news/trezor-cryptobilis-wallet-implant-funds-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-10-30T09:26:45+00:00"
+        },
+        {
+          "headline": "Live updates: Binance uncovers more breach points in $6.3B hack",
+          "what_happened": "Follow live updates as Binance says $6.3 billion in assets have been stolen in a major hack. Around $3 billion in stolen funds have been frozen.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Cointelegraph",
+          "source_url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-10-30T09:08:25+00:00"
+        },
+        {
+          "headline": "Coinbase Q3 net income jumps 66% as prediction markets gain traction",
+          "what_happened": "Bernstein analysts said Coinbase's expanding prediction markets and derivatives businesses helped offset weaker spot trading activity.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "The Block",
-          "source_url": "https://www.theblock.co/news/business/2026-10-29-utah-criminal-charges-kalshi-432104",
-          "source_published_at": "2026-10-29T06:40:32+00:00"
+          "source_url": "https://www.theblock.co/news/business/2026-10-30-coinbase-q3-net-income-jumps-432189",
+          "source_published_at": "2026-10-30T08:57:09+00:00"
         },
         {
-          "headline": "Here’s what happened in crypto today",
-          "what_happened": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+          "headline": "Trezor reports suspected hardware implant in Safe 5 sold by CryptoBilis",
+          "what_happened": "Trezor urged CryptoBilis buyers to migrate funds after receiving a credible report of a hardware implant inside a Safe 5 device.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-10-29T06:00:00+00:00"
-        },
-        {
-          "headline": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
-          "what_happened": "Three flaws a language-model scan dug up are the first disclosed under Core’s new rules for bugs that are easy to find.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
-          "source_published_at": "2026-10-29T05:54:39+00:00"
+          "source_name": "The Block",
+          "source_url": "https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196",
+          "source_published_at": "2026-10-30T08:55:39+00:00"
         }
       ],
       "watchlist": [
