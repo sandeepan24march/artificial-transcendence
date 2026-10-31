@@ -1,82 +1,82 @@
 {
   "title": "Daily Intelligence Briefing",
-  "published_at": "2026-10-30T10:21:16.040649+00:00",
+  "published_at": "2026-10-31T09:53:05.525656+00:00",
   "timezone": "Asia/Kolkata",
   "sections": [
     {
       "category": "Finance & Global Economy",
       "stories": [
         {
-          "headline": "South Korea's Latest Viral Youth Trend is Reading Books",
-          "what_happened": "Why are young people raised on short-form video suddenly reading books in public? Thu-Huong Ha reports on South Korea’s \"texthip\" phenomenon, where reading has become the newest cultural status symbol. (Source: Bloomberg)",
+          "headline": "Chocolate Price Spook Families for Halloween",
+          "what_happened": "Halloween candy is getting more expensive as higher labor, energy and transportation costs continue to pressure food prices. Stew Leonard Jr., CEO of Stew Leonard’s, says bags of popular candy are up about 50 cents from last year, prompting some shoppers to trade down to cheaper options. He joins Bloomberg Businessweek Daily to discuss how affordability is changing consumer behavior, and how both environmental and economic changes are impacting the business. (Source: Bloomberg)",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/videos/2026-10-30/south-korea-s-latest-viral-youth-trend-is-reading-books-video",
-          "source_published_at": "2026-10-30T10:15:46+00:00"
+          "source_url": "https://www.bloomberg.com/news/videos/2026-10-30/chocolate-price-spook-families-for-halloween-video",
+          "source_published_at": "2026-10-30T22:21:45+00:00"
         },
         {
-          "headline": "Signs of a Tech Slowdown Are the Last Thing This Market Needs",
-          "what_happened": "Earnings point to a pocket of weakness that’s pulling the Nasdaq lower.",
+          "headline": "Crypto Hack Reignites Regulatory Debate",
+          "what_happened": "A $6 billion crypto hack is putting digital-asset security back in the spotlight. Former CFTC chairman J. Christopher Giancarlo, known as “CryptoDad”, argues the attack exposed vulnerabilities at an individual firm rather than a failure of underlying blockchain technology. He is also calling for the US to take a more aggressive approach to state-sponsored cyberattacks. He joins Bloomberg Businessweek Daily to discuss the fallout from the hack and why he believes prediction markets should be regulated federally by the CFTC rather than by individual states. (Source: Bloomberg)",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/newsletters/2026-10-30/signs-of-a-tech-slowdown-are-the-last-thing-this-market-needs",
-          "source_published_at": "2026-10-30T10:13:39+00:00"
+          "source_url": "https://www.bloomberg.com/news/videos/2026-10-30/crypto-hack-reignites-regulatory-debate-video",
+          "source_published_at": "2026-10-30T22:08:41+00:00"
         },
         {
-          "headline": "Kalshi, Polymarket Piled On Media Deals Ahead of the Midterms",
-          "what_happened": "Prediction markets have become a growing source of revenue for media companies just ahead of the midterm elections, but not everyone thinks the proliferation of gambling odds in political reporting is a good thing.",
+          "headline": "Lonnie Ali & Marc Rosen on New Muhammad Ali Amazon Show",
+          "what_happened": "Lonnie Ali, Muhammad Ali's wife & Executive Producer of The Greatest, joins Marc Rosen of Authentic Brands to discuss the first authorized scripted series to take a more intimate look at Muhammad Ali beyond his boxing career. The two speak with Romaine Bostick on \"The Close\" on October 29, 2026. (Source: Bloomberg)",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/kalshi-polymarket-piled-on-media-deals-ahead-of-the-midterms",
-          "source_published_at": "2026-10-30T10:00:00+00:00"
+          "source_url": "https://www.bloomberg.com/news/videos/2026-10-30/lonnie-ali-marc-rosen-on-new-muhammad-ali-amazon-show-video",
+          "source_published_at": "2026-10-30T22:05:55+00:00"
         },
         {
-          "headline": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
-          "what_happened": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "BBC Business",
-          "source_url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-          "source_published_at": "2026-10-30T09:33:51+00:00"
-        },
-        {
-          "headline": "Genmab’s Stellar Cancer-Drug Data Fuels Stock’s $10 Billion Week",
-          "what_happened": "It’s been a breakout week for Danish biotech Genmab A/S.",
+          "headline": "Bloomberg Screentime: Streaming, AI & Creators",
+          "what_happened": "Entertainment leaders examine how streaming, AI, and the creator economy are reshaping Hollywood and the future of media. Guests include Ted Sarandos, Donna Langley, Ben Affleck, & Conan O'Brien. (Source: Bloomberg)",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/genmab-s-stellar-cancer-drug-data-fuels-stock-s-10-billion-week",
-          "source_published_at": "2026-10-30T09:01:52+00:00"
+          "source_url": "https://www.bloomberg.com/news/videos/2026-10-30/bloomberg-screentime-streaming-ai-creators-video",
+          "source_published_at": "2026-10-30T22:05:47+00:00"
         },
         {
-          "headline": "China’s Mega Banks Post Record Profits as Margins Recover",
-          "what_happened": "China’s top state banks reported their strongest quarterly profits ever, as improved margins and trading gains from bond investments outweighed sluggish loan growth in a slowing economy.",
+          "headline": "PacSun CEO: Brands Mean a Lot to Young People Today",
+          "what_happened": "Brieane Olson, CEO of PacSun, says that the retailer’s core customer is 16 to 24, while it is also tracking differences between Gen Z and Gen Alpha. Drawing on a PacSun Youth Report conducted with GlobalData and surveying 6,000 young people, Olson said mental health ranks as their top priority. She cited PACSUN’s ongoing partnership with Selena Gomez and the Rare Impact Foundation as an example of collaborations intended to have lasting value for young customers. She speaks with Romaine Bostick on \"The Close\" on October 29, 2026. (Source: Bloomberg)",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/china-s-mega-banks-report-profit-jumps-as-margins-recover",
-          "source_published_at": "2026-10-30T08:49:48+00:00"
+          "source_url": "https://www.bloomberg.com/news/videos/2026-10-30/pacsun-ceo-brands-mean-a-lot-to-young-people-today-video",
+          "source_published_at": "2026-10-30T22:01:02+00:00"
         },
         {
-          "headline": "UK Wins Back Bond Investors With Dose of Fiscal Restraint",
-          "what_happened": "The rehabilitation of the UK bond market took another step forward as Prime Minister Andy Burnham’s debut budget reassured investors this week, sending yields to a five-week low.",
+          "headline": "New Balance CEO Joe Preston on NYC Marathon Partnership",
+          "what_happened": "Joe Preston, New Balance President and CEO, discussed the company’s long-running partnership with the New York City Marathon, which he described as a key part of the brand. More than 300 New Balance associates are in the city for race week, including 200 retail staff at the Javits Center expo, where more than 100,000 visitors are expected over three days. He speaks with Romaine Bostick on \"The Close\" on October 29, 2026. (Source: Bloomberg)",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/uk-wins-back-bond-investors-with-dose-of-fiscal-restraint",
-          "source_published_at": "2026-10-30T08:48:08+00:00"
+          "source_url": "https://www.bloomberg.com/news/videos/2026-10-30/new-balance-ceo-joe-preston-on-nyc-marathon-partnership-video",
+          "source_published_at": "2026-10-30T21:59:01+00:00"
         },
         {
-          "headline": "Bleak Friday Looms for Stocks: Market Analysis",
-          "what_happened": "Tom Mackenzie, Guy Johnson and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
+          "headline": "Ice Cube on Big3 League: In a Great Position To Scale",
+          "what_happened": "Ice Cube, CEO & Co-Founder of the Big3 basketball league, says audiences want more basketball in the summer and argues that the league has helped professionalize three-on-three play. He describes basketball as a globally beloved sport and say the league is well positioned to grow, noting that it is already recognized as the world’s premier professional three-on-three league. He speaks with Romaine Bostick on \"The Close\" on October 29, 2026. (Source: Bloomberg)",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/videos/2026-10-30/bleak-friday-looms-for-stocks-3-minutes-mliv-video",
-          "source_published_at": "2026-10-30T08:29:07+00:00"
+          "source_url": "https://www.bloomberg.com/news/videos/2026-10-30/ice-cube-on-big3-league-in-a-great-position-to-scale-video",
+          "source_published_at": "2026-10-30T21:55:31+00:00"
+        },
+        {
+          "headline": "Burger King US President on Sales Turnaround",
+          "what_happened": "Burger King US and Canada President Tom Curtis discussed the chain’s comparable-sales growth, cited in the conversation as 8.4%, against an estimate of 6.2%. Curtis said growth is being driven largely by customers who had stopped visiting and are now returning, drawn by a renewed connection to the brand. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/videos/2026-10-30/burger-king-us-president-on-sales-turnaround-video",
+          "source_published_at": "2026-10-30T21:51:18+00:00"
         }
       ]
     },
@@ -84,76 +84,76 @@
       "category": "Indian Share Market",
       "stories": [
         {
-          "headline": "FIIs hold $717 billion worth of Indian stocks, but trim exposure across 56% of Nifty 500 companies. Where are they investing?",
-          "what_happened": "FIIs held $717 billion worth of Nifty 500 stocks in September 2026, with private banks accounting for the largest share of their investments. While foreign investors increased exposure to sectors such as healthcare, technology and automobiles, they trimmed holdings in 56% of Nifty 500 companies over the past year.",
+          "headline": "Silver loses more than half its value from record high: What went wrong and will it recover?",
+          "what_happened": "Silver has plunged more than 58% from its February record high of nearly $120 an ounce to around $50, as profit-booking, weaker industrial demand and shifting macroeconomic conditions weigh on prices. Geojit’s Hareesh V explains what drove the rally, why it unravelled and what could shape silver’s recovery.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-hold-717-billion-worth-of-indian-stocks-but-trim-exposure-across-56-of-nifty-500-companies-where-are-they-investing/articleshow/135353242.cms",
-          "source_published_at": "2026-10-30T09:07:37+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-loses-more-than-half-its-value-from-record-high-what-went-wrong-and-will-it-recover/articleshow/135395608.cms",
+          "source_published_at": "2026-10-31T09:03:45+00:00"
         },
         {
-          "headline": "Sun Pharma Q2 Results: Profit falls 36% YoY to Rs 1,989 crore on exceptional charges",
-          "what_happened": "Sun Pharma Q2 Results: Revenue from operations rose 12% YoY to Rs 16,199 crore from Rs 14,478 crore in Q2 of last financial year, supported by strong growth in its domestic formulations business and emerging markets.",
+          "headline": "Turnaround Story: 8 stocks shift from loss to profit in September '26 quarter",
+          "what_happened": "Eight Nifty 500 stocks, including IndusInd Bank, Tata Motors and Delhivery, moved from losses to profits in the September 2026 quarter, according to StockEdge's profitability scan.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/earnings/sun-pharma-q2-results-profit-falls-36-yoy-to-rs-1989-crore-on-exceptional-charges/articleshow/135352681.cms",
-          "source_published_at": "2026-10-30T09:02:06+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/turnaround-story-8-stocks-shift-from-loss-to-profit-in-september-26-quarter/slideshow/135395511.cms",
+          "source_published_at": "2026-10-31T08:52:12+00:00"
         },
         {
-          "headline": "Global Market: European automakers get earnings boost as Chinese competition weighs on recovery",
-          "what_happened": "European automakers have received a boost from recent earnings, but their recovery remains fragile. Rising competition from Chinese manufacturers, costly technological shifts and structural weaknesses continue to cloud the sector's long-term growth prospects.",
+          "headline": "Sebi pushes for resilient capital markets, focuses on investor protection: Chairman",
+          "what_happened": "SEBI Chairman Tuhin Kanta Pandey emphasized the importance of accessible and efficient capital markets at a recent forum. He highlighted the growth in market capitalisation with significant annual fundraising through equity and debt. The number of investors in West Bengal has dramatically increased, indicating regional market participation. Additionally, various steps have been taken to streamline compliance and fundraising processes for issuers.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-european-automakers-get-earnings-boost-as-chinese-competition-weighs-on-recovery/articleshow/135352780.cms",
-          "source_published_at": "2026-10-30T08:55:32+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-pushes-for-resilient-capital-markets-focuses-on-investor-protection-chairman/articleshow/135393379.cms",
+          "source_published_at": "2026-10-31T07:41:02+00:00"
         },
         {
-          "headline": "Varun Beverages shares fall over 4% as Q3 margin pressure weighs despite a 33% YoY revenue growth",
-          "what_happened": "Varun Beverages reported strong Q3 CY2026 revenue, profit and volume growth, but its shares fell as higher packaging costs weighed on margins. EBITDA margin declined 140 basis points year-on-year, while the company announced an interim dividend of Rs 0.50 per share.",
+          "headline": "Concurrent Gainers: 8 stocks that gain for 5 days in a row",
+          "what_happened": "Eight BSE 500 stocks gained in each of the five sessions between October 26 and 30, delivering cumulative returns of 10% to 21%.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/varun-beverages-shares-fall-over-4-as-q3-margin-pressure-weighs-despite-a-33-yoy-revenue-growth/articleshow/135352713.cms",
-          "source_published_at": "2026-10-30T08:53:44+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-8-stocks-that-gain-for-5-days-in-a-row/slideshow/135392399.cms",
+          "source_published_at": "2026-10-31T07:00:17+00:00"
         },
         {
-          "headline": "Global Market: Binance breach rekindles fears over cryptocurrency security",
-          "what_happened": "A reported $6.3 billion breach at Binance, described as the largest crypto heist on record, has renewed concerns about digital-asset security. Binance has located about $3 billion in affected assets and pledged to cover losses. The incident joins major attacks on Bybit, Ronin Network, Wormhole and other platforms, highlighting persistent vulnerabilities across exchanges, wallets, blockchain bridges and DeFi services.",
+          "headline": "ET Wealth Expo: Why market veteran S Naren thinks investors are getting gold, silver and asset allocation all wrong",
+          "what_happened": "ICICI Prudential MF's S Naren warns investors against chasing assets after spectacular rallies, highlighting how silver's 216% surge drew record ETF inflows before a 27% correction. At the ET Wealth Expo, he explained why genuine asset allocation means buying unpopular assets and why gold still deserves a place in portfolios.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-binance-breach-rekindles-fears-over-cryptocurrency-security/articleshow/135351569.cms",
-          "source_published_at": "2026-10-30T08:30:16+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/et-wealth-expo-why-market-veteran-s-naren-thinks-investors-are-getting-gold-silver-and-asset-allocation-all-wrong/articleshow/135391370.cms",
+          "source_published_at": "2026-10-31T06:35:25+00:00"
         },
         {
-          "headline": "Reliance Industries Q2 Results 2026 Live: Jio Platforms, RIL to announce Q2 results today. Brokerages expect strong numbers for RIL",
-          "what_happened": "Read the original report for details.",
+          "headline": "F&O Talk: Big break above 23,200 can open doors for 23,500 for Nifty; Sudeep Shah picks 6 stocks ahead of Diwali",
+          "what_happened": "Nifty could extend its recovery towards 23,500 if it decisively breaks above the 23,150–23,200 resistance zone, says SBI Securities' Sudeep Shah. He also shares his outlook on IT, midcap and smallcap indices, sector trends and six stocks, including TVS Motor, Coforge and ICICI Bank, ahead of Diwali.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/ril-jio-platforms-q2-results-2026-live-updates-reliance-industries-jpl-quarter-2-earnings-result-fy27-revenue-dividend-share-price/liveblog/135351601.cms",
-          "source_published_at": "2026-10-30T08:27:39+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-big-break-above-23200-can-open-doors-for-23500-for-nifty-sudeep-shah-picks-6-stocks-ahead-of-diwali/articleshow/135390885.cms",
+          "source_published_at": "2026-10-31T06:15:44+00:00"
         },
         {
-          "headline": "Global Market: Wall Street's top asset managers bet big on AI infrastructure boom",
-          "what_happened": "Wall Street’s leading alternative asset managers are ramping up investments in AI infrastructure, betting on long-term leases and creditworthy tenants to secure predictable returns. However, rising debt levels among neoclouds and concerns over AI spending returns are bringing private credit risks into focus.",
+          "headline": "IPO ahead: Value-fashion retailer Ratnadeep Retail gets Sebi nod to raise funds through public issue",
+          "what_happened": "Ratnadeep Retail has received Sebi approval to launch an IPO comprising a fresh issue of up to Rs 400 crore and an offer for sale of 1.49 crore shares. The Hyderabad-based retailer plans to use part of the proceeds to repay borrowings and expand its store network across India.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-wall-streets-top-asset-managers-bet-big-on-ai-infrastructure-boom/articleshow/135349828.cms",
-          "source_published_at": "2026-10-30T07:37:43+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-ahead-value-fashion-retailer-ratnadeep-retail-gets-sebi-nod-to-raise-funds-through-public-issue/articleshow/135389668.cms",
+          "source_published_at": "2026-10-31T05:34:32+00:00"
         },
         {
-          "headline": "Can AWS growth help Amazon shares rebound from the post-earnings selloff?",
-          "what_happened": "Amazon shares fell more than 9% after its third-quarter revenue and earnings missed expectations, while heavy AI investment pushed free cash flow into negative territory. AWS delivered strong growth, but cautious holiday-quarter guidance and plans for about $220 billion in 2026 capital expenditure heightened concerns over spending and future returns.",
+          "headline": "Diwali stock picks: SBI Securities lists 11 stocks with up to 22% upside potential. Do you own any?",
+          "what_happened": "SBI Securities has picked 11 stocks for Samvat 2083, with up to 22% upside potential. The list spans steel, hospitality, jewellery, electronics and infrastructure.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/can-aws-growth-help-amazon-shares-rebound-from-the-post-earnings-selloff/slideshow/135350722.cms",
-          "source_published_at": "2026-10-30T07:36:10+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-stock-picks-sbi-securities-lists-11-stocks-with-up-to-22-upside-potential-do-you-own-any/slideshow/135388727.cms",
+          "source_published_at": "2026-10-31T04:43:23+00:00"
         }
       ]
     },
@@ -161,76 +161,76 @@
       "category": "Technology & AI",
       "stories": [
         {
-          "headline": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-          "what_happened": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger […]",
+          "headline": "OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite",
+          "what_happened": "OpenAI raised only about $11 billion in its latest funding round, less than half of the $30 billion it was targeting. At $1.25 trillion, the valuation falls short of expectations, and major investors appear to be pulling back amid the recent tech sell-off. Meanwhile, rival Anthropic is pushing to go public as early as November. The article OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite appeared first on The Decoder .",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Decoder",
+          "source_url": "https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/",
+          "source_published_at": "2026-10-31T09:22:52+00:00"
+        },
+        {
+          "headline": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+          "what_happened": "The money behind the money is thrilled, mostly.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "source_published_at": "2026-10-31T04:16:50+00:00"
+        },
+        {
+          "headline": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+          "what_happened": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "TechCrunch AI",
+          "source_url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+          "source_published_at": "2026-10-31T01:20:05+00:00"
+        },
+        {
+          "headline": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+          "what_happened": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+          "source_published_at": "2026-10-30T23:21:23+00:00"
+        },
+        {
+          "headline": "Ollie, a privacy-focused AI assistant, is shutting down",
+          "what_happened": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "TechCrunch AI",
+          "source_url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+          "source_published_at": "2026-10-30T22:56:13+00:00"
+        },
+        {
+          "headline": "Apple Intelligence is finally coming to China with iOS 27.3",
+          "what_happened": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring […]",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "The Verge AI",
-          "source_url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-          "source_published_at": "2026-10-30T09:00:00+00:00"
+          "source_url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+          "source_published_at": "2026-10-30T22:32:53+00:00"
         },
         {
-          "headline": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
-          "what_happened": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
-          "source_published_at": "2026-10-30T07:01:00+00:00"
-        },
-        {
-          "headline": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-          "what_happened": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+          "headline": "Intel’s stock crashes, knocking $12B from government’s stake",
+          "what_happened": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "TechCrunch AI",
-          "source_url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-          "source_published_at": "2026-10-30T01:20:48+00:00"
+          "source_url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+          "source_published_at": "2026-10-30T21:54:34+00:00"
         },
         {
-          "headline": "The director of Obsession put a new horror short on YouTube",
-          "what_happened": "Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short, titled \"Mama Bear,\" is nearly five minutes long. The video is pretty unnerving, and fair warning that it gets a little graphic, but it's a fun one to watch if you're looking for something scary […]",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
-          "source_published_at": "2026-10-29T23:57:18+00:00"
-        },
-        {
-          "headline": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
-          "what_happened": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
-          "source_published_at": "2026-10-29T23:44:56+00:00"
-        },
-        {
-          "headline": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-          "what_happened": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+          "headline": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+          "what_happened": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "TechCrunch AI",
-          "source_url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-          "source_published_at": "2026-10-29T23:42:22+00:00"
-        },
-        {
-          "headline": "Intel says it’s selling every affordable laptop chip it can make",
-          "what_happened": "During Intel's latest earnings call, CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips \"is outstripping supply.\" According to CFO David Zinsner, the chips are now sold out. Zinsner said Intel has \"seen significant growth in Wildcat Lake. It's coming exactly at the right time because it's cost-optimized and we're seeing a […]",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
-          "source_published_at": "2026-10-29T23:42:21+00:00"
-        },
-        {
-          "headline": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
-          "what_happened": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
-          "source_published_at": "2026-10-29T22:27:23+00:00"
+          "source_url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+          "source_published_at": "2026-10-30T21:52:03+00:00"
         }
       ]
     },
@@ -238,76 +238,76 @@
       "category": "Healthcare",
       "stories": [
         {
-          "headline": "Cholesterol-sharing mechanism points to potential new target for pancreatic cancer treatment",
-          "what_happened": "Fox Chase Cancer Center researchers identified a potential therapeutic target for pancreatic cancer after showing that tumor growth can be slowed and immune suppression can be reduced in preclinical trials by blocking a particular protein, called anoctamin 6 (ANO6).",
+          "headline": "Personalized score uses ten blood markers to flag disease risk and assess healthy aging",
+          "what_happened": "Studies conducted in various countries indicate that approximately 60% of people over age 65 currently live with two or more chronic conditions. With the aim of reversing this trend and promoting healthy aging, European researchers have created a new personalized indicator that provides a detailed snapshot of a patient's metabolism by analyzing, with high precision, the chemicals the body produces to function.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-cholesterol-mechanism-potential-pancreatic-cancer.html",
-          "source_published_at": "2026-10-30T10:00:13+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-10-personalized-score-ten-blood-markers.html",
+          "source_published_at": "2026-10-31T02:40:07+00:00"
         },
         {
-          "headline": "Nursing decisions to navigate when dying patients become unresponsive",
-          "what_happened": "Flinders University research published in the Journal of Advanced Nursing has examined how specialist palliative care nurses navigate these complex decisions and found they draw on clinical expertise, ethical judgment, close observation and family engagement to guide care during a patient's final days.",
+          "headline": "New swab test could spare some women a painful biopsy for endometrial cancer",
+          "what_happened": "A simple vaginal swab may one day help women with abnormal bleeding learn whether they have endometrial cancer without first going through a painful biopsy.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-nursing-decisions-dying-patients-unresponsive.html",
-          "source_published_at": "2026-10-30T09:16:19+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-10-swab-women-painful-biopsy-endometrial.html",
+          "source_published_at": "2026-10-31T01:00:01+00:00"
         },
         {
-          "headline": "Opinion: What a mother’s 1834 letter about measles tells us about MAHA",
-          "what_happened": "An 1834 letter about a measles outbreak sheds light on today’s anti-vaccine movement, writes a medical historian.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/10/30/maha-measles-letter-1834-pseudoscience-women/?utm_campaign=rss",
-          "source_published_at": "2026-10-30T08:30:00+00:00"
-        },
-        {
-          "headline": "STAT+: FDA, CMS scramble to avoid regulatory logjam as more states look to test AI in clinical settings",
-          "what_happened": "Officials are moving behind the scenes to head off a conflict brewing between states and the federal government over regulating AI.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/10/30/fda-cms-health-ai-regulation-state-sandboxes-run-into-federal-rules/?utm_campaign=rss",
-          "source_published_at": "2026-10-30T08:30:00+00:00"
-        },
-        {
-          "headline": "The health care issues STAT reporters are watching in the midterms",
-          "what_happened": "In this week's \"STATus Report,\" STAT reporters break down how the midterms could shape federal health and science policy, and an El-Sayed interview.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/10/30/health-care-policy-midterm-elections-status-report-alex-hogan/?utm_campaign=rss",
-          "source_published_at": "2026-10-30T08:30:00+00:00"
-        },
-        {
-          "headline": "Opinion: How Congress can fix expert advisory committees",
-          "what_happened": "“This evisceration of scientific advice is untenable,” write C. Joseph Ross Daval and Aaron S. Kesselheim.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/10/30/scientific-expert-advisory-committees-fda-hhs-congress/?utm_campaign=rss",
-          "source_published_at": "2026-10-30T08:30:00+00:00"
-        },
-        {
-          "headline": "STAT+: How a simple UTI turns into a $1,756 bill",
-          "what_happened": "They visited for what they thought were obvious urgent care issues — coughs, congestion, flu — and were shocked to get bills for ER care instead, totaling thousands of dollars.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/10/30/hybrid-er-urgent-care-clinics-hidden-billing-complaints-intuitive-health/?utm_campaign=rss",
-          "source_published_at": "2026-10-30T08:30:00+00:00"
-        },
-        {
-          "headline": "Passive tobacco smoke exposure linked to nonallergic atopic dermatitis severity in young children",
-          "what_happened": "Passive tobacco smoke exposure, particularly paternal smoking and postnatal household exposure, is associated with increased disease severity among children aged 0 to 2 years with nonallergic atopic dermatitis, according to a study published in Advances in Dermatology and Allergology.",
+          "headline": "Acute kidney injury up for older patients, men with OD-involved hospitalization",
+          "what_happened": "Acute kidney injury (AKI) occurs more often among older patients and men with drug overdose–involved hospitalizations, while severe inpatient courses disproportionately affect younger patients, according to research published in the U.S. Centers for Disease Control and Prevention Morbidity and Mortality Weekly Report.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-passive-tobacco-exposure-linked-nonallergic.html",
-          "source_published_at": "2026-10-30T02:00:05+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-10-acute-kidney-injury-older-patients.html",
+          "source_published_at": "2026-10-30T23:20:01+00:00"
+        },
+        {
+          "headline": "Patients with psoriasis have increased risks for cataracts, cataract surgery",
+          "what_happened": "Patients with psoriasis have an increased risk for cataracts and cataract surgery, with the risks for these outcomes varying by treatment modality, according to a study published online Oct. 26 in the Journal of Dermatology.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-10-patients-psoriasis-cataracts-cataract-surgery.html",
+          "source_published_at": "2026-10-30T22:20:01+00:00"
+        },
+        {
+          "headline": "Living alone riskier for young and middle-aged adults than seniors, study indicates",
+          "what_happened": "Loneliness has been considered a major health risk for seniors, but a new study suggests younger adults might fare even worse from living by themselves. Living alone appears to increase a person's risk of death from a multitude of causes, particularly among adults 18 to 64, researchers reported in the International Journal of Epidemiology.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-10-riskier-young-middle-aged-adults.html",
+          "source_published_at": "2026-10-30T21:40:04+00:00"
+        },
+        {
+          "headline": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines",
+          "what_happened": "Amish and Mennonite shoppers in conservative dress mingled with shoppers from the wider public on a recent Friday at a vast outdoor market here, where vendors sold colorful pumpkins and mums, fry pies and squash, sports jerseys and Barbie accessories.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-10-historic-measles-outbreak-pennsylvania-amish.html",
+          "source_published_at": "2026-10-30T21:00:01+00:00"
+        },
+        {
+          "headline": "7 predictors of renal dysfunction identified in patients with IBD",
+          "what_happened": "For patients with inflammatory bowel disease (IBD), predictors of renal dysfunction have been identified and include osteoporosis, enteral nutrition, and intestinal surgery, according to a study published in BMC Gastroenterology.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-10-predictors-renal-dysfunction-patients-ibd.html",
+          "source_published_at": "2026-10-30T20:00:11+00:00"
+        },
+        {
+          "headline": "Employer, Pharmacy Advocates Applaud DOL Final Rule on PBMs",
+          "what_happened": "The Department of Labor finalized a rule that seeks to bring more transparency into PBM compensation. The post Employer, Pharmacy Advocates Applaud DOL Final Rule on PBMs appeared first on MedCity News .",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "MedCity News",
+          "source_url": "https://medcitynews.com/2026/10/employer-pharmacy-advocates-applaud-dol-final-rule-on-pbms/",
+          "source_published_at": "2026-10-30T19:40:23+00:00"
         }
       ]
     },
@@ -315,76 +315,76 @@
       "category": "Crypto Watch",
       "stories": [
         {
-          "headline": "Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5",
-          "what_happened": "The hardware wallet manufacturer has yet to examine the device, but is treating the report as credible and told buyers to move their funds.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Decrypt",
-          "source_url": "https://decrypt.co/382216/trezor-warns-cryptobilis-buyers-after-report-of-hardware-implant-in-safe-5",
-          "source_published_at": "2026-10-30T10:07:29+00:00"
-        },
-        {
-          "headline": "THORChain’s RUNE jumps 13% after Binance’s record $6.3B hack",
-          "what_happened": "North Korean hackers previously used THORChain to move funds stolen from Bybit and Bitget, prompting calls for the protocol to intervene.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/markets/rune-token-surges-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-10-30T09:52:29+00:00"
-        },
-        {
-          "headline": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
-          "what_happened": "Andrew Kang’s departure comes as Strategy reports $21 billion in quarterly operating income and bitcoin holdings of 848,517 BTC.",
+          "headline": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+          "what_happened": "The 18,270 BTC haul is worth about $1.4 billion and comes within 442 coins of SpaceX’s disclosed holdings. Blockchain investigators link the attack to North Korea.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6",
-          "source_published_at": "2026-10-30T09:41:07+00:00"
+          "source_url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
+          "source_published_at": "2026-10-31T05:01:32+00:00"
         },
         {
-          "headline": "Binance Finds 'Additional Points of Breach' in $6.3B Hack",
-          "what_happened": "CEO Richard Teng said the attack was \"not a single 'one-click' action,\" as Binance confirmed about $3 billion has been frozen.",
+          "headline": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
+          "what_happened": "Anxiety about the AI boom has sent the Nasdaq 100 slumping by about 10% in just three weeks since hitting a record high on October 6, including a 4.5% drop on Friday.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "CoinDesk",
+          "source_url": "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters",
+          "source_published_at": "2026-10-31T00:48:56+00:00"
+        },
+        {
+          "headline": "Binance hackers raced to move billions before it could be frozen",
+          "what_happened": "Attackers raced to convert stolen stablecoins into crypto that issuers could not freeze as industry players like Tether and Circle moved to immobilize billions of dollars in assets.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Cointelegraph",
+          "source_url": "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-10-30T22:00:00+00:00"
+        },
+        {
+          "headline": "Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion",
+          "what_happened": "Investigators tie the $6B Binance hack to North Korea. Here's how hot-wallet signing infrastructure was compromised and where funds went.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Block",
+          "source_url": "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225",
+          "source_published_at": "2026-10-30T21:20:23+00:00"
+        },
+        {
+          "headline": "Binance Hack Shows Why Offshore Exchanges Need US Oversight, CFTC Chair Says",
+          "what_happened": "Michael Selig said the record $6.4 billion theft shows why offshore exchanges should register with the CFTC and adopt U.S.-grade cybersecurity standards.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Decrypt",
-          "source_url": "https://decrypt.co/382203/binance-finds-additional-points-of-breach-in-6-3b-hack",
-          "source_published_at": "2026-10-30T09:31:59+00:00"
+          "source_url": "https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair",
+          "source_published_at": "2026-10-30T21:16:04+00:00"
         },
         {
-          "headline": "Trezor warns CryptoBilis buyers to move funds over suspected implant",
-          "what_happened": "Trezor urged customers who bought devices from CryptoBilis since March to move their funds after a report of a suspected hardware implant.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/trezor-cryptobilis-wallet-implant-funds-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-10-30T09:26:45+00:00"
-        },
-        {
-          "headline": "Live updates: Binance uncovers more breach points in $6.3B hack",
-          "what_happened": "Follow live updates as Binance says $6.3 billion in assets have been stolen in a major hack. Around $3 billion in stolen funds have been frozen.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-10-30T09:08:25+00:00"
-        },
-        {
-          "headline": "Coinbase Q3 net income jumps 66% as prediction markets gain traction",
-          "what_happened": "Bernstein analysts said Coinbase's expanding prediction markets and derivatives businesses helped offset weaker spot trading activity.",
+          "headline": "President Trump says they’re looking into Binance hack as calls grow for crypto rules",
+          "what_happened": "Following the $6.3 billion hack of the world's largest crypto exchange, Binance, calls are growing for legislation.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "The Block",
-          "source_url": "https://www.theblock.co/news/business/2026-10-30-coinbase-q3-net-income-jumps-432189",
-          "source_published_at": "2026-10-30T08:57:09+00:00"
+          "source_url": "https://www.theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236",
+          "source_published_at": "2026-10-30T21:06:03+00:00"
         },
         {
-          "headline": "Trezor reports suspected hardware implant in Safe 5 sold by CryptoBilis",
-          "what_happened": "Trezor urged CryptoBilis buyers to migrate funds after receiving a credible report of a hardware implant inside a Safe 5 device.",
+          "headline": "Intel Stock Suffers Worst Crash in 50 Years as Weak Forecast Overshadows AI Chip Demand",
+          "what_happened": "Intel beat third-quarter earnings expectations, but warned of a prolonged PC slump, sending shares to their worst daily decline in 50 years.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Block",
-          "source_url": "https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196",
-          "source_published_at": "2026-10-30T08:55:39+00:00"
+          "source_name": "Decrypt",
+          "source_url": "https://decrypt.co/382287/intel-stock-suffers-worst-crash-in-50-years-as-weak-forecast-overshadows-ai-chip-demand",
+          "source_published_at": "2026-10-30T20:53:23+00:00"
+        },
+        {
+          "headline": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
+          "what_happened": "Analysts at Cantor Fitzgerald, TD Cowen and Compass Point say the record $6.4 billion theft is a Binance security failure, not a crypto-wide threat, pointing clients toward proxies like Coinbase, Robinhood, and Strategy.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Decrypt",
+          "source_url": "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street",
+          "source_published_at": "2026-10-30T20:06:03+00:00"
         }
       ],
       "watchlist": [
