@@ -1,82 +1,82 @@
 {
   "title": "Daily Intelligence Briefing",
-  "published_at": "2026-11-01T10:43:37.366931+00:00",
+  "published_at": "2026-11-02T11:34:07.336007+00:00",
   "timezone": "Asia/Kolkata",
   "sections": [
     {
       "category": "Finance & Global Economy",
       "stories": [
         {
-          "headline": "China to Convene Meeting on Supporting Stock Market, Reports Say",
-          "what_happened": "China’s central bank and its securities regulator will hold a meeting on Monday to discuss the use of tools designed to support the country’s capital market, according to local media.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-01/china-to-convene-meeting-on-supporting-stock-market-reports-say",
-          "source_published_at": "2026-11-01T10:08:49+00:00"
-        },
-        {
-          "headline": "Pakistan LNG Cargo Attacked Near Hormuz Had Iranian Approval",
-          "what_happened": "Pakistan negotiated with Iran to secure safe passage for liquefied natural gas carrier Al Mayeda before the ship was attacked near the Strait of Hormuz on Friday, according to people with direct knowledge of the matter.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-01/pakistan-lng-cargo-attacked-near-hormuz-had-iranian-approval",
-          "source_published_at": "2026-11-01T09:23:14+00:00"
-        },
-        {
-          "headline": "OPEC+ Set to Stick With Plan for Steady Quotas, Delegates Say",
-          "what_happened": "Major OPEC+ nations are set to stick with plans to keep oil production quotas unchanged in December, two delegates said, as conflict in the Middle East continues to curb swaths of the group’s output.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-01/opec-set-to-stick-with-plan-for-steady-quotas-delegates-say",
-          "source_published_at": "2026-11-01T09:19:37+00:00"
-        },
-        {
-          "headline": "Macau Gaming Revenue Decline Extends Despite Golden Week Boost",
-          "what_happened": "Macau’s gaming revenue declined for a fifth straight month in October, as weak spending by high-end players offset a surge in Golden Week visitors.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-01/macau-gaming-revenue-decline-extends-despite-golden-week-boost",
-          "source_published_at": "2026-11-01T05:14:49+00:00"
-        },
-        {
-          "headline": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
-          "what_happened": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
+          "headline": "Ryanair says it may freeze workers' pay and raise airfares",
+          "what_happened": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "BBC Business",
-          "source_url": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
-          "source_published_at": "2026-11-01T00:17:05+00:00"
+          "source_url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+          "source_published_at": "2026-11-02T11:27:25+00:00"
         },
         {
-          "headline": "An Asian Stock Trader’s Guide Ahead of the US Midterm Elections",
-          "what_happened": "Asia’s AI-heavy stock markets face a new US policy wildcard in the midterm elections, with the outcome potentially reshaping the tech trade and sectors from clean energy to defense.",
+          "headline": "Bloomberg News Now",
+          "what_happened": "Trump Banks on Rallies to Turn Out MAGA Faithful Again Dems Show Strength Ahead of Election Day: NYT/ Siena Polls Haley Stevens Backs GOP’s Mike Rogers in Michigan DOJ Appeals Judge’s Dismissal of AK Senate Lawsuit Gulf States Fear Fiercer Iran Retaliation If US Strikes Ukraine, Russia Report Cyberattacks on Emergency Alert Apps (Source: Bloomberg)",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-01/an-asian-stock-trader-s-guide-ahead-of-the-us-midterm-elections",
-          "source_published_at": "2026-11-01T00:00:00+00:00"
+          "source_url": "https://www.bloomberg.com/news/videos/2026-11-02/bloomberg-news-now-video",
+          "source_published_at": "2026-11-02T11:18:53+00:00"
         },
         {
-          "headline": "Turkey Picks Tax Chief to Lead Markets Board After Fund Rout",
-          "what_happened": "Turkish President Recep Tayyip Erdogan appointed Muhsin Atci, head of the nation’s tax inspection body, as chief of the Capital Markets Board to help deal with an investment fund crisis that rocked financial markets.",
+          "headline": "Chile Bond Investors Turn to Inflation-Linked Notes as Oil Soars",
+          "what_happened": "Chilean fixed income investors are flocking to index-linked notes as the war in Iran drags on into its nine month, pushing oil prices to levels not seen since April and stoking inflation expectations.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-10-31/turkey-appoints-new-top-market-regulator-in-fund-crisis-response",
-          "source_published_at": "2026-10-31T21:50:23+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-02/chile-bond-investors-turn-to-inflation-linked-notes-as-oil-soars",
+          "source_published_at": "2026-11-02T11:00:00+00:00"
         },
         {
-          "headline": "Final Countdown to Midterm Elections, Tech Stocks Tank",
-          "what_happened": "The news doesn’t stop when markets close. Hosts David Gura, Lisa Mateo and Nathan Hager bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Medical Historian and “Sleuth-Hound” Author Lindsey Fitzharris, European Commission Vice-President and Fmr. PM of Estonia Kaja Kallas, Writer & Journalist Benton Graham, NY Rep. Gregory Meeks and Journalist and Bioethicist Elizabeth Yuko. (Source: Bloomberg)",
+          "headline": "Stock Bulls Are Betting on a Bounce After the Midterms",
+          "what_happened": "Any post-vote selloff is likely to be short-lived, Morgan Stanley’s Wilson says.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/videos/2026-10-31/bloomberg-this-weekend-10-31-2026-video",
-          "source_published_at": "2026-10-31T16:13:35+00:00"
+          "source_url": "https://www.bloomberg.com/news/newsletters/2026-11-02/stock-bulls-are-betting-on-a-bounce-after-the-midterms",
+          "source_published_at": "2026-11-02T10:56:15+00:00"
+        },
+        {
+          "headline": "OPay Halts IPO To Respond To Regulatory Inquiry",
+          "what_happened": "Nigeria-focused payments platform OPay has halted its initial public offering on the New York Stock Exchange amid a regulatory inquiry. Shares of the SoftBank-backed fintech didn't begin trading as expected on Friday after the company raised 304-million dollars in a US IPO. Jennifer Zabasajja explains. (Source: Bloomberg)",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/videos/2026-11-02/opay-halts-ipo-to-respond-to-regulatory-inquiry-video",
+          "source_published_at": "2026-11-02T10:51:34+00:00"
+        },
+        {
+          "headline": "Currie Sees Permanent 'Regime Shift' in Oil Market",
+          "what_happened": "Jeff Currie, CEO and founder of Real Macro, says physical oil is pricing in a permanent \"regime shift\" in energy markets. Speaking to Bloomberg's Abeer Abu Omar at the Adipec conference in Abu Dhabi, Currie explains why Brent is close to $99 a barrel for long-dated contracts, and why the true driver isn't near-term conflict, but an aggressive push toward system-wide energy security and redundancy. (Source: Bloomberg)",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/videos/2026-11-02/currie-sees-permanent-regime-shift-in-oil-market-video",
+          "source_published_at": "2026-11-02T10:45:18+00:00"
+        },
+        {
+          "headline": "Niger Gets First Algerian Fuel Shipment, Escorted by Troops",
+          "what_happened": "Niger received its first fuel shipment from Algeria, with 53 trucks escorted by troops from both countries arriving in the northern city of Agadez, as the two African neighbors deepen energy and security ties.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-02/niger-gets-first-algerian-fuel-shipment-escorted-by-troops",
+          "source_published_at": "2026-11-02T10:28:31+00:00"
+        },
+        {
+          "headline": "Indian Bonds Rally as Oil Falls, Higher Yields Attract Buyers",
+          "what_happened": "Indian bonds gained the most in six months on Monday as crude prices extended losses, easing inflation concerns for the fuel-importing nation.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-02/indian-bonds-rally-as-oil-falls-higher-yields-attract-buyers",
+          "source_published_at": "2026-11-02T10:23:30+00:00"
         }
       ]
     },
@@ -84,76 +84,76 @@
       "category": "Indian Share Market",
       "stories": [
         {
-          "headline": "Good intentions, unintended consequences: The cost of regulation",
-          "what_happened": "Regulation is vital for protecting consumers and building trust, but unpredictable or poorly calibrated policy changes can disrupt business economics, valuations and investment.",
+          "headline": "Ashish Kacholia-owned Knowledge Marine shares jump 4% on Rs 303 crore order win; stock up 67% in 2026",
+          "what_happened": "Knowledge Marine shares gained 4.17% after securing a Rs 303.17 crore, three-year maintenance dredging contract from New Mangalore Port Authority. The company also announced a November 6 record date for its five-for-one stock split.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/good-intentions-unintended-consequences-the-cost-of-regulation/articleshow/135422850.cms",
-          "source_published_at": "2026-11-01T09:26:29+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/ashish-kacholia-owned-knowledge-marine-shares-jump-4-on-rs-303-crore-order-win-stock-up-67-in-2026/articleshow/135456344.cms",
+          "source_published_at": "2026-11-02T11:09:56+00:00"
         },
         {
-          "headline": "Global beverage majors advance India IPO plans, from DRHP filing to board approval",
-          "what_happened": "Carlsberg has filed an updated draft red herring prospectus for its potential IPO in India. Pernod Ricard continues to prepare for its proposed listing while awaiting board approval for its Indian business. Coca-Cola is exploring a potential IPO for its Indian bottling operations, emphasizing the value in the domestic market. These developments indicate a growing interest in public listings among multinational beverage companies in India.",
+          "headline": "Rupee ends little changed as traders stay cautious despite oil, dollar drop",
+          "what_happened": "The Indian rupee closed at 94.90 per dollar, trimming its earlier advances. Despite lower oil prices and a softening dollar, the rupee struggled to gain ground as traders remained wary ahead of the impending US midterm elections. Additionally, the Reserve Bank of India's increased dollar forward position suggests a possible dollar-buying approach. Overall, market sentiment reflects caution as global factors continue to influence local currency trends.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/global-beverage-majors-advance-india-ipo-plans-from-drhp-filing-to-board-approval/articleshow/135422834.cms",
-          "source_published_at": "2026-11-01T09:15:28+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/forex/rupee-ends-little-changed-as-traders-stay-cautious-despite-oil-dollar-drop/articleshow/135455769.cms",
+          "source_published_at": "2026-11-02T10:47:57+00:00"
         },
         {
-          "headline": "10 penny stocks plunge up to 70% in three months. Do you own any?",
-          "what_happened": "Ten actively traded penny stocks have fallen between 34% and 73% over the past three months, highlighting the risks associated with low-priced shares. Cropster Agro recorded the steepest decline at 73%, followed by Bridge Securities and Empower India, which dropped 55% and 50%, respectively.",
+          "headline": "Mold-Tek Packaging shares surge 17% as Q2 FY 27 profit jumps 35% YoY to Rs 21 crore",
+          "what_happened": "Mold-Tek Packaging shares surged nearly 17% after the company reported a 35.5% YoY rise in Q2 FY27 net profit and 30.5% revenue growth. Strong pharma and FMCG packaging volumes supported performance, while new product launches and expansion plans strengthened its growth outlook.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/10-penny-stocks-plunge-up-to-70-in-three-months-do-you-own-any/slideshow/135420900.cms",
-          "source_published_at": "2026-11-01T07:23:24+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/mold-tekpackagingsharessurge17-as-q2fy27profitjumps35-yoy-to-rs21crore/articleshow/135454971.cms",
+          "source_published_at": "2026-11-02T10:24:21+00:00"
         },
         {
-          "headline": "IOC, BPCL, HPCL clock Rs 30,106 cr Q2 profit, nearly 39 pc of last year's annual earnings",
-          "what_happened": "In the third quarter, spanning July to September, India's three major state-run fuel retailers announced a combined net profit of Rs 30,106 crore, reversing a previous loss of Rs 18,150 crore. This profitability surge defied the ongoing freeze on petrol and diesel prices since May. Indian Oil Corporation achieved its highest standalone quarterly net profit, buoyed by strong refining margins, yet faces ongoing challenges related to fuel under-recoveries.",
+          "headline": "Global Market: French bond yields hold steady despite Fitch downgrade warning",
+          "what_happened": "French bond yields remained steady despite Fitch downgrading the country's outlook to negative, as investors weighed fiscal concerns and political uncertainty against easing energy prices and developments in the Middle East.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/ioc-bpcl-hpcl-clock-rs-30106-cr-q2-profit-nearly-39-pc-of-last-years-annual-earnings/articleshow/135420177.cms",
-          "source_published_at": "2026-11-01T06:52:22+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-french-bond-yields-hold-steady-despite-fitch-downgrade-warning/articleshow/135454878.cms",
+          "source_published_at": "2026-11-02T10:22:02+00:00"
         },
         {
-          "headline": "Can Nifty, Sensex extend gains after rallying up to 2% last week? 4 factors to watch on Monday",
-          "what_happened": "Indian benchmark indices Sensex and Nifty ended the week higher, gaining up to 0.5%, even as broader markets declined amid rising crude oil prices above $117 a barrel. Investors will track oil price movements, foreign institutional investor (FII) activity, global cues and domestic market trends for direction. FIIs turned net buyers after a 10-week selling streak, lending support to sentiment.",
+          "headline": "Oyo parent PRISM clocks PAT of Rs 353 crore in Q1, up 17% YoY, revenue jumps 35%",
+          "what_happened": "Oyo parent PRISM reported a 35% YoY rise in Q1FY27 revenue to Rs 2,814 crore, while net profit grew 17% to Rs 353 crore. Gross Booking Value increased 30% to Rs 9,600 crore and EBITDA rose 24% to Rs 760 crore. Founder Ritesh Agarwal highlighted growth across hotels and vacation homes, technology investments and AI-led operational efficiencies.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/can-nifty-sensex-extend-gains-after-rallying-up-to-2-last-week-4-factors-to-watch-on-monday/articleshow/135419919.cms",
-          "source_published_at": "2026-11-01T06:37:22+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/earnings/oyo-parent-prism-clocks-pat-of-rs-353-crore-in-q1-up-17-yoy-revenue-jumps-35/articleshow/135454425.cms",
+          "source_published_at": "2026-11-02T10:07:54+00:00"
         },
         {
-          "headline": "FPIs pull out Rs 34,843 cr from equities in Oct; turn net buyers last week",
-          "what_happened": "Amidst rising economic fears, foreign portfolio investors withdrew Rs 34,843 crore from Indian equities in October. Although they had made significant contributions in July and August, outflows continued through September. By late October, a turnaround occurred as foreign investors became net buyers, infusing approximately Rs 6,300 crore into the market. Support from domestic institutional investors provided much-needed stability as all eyes turn to potential global impacts on investor sentiment.",
+          "headline": "Japan bond yields edge higher ahead of key JGB auctions; 10-year yield holds at 2.77%",
+          "what_happened": "Japanese government bond yields were mixed on Monday, with the 10-year benchmark holding steady at 2.77%, while the 20-year and 30-year yields rose. Investors assessed global interest rate trends ahead of a series of government debt auctions, including a 10-year bond sale on Thursday, followed by 30-year and five-year auctions later this month.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-pull-out-rs-34843-cr-from-equities-in-oct-turn-net-buyers-last-week/articleshow/135419712.cms",
-          "source_published_at": "2026-11-01T06:25:21+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/japan-bond-yields-edge-higher-ahead-of-key-jgb-auctions-10-year-yield-holds-at-2-77/articleshow/135453773.cms",
+          "source_published_at": "2026-11-02T09:42:55+00:00"
         },
         {
-          "headline": "ITC Q2 Results Preview: Profit seen falling nearly 30% YoY as cigarette tax hikes bite",
-          "what_happened": "ITC is expected to report a weak Q2, with brokerages forecasting an 8% decline in cigarette volumes and a drop of up to 29% in cigarette operating profit following tax hikes. Nuvama expects consolidated revenue to fall 3% YoY and EBITDA to decline 20%. Growth in FMCG and paper businesses could provide some cushion against the pressure.",
+          "headline": "Indian IPO market clocks record Rs 84,400 crore in H1 FY27, fundraising jumps 30%",
+          "what_happened": "India's mainboard IPO market raised a record Rs 84,400 crore in H1 FY27, up 30% year-on-year, as September saw unprecedented fundraising. Strong investor participation, confidential filings and a robust pipeline supported primary market momentum.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/earnings/itc-q2-results-preview-profit-seen-falling-nearly-30-yoy-as-cigarette-tax-hikes-bite/articleshow/135419165.cms",
-          "source_published_at": "2026-11-01T05:57:43+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-ipo-market-clocks-record-rs-84400-crore-in-h1-fy27-fundraising-jumps-30/articleshow/135453488.cms",
+          "source_published_at": "2026-11-02T09:29:56+00:00"
         },
         {
-          "headline": "Nifty IT’s 18% rally may mark a durable leadership cycle; 35,000 next: LKP's Vatsal Bhuva",
-          "what_happened": "Nifty IT’s 18% October rally could signal a sustained leadership cycle, supported by improving momentum, a bullish RSI crossover and capital rotation from global AI stocks. Analyst Vatsal Bhuva sees the index targeting 35,000. He remains cautious on Swiggy, bullish on Acutaas Chemicals, and recommends buying Persistent Systems and Eternal based on positive technical setups.",
+          "headline": "FIIs increase stake: 11 Nifty stocks rally up to 50% in FY27 so far",
+          "what_happened": "Foreign institutional investors raised their stakes in 19 Nifty 50 companies in the September 2026 quarter. Of these, 11 stocks have gained 10% to 50% in FY27 so far, reflecting strong price momentum alongside increased FII ownership.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-its-18-rally-may-mark-a-durable-leadership-cycle-35000-next-lkps-vatsal-bhuva/articleshow/135419140.cms",
-          "source_published_at": "2026-11-01T05:55:57+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-increase-stake-11-nifty-stocks-rally-up-to-50-in-fy27-so-far/slideshow/135452650.cms",
+          "source_published_at": "2026-11-02T08:54:46+00:00"
         }
       ]
     },
@@ -161,76 +161,76 @@
       "category": "Technology & AI",
       "stories": [
         {
-          "headline": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
-          "what_happened": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Wired AI",
-          "source_url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
-          "source_published_at": "2026-11-01T10:30:00+00:00"
-        },
-        {
-          "headline": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing",
-          "what_happened": "OpenAI combines the Chat and Work modes into a single interface. Starting in December, Plus, Pro, and Business plans will share a common, token-based quota for ChatGPT and Codex. More complex models consume more of this quota, while simple instant chats do not count toward it. In practice, this is likely to result in a decline in ChatGPT’s quality for heavy users on lower-cost plans. The article OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing appeared first on The Decoder .",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Decoder",
-          "source_url": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
-          "source_published_at": "2026-11-01T09:51:06+00:00"
-        },
-        {
-          "headline": "Data centers are now a midterm issue, even in Brooklyn",
-          "what_happened": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+          "headline": "Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
+          "what_happened": "Ford said it's making an \"explicit commitment\" to its customers that \"their vehicle data is safe\" with the company.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
-          "source_published_at": "2026-11-01T02:22:10+00:00"
+          "source_url": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/",
+          "source_published_at": "2026-11-02T11:00:00+00:00"
         },
         {
-          "headline": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-          "what_happened": "Apple's new CEO defended the company's current position in the AI landscape.",
+          "headline": "OpenAI prepares lobbying blitz for a post-midterm Washington",
+          "what_happened": "OpenAI is gearing up for a political lobbying and PR push after the US midterms. The article OpenAI prepares lobbying blitz for a post-midterm Washington appeared first on The Decoder .",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
-          "source_name": "TechCrunch AI",
-          "source_url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-          "source_published_at": "2026-10-31T21:41:00+00:00"
+          "source_name": "The Decoder",
+          "source_url": "https://the-decoder.com/openai-prepares-lobbying-blitz-for-a-post-midterm-washington/",
+          "source_published_at": "2026-11-02T10:47:59+00:00"
         },
         {
-          "headline": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-          "what_happened": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+          "headline": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+          "what_happened": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
-          "source_name": "TechCrunch AI",
-          "source_url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-          "source_published_at": "2026-10-31T21:36:07+00:00"
+          "source_name": "Wired AI",
+          "source_url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+          "source_published_at": "2026-11-02T10:00:00+00:00"
         },
         {
-          "headline": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-          "what_happened": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+          "headline": "The agentic web is here",
+          "what_happened": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that could address our every…",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
-          "source_name": "TechCrunch AI",
-          "source_url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-          "source_published_at": "2026-10-31T21:17:03+00:00"
+          "source_name": "MIT Technology Review",
+          "source_url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+          "source_published_at": "2026-11-02T09:35:19+00:00"
         },
         {
-          "headline": "Get in the spirit with these horrors from YouTube",
-          "what_happened": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art house shorts, cosmic horror, or […]",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
-          "source_published_at": "2026-10-31T21:06:58+00:00"
-        },
-        {
-          "headline": "Keyboards of The Verge",
-          "what_happened": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard. We've written about many keyboards over the years, from […]",
+          "headline": "Jackery made its portable power stations even smaller",
+          "what_happened": "Jackery announced a new portable power station that uses the safer and longer-lasting lithium iron phosphate (LFP) batteries the company first introduced in 2023. But what makes the new Explorer 100D stand out is that it's Jackery's smallest power station to date, measuring only 4.6 by 3.4 by 3.4 inches and weighing just 1.87 pounds. […]",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
-          "source_published_at": "2026-10-31T19:30:00+00:00"
+          "source_url": "https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate",
+          "source_published_at": "2026-11-02T05:00:00+00:00"
+        },
+        {
+          "headline": "Borrowed reading: stories from our extended colleagues",
+          "what_happened": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
+          "source_published_at": "2026-11-02T04:23:48+00:00"
+        },
+        {
+          "headline": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+          "what_happened": "Data centers are deeply unpopular. But what if we called them something else?",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "TechCrunch AI",
+          "source_url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+          "source_published_at": "2026-11-01T21:55:23+00:00"
+        },
+        {
+          "headline": "NASA hopes the commercial space industry can help save Hubble",
+          "what_happened": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless its orbit is boosted. So NASA is taking proposals from […]",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+          "source_published_at": "2026-11-01T21:09:21+00:00"
         }
       ]
     },
@@ -238,76 +238,76 @@
       "category": "Healthcare",
       "stories": [
         {
-          "headline": "Reversing radiation-activated immune suppression in cancer",
-          "what_happened": "Researchers at the University of Chicago have identified a mechanism to make immune cells reprogrammed by radiation therapy attack tumors rather than protect them. The study, published in Cancer Cell, shows that radiation activates a protein called TET2 on immune cells in bone marrow, where it removes chemical tags from RNA and locks these cells into an immune-suppressing state.",
+          "headline": "Hypertension or diabetes before pregnancy linked to higher risk of fetal heart defects",
+          "what_happened": "Women with chronic hypertension (high blood pressure before pregnancy or diagnosed before 20 weeks of pregnancy) had a 30% higher risk of having a baby with critical congenital heart disease, the most severe form of heart defects, when compared to women with normal blood pressure before and during pregnancy, according to new independent, preliminary research presented at the American Heart Association's Scientific Sessions 2026, held Nov. 6–9 in Chicago.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-reversing-immune-suppression-cancer.html",
-          "source_published_at": "2026-10-31T18:00:01+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-10-hypertension-diabetes-pregnancy-linked-higher.html",
+          "source_published_at": "2026-11-02T10:00:55+00:00"
         },
         {
-          "headline": "Twin study links artistic, but not scientific, creativity to poorer mental health",
-          "what_happened": "The relationship between creativity and mental health has attracted the interest of many psychologists over the past decades. Some past studies have found that creativity is sometimes linked to mental health difficulties, while others collected opposing or inconsistent results.",
+          "headline": "Cardiac arrest ICU admissions rose with outdoor heat, especially in women, older adults",
+          "what_happened": "As daily temperatures climbed above 90 degrees Fahrenheit (F) (32 degrees Celsius) across the U.S., so did the rate of out-of-hospital (OHCA) cardiac arrest admissions to hospitals' intensive care units (ICUs). However, the heat didn't appear to affect the overall outcomes of people admitted for cardiac arrest during heat waves compared with other times, according to new, independent, preliminary research to be presented at the American Heart Association's Resuscitation Science Symposium 2026.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-twin-links-artistic-scientific-creativity.html",
-          "source_published_at": "2026-10-31T14:20:01+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-10-cardiac-icu-admissions-rose-outdoor.html",
+          "source_published_at": "2026-11-02T10:00:51+00:00"
         },
         {
-          "headline": "Neutrophil RAGE drives early cerebrovascular injury after subarachnoid hemorrhage",
-          "what_happened": "An international research team from Japan and the United States, led by Assistant Professor Hiroshi Ishii and Professor Osamu Hori, together with Professors Yasuhiko Yamamoto and Mitsutoshi Nakada of Kanazawa University, has identified neutrophil RAGE (receptor for advanced glycation end products) as a key driver of early cerebrovascular injury after subarachnoid hemorrhage (SAH).",
+          "headline": "Wearable devices + AI analysis may predict high blood pressure crisis up to 3 days early",
+          "what_happened": "Using artificial intelligence (AI) to analyze patterns in measurements from a portable cuff-based blood pressure monitor and health data from a wrist-worn device may help identify when adults with stage 2 high blood pressure (blood pressure ≥140/90 mm Hg) are at increased risk of a dangerously high blood pressure episode (>180/120 mm Hg with acute end-organ damage), known as a hypertensive crisis, up to three days before it occurs, according to new, independent, preliminary research to be presented at the American Heart Association's Scientific Sessions 2026.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-neutrophil-rage-early-cerebrovascular-injury.html",
-          "source_published_at": "2026-10-31T12:00:05+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-10-wearable-devices-ai-analysis-high.html",
+          "source_published_at": "2026-11-02T10:00:46+00:00"
         },
         {
-          "headline": "Congo's Ebola deaths top 5,000 as fear of continent-wide spread mounts",
-          "what_happened": "Deaths in Congo's Ebola outbreak have topped 5,000 as the country grapples with the relentless spread of the disease and cases are recorded in other African countries, the latest government data on Saturday shows.",
+          "headline": "Cannabis use linked to an increased risk of cardiovascular disease, especially strokes",
+          "what_happened": "Cannabis use, including marijuana, appears to be linked with increased cardiovascular risk, especially for stroke, making it an important consideration for heart disease and stroke prevention and counseling, according to independent, new preliminary research to be presented at the American Heart Association's Scientific Sessions 2026. The meeting is Nov. 6–9 in Chicago.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-congo-ebola-deaths-continent-wide.html",
-          "source_published_at": "2026-10-31T11:00:02+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-10-cannabis-linked-cardiovascular-disease.html",
+          "source_published_at": "2026-11-02T10:00:43+00:00"
         },
         {
-          "headline": "STAT+: The 4 biggest ways the midterms could change health policy, according to policymakers, lobbyists, and experts",
-          "what_happened": "No matter what happens on Election Day, the midterms will have sweeping implications for American health care. More than two dozen experts on what could come next.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/10/31/midterm-election-tipping-point-healthcare-policy/?utm_campaign=rss",
-          "source_published_at": "2026-10-31T11:00:00+00:00"
-        },
-        {
-          "headline": "Treatment with norrin helps maintain healthy blood vessels and preserve vision in diabetic rats",
-          "what_happened": "Millions of people in the U.S. are affected by diabetic retinopathy, a complication of diabetes that affects the eyes. The condition is caused by damage to the blood vessels in the retina, the light-sensitive tissue at the back of the eye. At first, diabetic retinopathy might not cause any symptoms, or the problems might be mild. However, if the underlying diabetes remains poorly managed, it can lead to blindness.",
+          "headline": "Survey finds gaps in use of cardiovascular-kidney-metabolic syndrome tools",
+          "what_happened": "In a survey of health clinics participating in a new initiative to improve care for cardiovascular-kidney-metabolic (CKM) syndrome, most sites reported conducting basic screening for heart, kidney and metabolic risks. However, far fewer are using newer guideline-recommended tools such as the CKM syndrome staging framework and the American Heart Association's PREVENT (Predicting Risk of cardiovascular EVENT) equations, according to new, preliminary research presented at the American Heart Association's Scientific Sessions 2026, held Nov. 6–9 in Chicago.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-treatment-norrin-healthy-blood-vessels.html",
-          "source_published_at": "2026-10-31T10:25:29+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-10-survey-gaps-cardiovascular-kidney-metabolic.html",
+          "source_published_at": "2026-11-02T10:00:39+00:00"
         },
         {
-          "headline": "Personalized score uses ten blood markers to flag disease risk and assess healthy aging",
-          "what_happened": "Studies conducted in various countries indicate that approximately 60% of people over age 65 currently live with two or more chronic conditions. With the aim of reversing this trend and promoting healthy aging, European researchers have created a new personalized indicator that provides a detailed snapshot of a patient's metabolism by analyzing, with high precision, the chemicals the body produces to function.",
+          "headline": "Retired NFL players, notably linemen, have high risk of artery plaque, independent study shows",
+          "what_happened": "Retired NFL players may have a high risk of undiagnosed, untreated coronary artery disease (CAD) that often occurs without symptoms, according to new, independent, preliminary research presented at the American Heart Association's Scientific Sessions 2026, held Nov. 6–9 in Chicago.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-personalized-score-ten-blood-markers.html",
-          "source_published_at": "2026-10-31T02:40:07+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-10-nfl-players-notably-linemen-high.html",
+          "source_published_at": "2026-11-02T10:00:35+00:00"
         },
         {
-          "headline": "New swab test could spare some women a painful biopsy for endometrial cancer",
-          "what_happened": "A simple vaginal swab may one day help women with abnormal bleeding learn whether they have endometrial cancer without first going through a painful biopsy.",
+          "headline": "Energy drinks, stimulant products linked to cardiac arrest, heart attack in young adults",
+          "what_happened": "Caffeinated energy drinks and stimulant supplements appeared disproportionately more often in FDA reports of serious cardiovascular events, including cardiac arrest and heart attacks, especially among adults ages 18 to 34, according to new, independent, preliminary research presented at the American Heart Association's Scientific Sessions 2026, held Nov. 6–9 in Chicago.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-10-swab-women-painful-biopsy-endometrial.html",
-          "source_published_at": "2026-10-31T01:00:01+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-10-energy-products-linked-cardiac-heart.html",
+          "source_published_at": "2026-11-02T10:00:31+00:00"
+        },
+        {
+          "headline": "Non-experts with AI guidance and off-site review perform quality mobile rural heart scans",
+          "what_happened": "Artificial intelligence (AI) helped health professionals with no ultrasound experience capture quality heart scans in rural communities for review by off-site experts, according to new, independent preliminary research to be presented at the American Heart Association's Scientific Sessions 2026. The meeting takes place Nov. 6–9 in Chicago.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-10-experts-ai-guidance-site-quality.html",
+          "source_published_at": "2026-11-02T10:00:26+00:00"
         }
       ]
     },
@@ -315,76 +315,76 @@
       "category": "Crypto Watch",
       "stories": [
         {
-          "headline": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
-          "what_happened": "Binance reopens customer withdrawals following a record $6.3 billion exploit. Bitcoin leads the first phase.",
+          "headline": "Bitcoin eases to $77,900 as Binance customers pull $3.6 billion after withdrawals reopen",
+          "what_happened": "Bitcoin fell 0.4% to around $77,900 since midnight UTC as Binance customers pulled a net $3.64 billion after withdrawals reopened and ETFs lost $643 million.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
-          "source_published_at": "2026-11-01T10:35:42+00:00"
+          "source_url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen",
+          "source_published_at": "2026-11-02T11:30:00+00:00"
         },
         {
-          "headline": "Binance says phase one of withdrawals opens after $6.3B hack",
-          "what_happened": "The crypto exchange said it has begun phased withdrawals after the record hack the FBI has blamed on North Korea.",
+          "headline": "From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete?",
+          "what_happened": "Bitcoin lost 7.3% in October 2026 after another decline the previous year, despite the month’s historically strong returns, as analysts reassess seasonal signals.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-11-01T09:38:18+00:00"
+          "source_url": "https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-11-02T11:19:18+00:00"
         },
         {
-          "headline": "FBI blames North Korea for record $6.3B Binance hack",
-          "what_happened": "US agency seeks private-sector help to block further money-laundering of stolen digital assets.",
+          "headline": "Trezor lifts password ceiling after Coldcard’s $100M wallet thefts",
+          "what_happened": "Trezor cited July’s Coldcard attacks, in which strong passphrases helped protect some users whose wallet recovery information was compromised.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-11-01T07:44:38+00:00"
+          "source_url": "https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-11-02T10:46:59+00:00"
         },
         {
-          "headline": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-          "what_happened": "While the FBI listed hundreds of addresses in its notice, Chainalysis said the Binance attackers have already used \"thousands addresses,\" and expects this number to continue growing.",
+          "headline": "FBI Blames North Korea for $6B Binance Hack as Exchange Reopens Withdrawals",
+          "what_happened": "Binance saw $3.64 billion in net outflows in the first nine and a half hours after reopening withdrawals, or 2.1% of its assets, it said.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
-          "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
-          "source_published_at": "2026-11-01T01:10:05+00:00"
+          "source_name": "Decrypt",
+          "source_url": "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals",
+          "source_published_at": "2026-11-02T10:36:19+00:00"
         },
         {
-          "headline": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
-          "what_happened": "Eighteen years after Satoshi published the Bitcoin white paper, business owners are still covering the cost of a system built on bailouts, and they can protect part of their surplus by keeping it in bitcoin, argues Onramp CEO Michael Tanguma.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
-          "source_published_at": "2026-10-31T18:00:00+00:00"
-        },
-        {
-          "headline": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
-          "what_happened": "Two strangers befriended Magnus Ahmad outside a London bar. Hours later, thieves had emptied his crypto wallets, accessed his bank accounts and disabled his laptop.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
-          "source_published_at": "2026-10-31T16:09:30+00:00"
-        },
-        {
-          "headline": "Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts",
-          "what_happened": "Trade.xyz’s new ANT contract fell about 20% in its first hour on Hyperliquid. There are no shares behind it, and U.S. traders are locked out.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts",
-          "source_published_at": "2026-10-31T16:00:00+00:00"
-        },
-        {
-          "headline": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
-          "what_happened": "Less-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets through market and over-the-counter trades.",
+          "headline": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
+          "what_happened": "The HKMA plans to bring regulated stablecoins into tokenized government debt trials, while HSBC says its RedCoin stablecoin has reached 50,000 users.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-10-31T15:36:01+00:00"
+          "source_url": "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-11-02T10:14:55+00:00"
+        },
+        {
+          "headline": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
+          "what_happened": "Bitcoin price action held its 100-day moving average into the monthly close as crypto markets braced for US midterm election and tech earnings volatility.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Cointelegraph",
+          "source_url": "https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-11-02T09:41:36+00:00"
+        },
+        {
+          "headline": "Metals.io issues tokens backed by 25 tonnes of physical copper stored in Germany",
+          "what_happened": "The company is starting with $366,000 worth of copper stored in Germany, hoping to build a market for investors to own and trade physical metal onchain.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "CoinDesk",
+          "source_url": "https://www.coindesk.com/markets/2026/11/02/metals-io-issues-tokens-backed-by-25-tonnes-of-physical-copper-stored-in-germany",
+          "source_published_at": "2026-11-02T09:33:20+00:00"
+        },
+        {
+          "headline": "Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead",
+          "what_happened": "Your look at what’s coming in the week starting Nov. 2.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "CoinDesk",
+          "source_url": "https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead",
+          "source_published_at": "2026-11-02T09:04:49+00:00"
         }
       ],
       "watchlist": [
