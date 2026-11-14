@@ -1,82 +1,82 @@
 {
   "title": "Daily Intelligence Briefing",
-  "published_at": "2026-11-13T11:24:20.092832+00:00",
+  "published_at": "2026-11-14T10:46:39.360173+00:00",
   "timezone": "Asia/Kolkata",
   "sections": [
     {
       "category": "Finance & Global Economy",
       "stories": [
         {
-          "headline": "That Haven Trade in Treasury Bonds Didn’t Last Long",
-          "what_happened": "Inflation, hawkish Fed are pushing yields higher.",
+          "headline": "How Wall Street Is Bracing For the Post-Jensen Huang Nvidia Era",
+          "what_happened": "The ultimate key man risk.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/newsletters/2026-11-13/that-haven-trade-in-treasury-bonds-didn-t-last-long",
-          "source_published_at": "2026-11-13T10:55:09+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/how-wall-street-is-bracing-for-the-post-jensen-huang-nvidia-era",
+          "source_published_at": "2026-11-14T09:00:19+00:00"
         },
         {
-          "headline": "What we know about the global Microsoft outage",
-          "what_happened": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+          "headline": "Odd Lots: Wall Street and the Post-Huang Nvidia Era (Podcast)",
+          "what_happened": "Nvidia's post-Jensen Huang era has just begun and there are so many open questions about the company's future. Who will the board choose to be Nvidia's next CEO? Will the government crack down on the chipmaker's business practices, particularly in Asia? And will Nvidia's uncertain position begin to spillover into the wider AI ecosystem, from the labs to data center providers? Stacy Rasgon, managing director and senior analyst at Bernstein, isn't optimistic about the short term future of Nvidia a",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/audio/2026-11-14/odd-lots-wall-street-and-the-post-huang-nvidia-era-podcast",
+          "source_published_at": "2026-11-14T09:00:00+00:00"
+        },
+        {
+          "headline": "The Oil Market Is Brimming With Crude Despite Tanker Attacks",
+          "what_happened": "More than eight months into the Iran war, smoke continues to billow from oil tankers as Tehran presses ahead with repeated attacks near the Strait of Hormuz.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/the-oil-market-is-brimming-with-crude-despite-tanker-attacks",
+          "source_published_at": "2026-11-14T08:30:00+00:00"
+        },
+        {
+          "headline": "Microsoft says services fully restored after day-long global outage",
+          "what_happened": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "BBC Business",
-          "source_url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-          "source_published_at": "2026-11-13T10:53:40+00:00"
+          "source_url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+          "source_published_at": "2026-11-14T06:42:27+00:00"
         },
         {
-          "headline": "World oil market is returning to surplus as Gulf exports recover, IEA says - Reuters",
-          "what_happened": "World oil market is returning to surplus as Gulf exports recover, IEA says Reuters",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Reuters Business (Google News RSS)",
-          "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcWtzQXhRVUlUbWQ0VVloOTVjekFCcC1XQlNXNWNRcERHNDFEbnBNTTFhZjV3Qjk5bGxCaDhoRFE1Yi1mdGNoR3JCVXY5MmQ0ODVnUWRabHowUDhYSUNKOXV5X0lLQzRBbWNabUFMTzVlMzBNOUUyWTgyeUg1cW5sRjJtUHo3TldPOEY4S19xOGwwYjlkemFibktTVTltVF94WUg5ekdJczcyUlBHOHZ0V3EtdWdjU0JOVkY4?oc=5",
-          "source_published_at": "2026-11-13T10:12:11+00:00"
-        },
-        {
-          "headline": "Mexico Graft Scandal Erodes Trust in Electoral Authority, Threatens Sheinbaum",
-          "what_happened": "Nearly half of Mexicans have little or no confidence the country’s electoral authority can organize fair elections next year, according to a new poll, as a widening graft scandal batters the institution.",
+          "headline": "China’s Market Regulator Warns of Global Asset Repricing Risks",
+          "what_happened": "Global capital markets are undergoing a new round of asset repricing and rebalancing in the face of geopolitical tensions and policy uncertainty, according to Wu Qing, chairman of the China Securities Regulatory Commission.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-13/mexico-graft-scandal-erodes-trust-in-electoral-authority-threatens-sheinbaum",
-          "source_published_at": "2026-11-13T10:00:00+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/china-s-market-regulator-warns-of-global-asset-repricing-risks",
+          "source_published_at": "2026-11-14T05:20:13+00:00"
         },
         {
-          "headline": "Africa’s Top Pension Funds Ask for About $1 Billion in Dangote’s Refinery IPO",
-          "what_happened": "Africa’s biggest money manager and Nigerian pension-fund administrators applied for almost $1 billion of shares in Dangote Petroleum Refinery and Petrochemicals FZE, according to people familiar with the matter.",
+          "headline": "China to Meet All New Power Demand With Clean Energy, CCTV Says",
+          "what_happened": "China is expected to meet all growth in power demand with new clean energy generation by 2030, China Central Television reported.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-13/africa-s-top-pension-funds-ask-for-about-1-billion-in-dangote-s-refinery-ipo",
-          "source_published_at": "2026-11-13T09:49:29+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/china-to-meet-all-new-power-demand-with-clean-energy-cctv-says",
+          "source_published_at": "2026-11-14T04:05:34+00:00"
         },
         {
-          "headline": "Brasília em Off",
-          "what_happened": "Martha Beck conta sobre os cotados para a Fazenda e a Casa Civil no quarto mandato do presidente Lula. Com edição de Patricia Xavier. (Source: Bloomberg)",
+          "headline": "Venezuela Vows to Complete Colombia Pipeline Repairs by March",
+          "what_happened": "Venezuela vowed to complete repairs on a key binational pipeline with Colombia by March, helping its neighbor offset dwindling reserves.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/videos/2026-11-13/brasilia-em-off-video",
-          "source_published_at": "2026-11-13T09:36:50+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/venezuela-vows-to-complete-colombia-pipeline-repairs-by-march",
+          "source_published_at": "2026-11-14T03:44:05+00:00"
         },
         {
-          "headline": "Heat pumps: How much heat does your home really need?",
-          "what_happened": "Knowing how much heat your home loses is important before installing a new heating system.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "BBC Business",
-          "source_url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
-          "source_published_at": "2026-11-13T09:29:25+00:00"
-        },
-        {
-          "headline": "Indonesian Stocks Notch Best Week Since June on Foreign Buying",
-          "what_happened": "Indonesia’s stocks marked their best week since mid-June as foreign investors tiptoed back into the market after months of selling.",
+          "headline": "China Railways Set Record With 4.13 Billion Trips in 10 Months",
+          "what_happened": "China’s railways carried 4.13 billion passengers in the first 10 months of 2026, up 4.7% from a year earlier, according to the Ministry of Transport.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-13/indonesian-stocks-set-for-best-week-since-june-on-foreign-buying",
-          "source_published_at": "2026-11-13T09:17:11+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/china-railways-set-record-with-4-13-billion-trips-in-10-months",
+          "source_published_at": "2026-11-14T02:04:53+00:00"
         }
       ]
     },
@@ -84,76 +84,76 @@
       "category": "Indian Share Market",
       "stories": [
         {
-          "headline": "Indian rupee snaps rising streak on hawkish Fed, oil rise",
-          "what_happened": "In the past week, the Indian rupee faced downward pressure due to escalating oil prices. Although foreign investments offered some relief, they were insufficient to trigger a notable rebound. The Reserve Bank of India is expected to step in to boost forex reserves when the rupee shows strength. Furthermore, India's trade deficit in merchandise hit a yearly peak, compounding the rupee's challenges.",
+          "headline": "Mahanadi Coalfields files RHP for proposed IPO worth nearly Rs 9,500 crore",
+          "what_happened": "Mahanadi Coalfields Ltd has filed its Red Herring Prospectus for an initial public offering with regulatory bodies. This IPO features an offer for sale of roughly 66.18 crore equity shares from Coal India, amounting to a 10 percent stake in the subsidiary MCL. The intended capital raise is around Rs 9,500 crore, with the final execution reliant on regulatory approval and market conditions.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/forex/forex-news/indian-rupee-snaps-rising-streak-on-hawkish-fed-oil-rise/articleshow/135798564.cms",
-          "source_published_at": "2026-11-13T10:11:52+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/mahanadi-coalfields-files-rhp-for-proposed-ipo-worth-nearly-rs-9500-crore/articleshow/135829640.cms",
+          "source_published_at": "2026-11-14T10:12:53+00:00"
         },
         {
-          "headline": "Cisco shares rally after earnings beat: 6 key things investors need to know",
-          "what_happened": "Cisco shares surge after strong Q1 FY2027 results, beating analyst estimates. Robust AI data-centre demand drives revenue growth, prompting the networking giant to raise its annual revenue and earnings forecasts.",
+          "headline": "Dalal Street Week Ahead: Can Nifty bulls overcome key resistance levels?",
+          "what_happened": "The Nifty's current technical structure remains positive. Although a sharp rebound from the vicinity of the 200-week moving average has significantly improved the near-term technical setup, the Index is near its overhead resistance area.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/cisco-shares-rally-after-earnings-beat-6-key-things-investors-need-to-know/slideshow/135794957.cms",
-          "source_published_at": "2026-11-13T07:40:19+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-can-nifty-bulls-overcome-key-resistance-levels/articleshow/135829497.cms",
+          "source_published_at": "2026-11-14T10:08:04+00:00"
         },
         {
-          "headline": "Tesla-SpaceX Merger: Musk eyes December deal announcement",
-          "what_happened": "Tesla and SpaceX are reportedly advancing merger talks, with a potential December announcement. The proposed $3.5 trillion-plus deal could unite their AI, robotics, automotive and aerospace businesses.",
+          "headline": "Concurrent Gainers: 8 stocks gain for 5 days in a row",
+          "what_happened": "Of these, we shortlisted 8 stocks that consistently gained throughout the period, delivering cumulative returns ranging from 7% to 11%.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/tesla-spacex-merger-musk-eyes-december-deal-announcement/slideshow/135793745.cms",
-          "source_published_at": "2026-11-13T06:53:07+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-8-stocks-gain-for-5-days-in-a-row/slideshow/135828499.cms",
+          "source_published_at": "2026-11-14T09:15:57+00:00"
         },
         {
-          "headline": "MSCI rejig: Which stocks may see the biggest inflows & outflows?",
-          "what_happened": "In a significant update, MSCI has revealed modifications to its indices, impacting several Indian stocks starting November 30. This shift is predicted to boost India's representation within the MSCI Emerging Markets Index. Notable stocks like Coforge and LIC are anticipated to attract considerable investments, while PI Industries may experience a decline.",
+          "headline": "Binance targets full reopening of withdrawals by next week",
+          "what_happened": "Binance is set to restore withdrawals across all networks and assets by the end of next week. This decision comes after recovering 95% of the $6.3 billion lost in the October hack, which the FBI attributes to North Korean actors, though the nation denies any involvement. Binance pledges to fully reimburse affected clients as operations return to normal.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/msci-rejig-which-stocks-may-see-the-biggest-inflows-amp-outflows/slideshow/135792280.cms",
-          "source_published_at": "2026-11-13T06:06:12+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/commodities/news/binance-targets-full-reopening-of-withdrawals-by-next-week/articleshow/135828102.cms",
+          "source_published_at": "2026-11-14T09:05:48+00:00"
         },
         {
-          "headline": "Carlsberg said to start road show for $600 million India IPO",
-          "what_happened": "Carlsberg is preparing a potential $600 million IPO of its Indian business, targeting a $4 billion valuation. The offering could launch as early as January 2027, comprising a 15% stake sale by its Danish parent. Strong IPO demand in India supports the listing outlook, with Carlsberg India reporting robust revenue.",
+          "headline": "Base metals lose momentum amid strong dollar and demand concerns",
+          "what_happened": "One of the key reasons behind the weakness in base metals is the strength of the US dollar. The Dollar Index (DXY) has climbed to the 103-104 range, supported by resilient US economic data, elevated Treasury yields, and expectations that the Federal Reserve may keep interest rates relatively restrictive for longer.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/carlsberg-said-to-start-road-show-for-600-million-india-ipo/articleshow/135790402.cms",
-          "source_published_at": "2026-11-13T05:15:15+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/commodities/news/base-metals-lose-momentum-amid-strong-dollar-and-demand-concerns/articleshow/135827655.cms",
+          "source_published_at": "2026-11-14T08:50:56+00:00"
         },
         {
-          "headline": "Top pension fund to buy more India state bonds on high yields",
-          "what_happened": "SBI Pension Fund plans to increase investments in state government bonds, expecting higher yields amid rising supply. The $64 billion fund is pursuing a carry-focused strategy, favouring state and corporate debt for steady income. It also plans to increase large-cap equity exposure while maintaining a cautious approach towards bond duration.",
+          "headline": "6 out of 10 top performing largecap stocks in November delivered multibagger returns in long run. Do you own any?",
+          "what_happened": "Here are the 10 largecap stocks that recorded the biggest jump in November so far, including six who have delivered multibagger returns in the longer run.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/bonds/top-pension-fund-to-buy-more-india-state-bonds-on-high-yields/articleshow/135789980.cms",
-          "source_published_at": "2026-11-13T05:01:33+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/6-out-of-10-top-performing-largecap-stocks-in-november-delivered-multibagger-returns-in-long-run-do-you-own-any/slideshow/135824732.cms",
+          "source_published_at": "2026-11-14T06:01:43+00:00"
         },
         {
-          "headline": "India bonds under pressure before debt supply; hot inflation prints pinch further",
-          "what_happened": "Indian government bonds experienced significant selling pressure ahead of a major auction for the benchmark paper. The yield on the 6.94% 2036 bond rose notably due to rising inflation in both India and the United States. The Reserve Bank of India is expected to raise interest rates again in early December due to persistent inflationary pressures. Moreover, US Treasury yields remained elevated as markets anticipate larger interest rate hikes.",
+          "headline": "Anthropic IPO buyers have more influence on price than SpaceX",
+          "what_happened": "Anthropic PBC is gearing up for its initial public offering, setting ambitious price targets to capture investor interest. The firm aspires to achieve record fundraising that could eclipse SpaceX's previous achievements. High-profile tech investors back Anthropic's private financing, indicating strong market confidence. Its traditional IPO pricing strategy, distinct from SpaceX's, positions Anthropic to navigate through the challenges of market fluctuations smoothly.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-under-pressure-before-debt-supply-hot-inflation-prints-pinch-further/articleshow/135789760.cms",
-          "source_published_at": "2026-11-13T04:46:04+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-buyers-have-more-influence-on-price-than-spacex/articleshow/135823355.cms",
+          "source_published_at": "2026-11-14T05:03:57+00:00"
         },
         {
-          "headline": "Asian Paints Share Price Live Updates: Asian Paints Volume and Price Insights",
-          "what_happened": "Read the original report for details.",
+          "headline": "Wall Street’s wild ride delivers big paydays and bigger bruises",
+          "what_happened": "Market volatility continues as investors navigate significant fluctuations in stock and bond prices this month. Despite challenging conditions, billions are flowing into both index funds and speculative assets. Retail investors are capitalizing on short-term opportunities while the overall market remains fragile. Many professional investors are taking a defensive stance, opting for high-quality assets amid economic uncertainty. This environment highlights the persistent appeal of diversified investing strategies among market participants.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/asian-paints-share-price-today-live-updates-13-nov-2026/liveblog/135789396.cms",
-          "source_published_at": "2026-11-13T04:30:39+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-streets-wild-ride-delivers-big-paydays-and-bigger-bruises/articleshow/135822826.cms",
+          "source_published_at": "2026-11-14T04:54:26+00:00"
         }
       ]
     },
@@ -161,76 +161,76 @@
       "category": "Technology & AI",
       "stories": [
         {
-          "headline": "Donald Trump really wants Tim Cook to run Nvidia",
-          "what_happened": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he thinks should take over the chipmaking giant: former Apple CEO Tim […]",
+          "headline": "Runway's open-source Praxis-1 turns video AI into a robot controller",
+          "what_happened": "Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license. The model uses knowledge from video training for robot control and leads the World Action Model category on Nvidia's RoboLab-120 benchmark. It can't yet plan complex action sequences on its own, though. The article Runway's open-source Praxis-1 turns video AI into a robot controller appeared first on The Decoder .",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Decoder",
+          "source_url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
+          "source_published_at": "2026-11-14T09:45:45+00:00"
+        },
+        {
+          "headline": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+          "what_happened": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than four hours after the stop was issued, officials announced it was lifted at 8:15PM ET and that flights will resume. It's unclear how […]",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
-          "source_published_at": "2026-11-13T00:46:07+00:00"
+          "source_url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+          "source_published_at": "2026-11-14T01:53:04+00:00"
         },
         {
-          "headline": "Xbox announces Wolfenstein 3",
-          "what_happened": "It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially announced today, just days after Bethesda also confirmed that the next Elder Scrolls game will be called The Elder Scrolls VI: Sentinel. In […]",
+          "headline": "Amazon has a plan to index the world’s online shopping data",
+          "what_happened": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their […]",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
-          "source_published_at": "2026-11-13T00:11:44+00:00"
+          "source_name": "The Verge AI",
+          "source_url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+          "source_published_at": "2026-11-13T23:49:11+00:00"
         },
         {
-          "headline": "Whoop launched a social network where every user has a ‘verified heartbeat’",
-          "what_happened": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like \"Moments\" with photos and captions, and add comments and reactions on other members' posts. Whoop claims its platform is \"entirely human,\" […]",
+          "headline": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+          "what_happened": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
-          "source_published_at": "2026-11-12T23:43:22+00:00"
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+          "source_published_at": "2026-11-13T23:00:00+00:00"
         },
         {
-          "headline": "Humble Bundle redesign removes two-factor verification from settings",
-          "what_happened": "The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku. PC Gamer also points out that there are Humble Bundle support pages discussing two-factor verification, and the writer […]",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
-          "source_published_at": "2026-11-12T23:30:52+00:00"
-        },
-        {
-          "headline": "Microsoft Outlook is still down",
-          "what_happened": "Since just before 1PM ET on Thursday, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft quickly acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which […]",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
-          "source_published_at": "2026-11-12T23:24:13+00:00"
-        },
-        {
-          "headline": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
-          "what_happened": "Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move the Xbox Guide menu to the right-hand side. \"Xbox Insiders can now save favorite dynamic backgrounds and shuffle through them automatically,\" […]",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
-          "source_published_at": "2026-11-12T23:00:00+00:00"
-        },
-        {
-          "headline": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-          "what_happened": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+          "headline": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+          "what_happened": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "TechCrunch AI",
-          "source_url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-          "source_published_at": "2026-11-12T22:42:51+00:00"
+          "source_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+          "source_published_at": "2026-11-13T22:43:00+00:00"
         },
         {
-          "headline": "Silicon Valley Is Still Defending Jensen Huang",
-          "what_happened": "Nvidia employees and tech insiders never thought the chip king would lose his job. Despite his sudden resignation, many of them are still in denial.",
+          "headline": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+          "what_happened": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Wired AI",
-          "source_url": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
-          "source_published_at": "2026-11-12T22:29:43+00:00"
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+          "source_published_at": "2026-11-13T21:44:38+00:00"
+        },
+        {
+          "headline": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+          "what_happened": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card […]",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Verge AI",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+          "source_published_at": "2026-11-13T20:45:10+00:00"
+        },
+        {
+          "headline": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
+          "what_happened": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That’s a solid $20 discount and the lowest price we’ve seen on Nothing’s newfangled wireless speaker, […]",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
+          "source_published_at": "2026-11-13T20:30:00+00:00"
         }
       ]
     },
@@ -238,76 +238,76 @@
       "category": "Healthcare",
       "stories": [
         {
-          "headline": "New test identifies people at higher risk of glaucoma, the leading cause of irreversible blindness",
-          "what_happened": "A new genetic test developed by researchers at QIMR Berghofer and Flinders University, along with international collaborators, can identify people at up to 10 times the normal risk of developing open-angle glaucoma, the most common form of the disease and the leading cause of irreversible blindness worldwide.",
+          "headline": "Researchers trial AI coach for diabetes",
+          "what_happened": "For many people with type 2 diabetes, the challenge isn't understanding what they need to do to stay well. It's doing it consistently. Managing the condition often requires a long-term commitment to healthier eating patterns, regular exercise and medication. But unlike some illnesses, diabetes can progress quietly. Missing a dose or skipping exercise may not cause immediate consequences, making it easy for healthy intentions to slip amid the demands of work, family and everyday life.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-people-higher-glaucoma-irreversible.html",
-          "source_published_at": "2026-11-13T11:00:01+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-11-trial-ai-diabetes.html",
+          "source_published_at": "2026-11-14T03:20:01+00:00"
         },
         {
-          "headline": "China approves first oral GLP-1 weight-loss pill",
-          "what_happened": "China has approved its first orally administered GLP-1 weight-loss drug, permitting Eli Lilly to sell its orforglipron pill in a market where 630 million adults could be overweight or obese by 2050.",
+          "headline": "Short-term versus chronic stress: How each one affects your body",
+          "what_happened": "Figuring out how stress affects your body can be a challenge because the answer depends on how stressed you are and for how long.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-china-oral-glp-weight-loss.html",
-          "source_published_at": "2026-11-13T10:20:01+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-11-short-term-chronic-stress-affects.html",
+          "source_published_at": "2026-11-14T00:40:01+00:00"
         },
         {
-          "headline": "What men need to know after a major update to prostate cancer guidelines",
-          "what_happened": "Middle-aged men should undergo regular screening for prostate cancer, the American Cancer Society said Thursday in a major change to its guidelines.",
+          "headline": "AHA: Discontinuing statins noninferior to continuation in older adults without known cardiovascular disease",
+          "what_happened": "It is generally safe for older adults without a history of cardiovascular disease to discontinue statins for primary prevention, according to a study published online Nov. 7 in the New England Journal of Medicine to coincide with the American Heart Association Scientific Sessions 2026, held from Nov. 6 to 9 in Chicago.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-men-major-prostate-cancer-guidelines.html",
-          "source_published_at": "2026-11-13T10:00:04+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-11-aha-discontinuing-statins-noninferior-older.html",
+          "source_published_at": "2026-11-13T23:00:02+00:00"
         },
         {
-          "headline": "The US and Mexico are on the verge of forfeiting a major health victory. Here's what to know",
-          "what_happened": "International health experts are meeting this week to determine if the United States and Mexico have forfeited one of their greatest public health victories—the elimination of measles.",
+          "headline": "STAT+: Enforcement of stringent Medicaid work requirements delayed for six months",
+          "what_happened": "Enforcement of the Trump administration's stringent new Medicaid work requirements have been delayed for six months, until July 1, 2027.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "STAT News",
+          "source_url": "https://www.statnews.com/2026/11/13/medicaid-work-requirements-implementation-delayed-six-months/?utm_campaign=rss",
+          "source_published_at": "2026-11-13T22:21:56+00:00"
+        },
+        {
+          "headline": "Zus Health Raises $33M to Make Healthcare More Connected",
+          "what_happened": "The Series B round was led by Drive Capital, with participation from Sanofi Ventures, HealthX Ventures, Alumni Ventures, Andreessen Horowitz (a16z), F-Prime, Maverick Ventures and JAZZ Venture Partners. The post Zus Health Raises $33M to Make Healthcare More Connected appeared first on MedCity News .",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "MedCity News",
+          "source_url": "https://medcitynews.com/2026/11/zus-health-raises-33m-to-make-healthcare-more-connected/",
+          "source_published_at": "2026-11-13T22:06:30+00:00"
+        },
+        {
+          "headline": "STAT+: Democrats coalesce around ‘Medicare for More,’ ‘Medikids’ proposals",
+          "what_happened": "Democrats are coalescing around a plan to offer Medicare to more Americans, if not all of them.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "STAT News",
+          "source_url": "https://www.statnews.com/2026/11/13/democrats-eye-medicare-for-more-vs-medicare-for-all/?utm_campaign=rss",
+          "source_published_at": "2026-11-13T21:46:05+00:00"
+        },
+        {
+          "headline": "Can a scent really sharpen your memory? It's complicated",
+          "what_happened": "The sense of smell shares an intimate but mysterious connection with memory. We know that past experiences can flash vividly to mind if we smell a scent that accompanied them. This has led to claims that aromatherapy can enhance memory or even diminish cognitive decline. But the mechanisms by which the brain associates experience with scent are still being unraveled, and there is mixed scientific evidence to back up such claims.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-mexico-verge-forfeiting-major-health.html",
-          "source_published_at": "2026-11-13T09:40:08+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-11-scent-sharpen-memory-complicated.html",
+          "source_published_at": "2026-11-13T21:40:06+00:00"
         },
         {
-          "headline": "Senator-elect Abdul El-Sayed on restoring trust in science, the state of public health, and RFK Jr.",
-          "what_happened": "Senator-elect Abdul El-Sayed talks to STAT about restoring trust in science, the state of public health, and RFK Jr.",
+          "headline": "Air pollution exposure tied to atopic dermatitis in children",
+          "what_happened": "Air pollution exposure is associated with increased atopic dermatitis (AD) prevalence in children, according to a review published online Nov. 9 in JAMA Pediatrics.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
-          "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/11/13/senator-abdul-el-sayed-interview-public-health-rfk-jr-trust-in-science/?utm_campaign=rss",
-          "source_published_at": "2026-11-13T09:30:00+00:00"
-        },
-        {
-          "headline": "STAT+: Oura’s acquisition of health tech startup raises conflict-of-interest questions for Eli Lilly, experts say",
-          "what_happened": "With a new deal announced this week, the relationship between Eli Lilly and a telehealth company that markets GLP-1s is expected to grow more complicated.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/11/13/oura-acquisition-counsel-health-eli-lilly/?utm_campaign=rss",
-          "source_published_at": "2026-11-13T09:30:00+00:00"
-        },
-        {
-          "headline": "5 takeaways from STAT’s investigation of the sprawling ‘three-parent IVF’ industry",
-          "what_happened": "A STAT investigation of the fertility tourism industry found that clinics are offering an unproven IVF procedure to older women. Here are 5 takeaways from the investigation.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/11/13/fertility-tourism-5-takeaways-mrt-investigation/?utm_campaign=rss",
-          "source_published_at": "2026-11-13T09:30:00+00:00"
-        },
-        {
-          "headline": "Opinion: STAT+: ‘What will I do with the time I have left?’: What it’s like to find out you might develop Alzheimer’s",
-          "what_happened": "“What people fear isn’t the end of life, the demise of the animated body, but the demise of the mind,” writes Jason Karlawish.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/11/13/alzheimers-disease-biomarker-tests-psychological-legal-challenges/?utm_campaign=rss",
-          "source_published_at": "2026-11-13T09:30:00+00:00"
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-11-air-pollution-exposure-atopic-dermatitis.html",
+          "source_published_at": "2026-11-13T21:40:04+00:00"
         }
       ]
     },
@@ -315,76 +315,76 @@
       "category": "Crypto Watch",
       "stories": [
         {
-          "headline": "Bitcoin Drops to $69K On 'Concentrated Liquidation' and 'Weakening' Demand",
-          "what_happened": "BTC dropped 5% on Friday, falling below $69,000. Experts say it was triggered by a \"concentrated liquidation\" and \"weakening\" demand.",
+          "headline": "Microsoft confirms global outage resolved, rules out cyberattack",
+          "what_happened": "Microsoft attributed the outage to a network capacity upgrade issue, confirming that the disruption was unrelated to cyberattacks or AI agents.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Cointelegraph",
+          "source_url": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-11-14T10:34:06+00:00"
+        },
+        {
+          "headline": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+          "what_happened": "MegaETH co-founder Shuyao Kong said the restructuring affected employees who helped build the project’s blockchain, wallet and ecosystem.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Cointelegraph",
+          "source_url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-11-14T08:12:30+00:00"
+        },
+        {
+          "headline": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
+          "what_happened": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock’s IBIT accounting for $143.5 million and Fidelity’s FBTC shedding $41.9 million.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Cointelegraph",
+          "source_url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-11-14T06:33:13+00:00"
+        },
+        {
+          "headline": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
+          "what_happened": "In today's newsletter, Meta tests prediction-market app using points instead of cash; DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme; and more.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Block",
+          "source_url": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
+          "source_published_at": "2026-11-14T05:40:00+00:00"
+        },
+        {
+          "headline": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+          "what_happened": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "CoinDesk",
+          "source_url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+          "source_published_at": "2026-11-14T04:30:00+00:00"
+        },
+        {
+          "headline": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+          "what_happened": "Contracts that sell power to a 4% slice of the world’s bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay’s state utility calls the date final, and it has just signed a 15-year deal to power a Founders Fund-backed AI campus.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "CoinDesk",
+          "source_url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+          "source_published_at": "2026-11-13T23:30:00+00:00"
+        },
+        {
+          "headline": "Could a Former Nvidia Executive Replace Jensen Huang? Arm’s Rene Haas Emerges as Candidate",
+          "what_happened": "Nvidia's board has reportedly approached Arm's chief executive as it searches for a replacement for Jensen Huang, while some employees are pushing to bring the chipmaker's founder back as CEO.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Decrypt",
-          "source_url": "https://decrypt.co/383214/bitcoin-drops-to-69k-on-concentrated-liquidation-and-weakening-demand",
-          "source_published_at": "2026-11-13T11:20:44+00:00"
+          "source_url": "https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang",
+          "source_published_at": "2026-11-13T22:16:03+00:00"
         },
         {
-          "headline": "Congress Summons Ex-Nvidia CEO Jensen Huang, Lutnick Over Chip Exports to China",
-          "what_happened": "House panels requested December interviews with Huang and Nvidia's top lawyer as scrutiny shifts to Commerce's oversight of chip exports.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Decrypt",
-          "source_url": "https://decrypt.co/383211/congress-summons-ex-nvidia-ceo-jensen-huang-lutnick-over-chip-exports-to-china",
-          "source_published_at": "2026-11-13T10:55:54+00:00"
-        },
-        {
-          "headline": "Thailand seeks $148,000 daily cap on certain stablecoin transfers to curb money laundering",
-          "what_happened": "The draft rules also require that stablecoins be transferred only between accounts or wallets belonging to the same person.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Block",
-          "source_url": "https://www.theblock.co/news/regulation/2026-11-13-thailand-seeks-daily-stablecoin-cap-439676",
-          "source_published_at": "2026-11-13T10:16:04+00:00"
-        },
-        {
-          "headline": "JPMorgan reports 36% rise in Strategy share holdings and $540 million in BlackRock’s bitcoin ETF",
-          "what_happened": "JPMorgan reported 224,545 more Strategy shares in the third quarter as its BlackRock bitcoin ETF holdings climbed to 11.4 million shares.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Block",
-          "source_url": "https://www.theblock.co/news/business/2026-11-13-jpmorgan-reports-36-rise-in-strategy-share-holdings-and-540-million-in-blackrocks-bitcoin-etf-439671",
-          "source_published_at": "2026-11-13T09:59:16+00:00"
-        },
-        {
-          "headline": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
-          "what_happened": "Unocoin said the transfers were signed outside BitGo’s platform while its account was frozen, possibly via a wallet recovery feature.",
+          "headline": "Here’s what happened in crypto today",
+          "what_happened": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/unocoin-withdrawals-halted-bitgo-wallet-transfer-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-11-13T09:58:21+00:00"
-        },
-        {
-          "headline": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
-          "what_happened": "Bitcoin price action interacted with its 200-week simple moving average for the first time since mid-August as it fell below $68,000.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-11-13T09:39:05+00:00"
-        },
-        {
-          "headline": "DOJ, CFTC sue Arkansas to block state enforcement action against Kalshi",
-          "what_happened": "Arkansas previously sued Kalshi on Nov. 4, alleging that it operated an illegal gambling platform in the state.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Block",
-          "source_url": "https://www.theblock.co/news/regulation/2026-11-13-doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi-439669",
-          "source_published_at": "2026-11-13T09:32:39+00:00"
-        },
-        {
-          "headline": "DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam",
-          "what_happened": "Authorities froze over $2.7 billion in Binance hack proceeds, while the separate FaceStealer scam stole over $400 million in 18 months.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-11-13T09:27:14+00:00"
+          "source_url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-11-13T22:08:37+00:00"
         }
       ],
       "watchlist": [
