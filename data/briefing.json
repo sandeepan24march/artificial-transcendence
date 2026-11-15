@@ -1,88 +1,106 @@
 {
   "title": "Daily Intelligence Briefing",
-  "published_at": "2026-11-14T10:46:39.360173+00:00",
+  "published_at": "2026-11-15T11:22:45.065122+00:00",
   "timezone": "Asia/Kolkata",
   "sections": [
     {
       "category": "Finance & Global Economy",
       "stories": [
         {
-          "headline": "How Wall Street Is Bracing For the Post-Jensen Huang Nvidia Era",
-          "what_happened": "The ultimate key man risk.",
+          "headline": "State Street, Pictet Call Time on Europe’s Stock Market Rally",
+          "what_happened": "For weeks, European stocks have outshone other markets, pushing higher as AI ructions tripped up benchmarks elsewhere. Now, some investors and strategists say the rare stretch of outperformance is about to end.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/how-wall-street-is-bracing-for-the-post-jensen-huang-nvidia-era",
-          "source_published_at": "2026-11-14T09:00:19+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-15/state-street-pictet-call-time-on-europe-s-stock-market-rally",
+          "source_published_at": "2026-11-15T08:00:00+00:00"
         },
         {
-          "headline": "Odd Lots: Wall Street and the Post-Huang Nvidia Era (Podcast)",
-          "what_happened": "Nvidia's post-Jensen Huang era has just begun and there are so many open questions about the company's future. Who will the board choose to be Nvidia's next CEO? Will the government crack down on the chipmaker's business practices, particularly in Asia? And will Nvidia's uncertain position begin to spillover into the wider AI ecosystem, from the labs to data center providers? Stacy Rasgon, managing director and senior analyst at Bernstein, isn't optimistic about the short term future of Nvidia a",
+          "headline": "Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless",
+          "what_happened": "Bitcoin’s latest selloff is testing the resolve of some of the cryptocurrency market’s most committed investors, as a succession of setbacks pushes prices toward their lowest levels of the year and major sources of demand weaken.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/audio/2026-11-14/odd-lots-wall-street-and-the-post-huang-nvidia-era-podcast",
-          "source_published_at": "2026-11-14T09:00:00+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-15/crypto-s-slow-motion-selloff-leaves-traders-weary-and-hopeless",
+          "source_published_at": "2026-11-15T05:10:27+00:00"
         },
         {
-          "headline": "The Oil Market Is Brimming With Crude Despite Tanker Attacks",
-          "what_happened": "More than eight months into the Iran war, smoke continues to billow from oil tankers as Tehran presses ahead with repeated attacks near the Strait of Hormuz.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/the-oil-market-is-brimming-with-crude-despite-tanker-attacks",
-          "source_published_at": "2026-11-14T08:30:00+00:00"
-        },
-        {
-          "headline": "Microsoft says services fully restored after day-long global outage",
-          "what_happened": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+          "headline": "Beauty advent calendars can cost hundreds but are they value for money?",
+          "what_happened": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "BBC Business",
-          "source_url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-          "source_published_at": "2026-11-14T06:42:27+00:00"
+          "source_url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+          "source_published_at": "2026-11-15T00:01:07+00:00"
         },
         {
-          "headline": "China’s Market Regulator Warns of Global Asset Repricing Risks",
-          "what_happened": "Global capital markets are undergoing a new round of asset repricing and rebalancing in the face of geopolitical tensions and policy uncertainty, according to Wu Qing, chairman of the China Securities Regulatory Commission.",
+          "headline": "(Digital) SpaceX Catches Starship in Novel Landing",
+          "what_happened": "(Digital) SpaceX Catches Starship in Novel Landing (Source: Bloomberg)",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/china-s-market-regulator-warns-of-global-asset-repricing-risks",
-          "source_published_at": "2026-11-14T05:20:13+00:00"
+          "source_url": "https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing",
+          "source_published_at": "2026-11-14T22:25:41+00:00"
         },
         {
-          "headline": "China to Meet All New Power Demand With Clean Energy, CCTV Says",
-          "what_happened": "China is expected to meet all growth in power demand with new clean energy generation by 2030, China Central Television reported.",
+          "headline": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
+          "what_happened": "US corporate bonds have been rallying in recent weeks, drawing the attention of money managers seeking shelter from turbulence in stocks.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/china-to-meet-all-new-power-demand-with-clean-energy-cctv-says",
-          "source_published_at": "2026-11-14T04:05:34+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly",
+          "source_published_at": "2026-11-14T20:00:00+00:00"
         },
         {
-          "headline": "Venezuela Vows to Complete Colombia Pipeline Repairs by March",
-          "what_happened": "Venezuela vowed to complete repairs on a key binational pipeline with Colombia by March, helping its neighbor offset dwindling reserves.",
+          "headline": "Nationwide Ground Stop Lifted, Nvidia Spy Scandal, Starship’s Longest Test Flight",
+          "what_happened": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Former UK Prime Minister and “Ending Alzheimer’s” Podcast Host David Cameron, Space Network Co-Founder Ross Hamilton, Axios Tech Policy Reporter Maria Curi, The Jamestown Foundation President and “Chinese Communist Espionage” Author and Former CIA Counterintelligence Analyst Peter Mattis, Poppi Co-Founder and Chief Brand Officer Allison Ellsworth and Poppi Co-Founder and Chief Product Officer Stephen Ellsworth. (Source: Bloomberg)",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/venezuela-vows-to-complete-colombia-pipeline-repairs-by-march",
-          "source_published_at": "2026-11-14T03:44:05+00:00"
+          "source_url": "https://www.bloomberg.com/news/videos/2026-11-14/bloomberg-this-weekend-11-14-2026-video",
+          "source_published_at": "2026-11-14T16:45:01+00:00"
         },
         {
-          "headline": "China Railways Set Record With 4.13 Billion Trips in 10 Months",
-          "what_happened": "China’s railways carried 4.13 billion passengers in the first 10 months of 2026, up 4.7% from a year earlier, according to the Ministry of Transport.",
+          "headline": "Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers",
+          "what_happened": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg’s Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/china-railways-set-record-with-4-13-billion-trips-in-10-months",
-          "source_published_at": "2026-11-14T02:04:53+00:00"
+          "source_url": "https://www.bloomberg.com/news/videos/2026-11-14/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+          "source_published_at": "2026-11-14T16:22:29+00:00"
+        },
+        {
+          "headline": "The Entrepreneurs Behind Poppi Start Over",
+          "what_happened": "Poppi founders Allison and Stephen Ellsworth tell Bloomberg This Weekend how they turned a farmers market business into a nearly $2 billion beverage brand and what they learned from the decade-long journey. Speaking with hosts David Gura and Lisa Mateo, the couple explains why they are starting over with Jetty, a new hydration brand, and how lessons about social media, hiring and building a team are shaping their second act. (Source: Bloomberg)",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/videos/2026-11-14/the-entrepreneurs-behind-poppi-start-over-video",
+          "source_published_at": "2026-11-14T16:13:04+00:00"
         }
       ]
     },
     {
       "category": "Indian Share Market",
       "stories": [
+        {
+          "headline": "Yes Bank moves SC seeking review of order on writing off of Rs 8,415 cr AT-1 bonds",
+          "what_happened": "Yes Bank has filed a petition with the Supreme Court to review an order from October 15. This order upheld a Bombay High Court ruling that quashed the bank's decision to write off AT-1 bonds. These bonds, worth Rs 8,415 crore, were questioned during Yes Bank's financial difficulties. The high court ruled that the bank's administrator lacked authority for such a write-off.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/bonds/yes-bank-moves-sc-seeking-review-of-order-on-writing-off-of-rs-8415-cr-at-1-bonds/articleshow/135830873.cms",
+          "source_published_at": "2026-11-14T11:10:38+00:00"
+        },
+        {
+          "headline": "RHI Magnesita Q2 net profit jumps 62 pc to over Rs 62 cr",
+          "what_happened": "RHI Magnesita has reported a remarkable surge in net profit, soaring to Rs 62.09 crore for the September quarter. The consolidated revenues experienced a modest increase, hitting Rs 1,038.26 crore this period. Additionally, overall expenses decreased to Rs 953.06 crore compared to the last year. EBITDA saw a 30 percent growth, reflecting operational enhancements despite challenging economic conditions.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/earnings/rhi-magnesita-q2-net-profit-jumps-62-pc-to-over-rs-62-cr/articleshow/135830890.cms",
+          "source_published_at": "2026-11-14T11:09:54+00:00"
+        },
         {
           "headline": "Mahanadi Coalfields files RHP for proposed IPO worth nearly Rs 9,500 crore",
           "what_happened": "Mahanadi Coalfields Ltd has filed its Red Herring Prospectus for an initial public offering with regulatory bodies. This IPO features an offer for sale of roughly 66.18 crore equity shares from Coal India, amounting to a 10 percent stake in the subsidiary MCL. The intended capital raise is around Rs 9,500 crore, with the final execution reliant on regulatory approval and market conditions.",
@@ -136,24 +154,6 @@
           "source_name": "Economic Times Markets",
           "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/6-out-of-10-top-performing-largecap-stocks-in-november-delivered-multibagger-returns-in-long-run-do-you-own-any/slideshow/135824732.cms",
           "source_published_at": "2026-11-14T06:01:43+00:00"
-        },
-        {
-          "headline": "Anthropic IPO buyers have more influence on price than SpaceX",
-          "what_happened": "Anthropic PBC is gearing up for its initial public offering, setting ambitious price targets to capture investor interest. The firm aspires to achieve record fundraising that could eclipse SpaceX's previous achievements. High-profile tech investors back Anthropic's private financing, indicating strong market confidence. Its traditional IPO pricing strategy, distinct from SpaceX's, positions Anthropic to navigate through the challenges of market fluctuations smoothly.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-buyers-have-more-influence-on-price-than-spacex/articleshow/135823355.cms",
-          "source_published_at": "2026-11-14T05:03:57+00:00"
-        },
-        {
-          "headline": "Wall Street’s wild ride delivers big paydays and bigger bruises",
-          "what_happened": "Market volatility continues as investors navigate significant fluctuations in stock and bond prices this month. Despite challenging conditions, billions are flowing into both index funds and speculative assets. Retail investors are capitalizing on short-term opportunities while the overall market remains fragile. Many professional investors are taking a defensive stance, opting for high-quality assets amid economic uncertainty. This environment highlights the persistent appeal of diversified investing strategies among market participants.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-streets-wild-ride-delivers-big-paydays-and-bigger-bruises/articleshow/135822826.cms",
-          "source_published_at": "2026-11-14T04:54:26+00:00"
         }
       ]
     },
@@ -161,76 +161,76 @@
       "category": "Technology & AI",
       "stories": [
         {
-          "headline": "Runway's open-source Praxis-1 turns video AI into a robot controller",
-          "what_happened": "Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license. The model uses knowledge from video training for robot control and leads the World Action Model category on Nvidia's RoboLab-120 benchmark. It can't yet plan complex action sequences on its own, though. The article Runway's open-source Praxis-1 turns video AI into a robot controller appeared first on The Decoder .",
+          "headline": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+          "what_happened": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Wired AI",
+          "source_url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+          "source_published_at": "2026-11-15T11:00:00+00:00"
+        },
+        {
+          "headline": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
+          "what_happened": "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service. Since ChatGPT launched, job postings and employment among 15- to 24-year-olds in those fields have dropped more sharply than among older workers. Author Mike Major cautions against jumping to conclusions, however, noting that business cycle shifts and remote work trends could also explain the numbers. The article Australia's central bank finds AI hitting young workers first, especially in software and customer service appeared first on The Decoder .",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "The Decoder",
-          "source_url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
-          "source_published_at": "2026-11-14T09:45:45+00:00"
+          "source_url": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
+          "source_published_at": "2026-11-15T10:45:58+00:00"
         },
         {
-          "headline": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-          "what_happened": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than four hours after the stop was issued, officials announced it was lifted at 8:15PM ET and that flights will resume. It's unclear how […]",
+          "headline": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+          "what_happened": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landing just behind Claude Opus 5. The sample deployment runs on 194 Huawei Ascend chips, and Meituan makes no mention of Nvidia GPUs. The article Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU appeared first on The Decoder .",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/news/1033489/faa-ground-stop",
-          "source_published_at": "2026-11-14T01:53:04+00:00"
+          "source_name": "The Decoder",
+          "source_url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+          "source_published_at": "2026-11-15T10:06:06+00:00"
         },
         {
-          "headline": "Amazon has a plan to index the world’s online shopping data",
-          "what_happened": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their […]",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Verge AI",
-          "source_url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-          "source_published_at": "2026-11-13T23:49:11+00:00"
-        },
-        {
-          "headline": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-          "what_happened": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
-          "source_published_at": "2026-11-13T23:00:00+00:00"
-        },
-        {
-          "headline": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-          "what_happened": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+          "headline": "Where was Nvidia’s security team?",
+          "what_happened": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "TechCrunch AI",
-          "source_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-          "source_published_at": "2026-11-13T22:43:00+00:00"
+          "source_url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+          "source_published_at": "2026-11-15T00:08:07+00:00"
         },
         {
-          "headline": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
-          "what_happened": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
-          "source_published_at": "2026-11-13T21:44:38+00:00"
-        },
-        {
-          "headline": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-          "what_happened": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card […]",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Verge AI",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-          "source_published_at": "2026-11-13T20:45:10+00:00"
-        },
-        {
-          "headline": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
-          "what_happened": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That’s a solid $20 discount and the lowest price we’ve seen on Nothing’s newfangled wireless speaker, […]",
+          "headline": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+          "what_happened": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver has successfully been executed on the Starship vehicle itself. SpaceX CEO Elon […]",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
-          "source_published_at": "2026-11-13T20:30:00+00:00"
+          "source_url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+          "source_published_at": "2026-11-14T21:44:44+00:00"
+        },
+        {
+          "headline": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+          "what_happened": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "TechCrunch AI",
+          "source_url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+          "source_published_at": "2026-11-14T21:41:22+00:00"
+        },
+        {
+          "headline": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+          "what_happened": "Even Elon Musk said the monthly fee is \"too high.\"",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+          "source_published_at": "2026-11-14T20:04:44+00:00"
+        },
+        {
+          "headline": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+          "what_happened": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. An animated Magic: The Gathering series was first teased back in 2019 with Joe and Anthony Russo at […]",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+          "source_published_at": "2026-11-14T19:47:40+00:00"
         }
       ]
     },
@@ -238,76 +238,76 @@
       "category": "Healthcare",
       "stories": [
         {
-          "headline": "Researchers trial AI coach for diabetes",
-          "what_happened": "For many people with type 2 diabetes, the challenge isn't understanding what they need to do to stay well. It's doing it consistently. Managing the condition often requires a long-term commitment to healthier eating patterns, regular exercise and medication. But unlike some illnesses, diabetes can progress quietly. Missing a dose or skipping exercise may not cause immediate consequences, making it easy for healthy intentions to slip amid the demands of work, family and everyday life.",
+          "headline": "Brain–heart interactions may predict recovery from oxygen loss",
+          "what_happened": "Low oxygen levels in the brain, or cerebral anoxia, are a leading cause of death worldwide. Patients who recover from cerebral anoxia deal with persistent neurological issues that worsen their quality of life. Building on previous work showing that brain–heart interactions can predict the severity of symptoms and survival, Diego Candia-Rivera, Sofia Carrion-Falgarona and colleagues from the Paris Brain Institute assessed whether brain–heart interactions in a rat model of severe oxygen loss can predict survival after resuscitation. The work is published in eNeuro.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-trial-ai-diabetes.html",
-          "source_published_at": "2026-11-14T03:20:01+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-11-brainheart-interactions-recovery-oxygen-loss.html",
+          "source_published_at": "2026-11-15T06:00:01+00:00"
         },
         {
-          "headline": "Short-term versus chronic stress: How each one affects your body",
-          "what_happened": "Figuring out how stress affects your body can be a challenge because the answer depends on how stressed you are and for how long.",
+          "headline": "Keep health at the center of public discussions on nuclear risk, researchers urge",
+          "what_happened": "In response to growing geopolitical tensions, editors of more than 100 international journals have jointly published an editorial urging health professionals to keep health at the center of public discussions on nuclear risk.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-short-term-chronic-stress-affects.html",
-          "source_published_at": "2026-11-14T00:40:01+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-11-health-center-discussions-nuclear-urge.html",
+          "source_published_at": "2026-11-15T00:10:01+00:00"
         },
         {
-          "headline": "AHA: Discontinuing statins noninferior to continuation in older adults without known cardiovascular disease",
-          "what_happened": "It is generally safe for older adults without a history of cardiovascular disease to discontinue statins for primary prevention, according to a study published online Nov. 7 in the New England Journal of Medicine to coincide with the American Heart Association Scientific Sessions 2026, held from Nov. 6 to 9 in Chicago.",
+          "headline": "ADHD's effects on breathing, perception and behavior",
+          "what_happened": "New attention-deficit/hyperactivity disorder (ADHD) research shows the condition influences mental and physical health across the life span. The findings were presented at Neuroscience 2026, the annual meeting of the Society for Neuroscience.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-aha-discontinuing-statins-noninferior-older.html",
-          "source_published_at": "2026-11-13T23:00:02+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-11-adhd-effects-perception-behavior.html",
+          "source_published_at": "2026-11-14T17:00:29+00:00"
         },
         {
-          "headline": "STAT+: Enforcement of stringent Medicaid work requirements delayed for six months",
-          "what_happened": "Enforcement of the Trump administration's stringent new Medicaid work requirements have been delayed for six months, until July 1, 2027.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/11/13/medicaid-work-requirements-implementation-delayed-six-months/?utm_campaign=rss",
-          "source_published_at": "2026-11-13T22:21:56+00:00"
-        },
-        {
-          "headline": "Zus Health Raises $33M to Make Healthcare More Connected",
-          "what_happened": "The Series B round was led by Drive Capital, with participation from Sanofi Ventures, HealthX Ventures, Alumni Ventures, Andreessen Horowitz (a16z), F-Prime, Maverick Ventures and JAZZ Venture Partners. The post Zus Health Raises $33M to Make Healthcare More Connected appeared first on MedCity News .",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "MedCity News",
-          "source_url": "https://medcitynews.com/2026/11/zus-health-raises-33m-to-make-healthcare-more-connected/",
-          "source_published_at": "2026-11-13T22:06:30+00:00"
-        },
-        {
-          "headline": "STAT+: Democrats coalesce around ‘Medicare for More,’ ‘Medikids’ proposals",
-          "what_happened": "Democrats are coalescing around a plan to offer Medicare to more Americans, if not all of them.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/11/13/democrats-eye-medicare-for-more-vs-medicare-for-all/?utm_campaign=rss",
-          "source_published_at": "2026-11-13T21:46:05+00:00"
-        },
-        {
-          "headline": "Can a scent really sharpen your memory? It's complicated",
-          "what_happened": "The sense of smell shares an intimate but mysterious connection with memory. We know that past experiences can flash vividly to mind if we smell a scent that accompanied them. This has led to claims that aromatherapy can enhance memory or even diminish cognitive decline. But the mechanisms by which the brain associates experience with scent are still being unraveled, and there is mixed scientific evidence to back up such claims.",
+          "headline": "Using AI to accelerate neuroscience research",
+          "what_happened": "Integrating artificial intelligence (AI) into neuroscience is changing how scientists engage with data, improving our understanding of the brain and leading to better ways of training computational models. The findings will be presented at Neuroscience 2026, the annual meeting of the Society for Neuroscience.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-scent-sharpen-memory-complicated.html",
-          "source_published_at": "2026-11-13T21:40:06+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-11-ai-neuroscience.html",
+          "source_published_at": "2026-11-14T17:00:24+00:00"
         },
         {
-          "headline": "Air pollution exposure tied to atopic dermatitis in children",
-          "what_happened": "Air pollution exposure is associated with increased atopic dermatitis (AD) prevalence in children, according to a review published online Nov. 9 in JAMA Pediatrics.",
+          "headline": "New biomarkers for Alzheimer's disease, depression and beyond",
+          "what_happened": "Newly developed biomarkers may enhance clinicians' ability to detect and treat disorders of the nervous system, including Alzheimer's disease, mood disorders and neurodevelopmental conditions. The findings were presented at Neuroscience 2026, the annual meeting of the Society for Neuroscience.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-air-pollution-exposure-atopic-dermatitis.html",
-          "source_published_at": "2026-11-13T21:40:04+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-11-biomarkers-alzheimer-disease-depression.html",
+          "source_published_at": "2026-11-14T17:00:20+00:00"
+        },
+        {
+          "headline": "Sex differences in pain, inflammation and Alzheimer's disease",
+          "what_happened": "New evidence supports the idea that differences within and between sexes impact how neurological disorders progress and respond to treatment. The findings were presented at Neuroscience 2026, the annual meeting of the Society for Neuroscience.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-11-sex-differences-pain-inflammation-alzheimer.html",
+          "source_published_at": "2026-11-14T17:00:10+00:00"
+        },
+        {
+          "headline": "Brain-computer interfaces: A new voice for people with paralysis",
+          "what_happened": "Recent advancements in brain-computer interfaces are helping restore communication in clinical trial participants who have lost the ability to speak or make voluntary movements. New findings were presented at Neuroscience 2026, the annual meeting of the Society for Neuroscience.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-11-brain-interfaces-voice-people-paralysis.html",
+          "source_published_at": "2026-11-14T17:00:06+00:00"
+        },
+        {
+          "headline": "New brain-body connections expand understanding of Alzheimer's disease",
+          "what_happened": "Research on Alzheimer's disease (AD) and aging has found strong connections between physical health and brain health. These new connections were presented at Neuroscience 2026, the annual meeting of the Society for Neuroscience.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-11-brain-body-alzheimer-disease.html",
+          "source_published_at": "2026-11-14T17:00:01+00:00"
         }
       ]
     },
@@ -315,76 +315,76 @@
       "category": "Crypto Watch",
       "stories": [
         {
-          "headline": "Microsoft confirms global outage resolved, rules out cyberattack",
-          "what_happened": "Microsoft attributed the outage to a network capacity upgrade issue, confirming that the disruption was unrelated to cyberattacks or AI agents.",
+          "headline": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+          "what_happened": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-11-14T10:34:06+00:00"
+          "source_url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-11-15T10:23:17+00:00"
         },
         {
-          "headline": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
-          "what_happened": "MegaETH co-founder Shuyao Kong said the restructuring affected employees who helped build the project’s blockchain, wallet and ecosystem.",
+          "headline": "Coinone warns of phishing, identity theft after customer data breach",
+          "what_happened": "The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-11-14T08:12:30+00:00"
+          "source_url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-11-15T08:07:58+00:00"
         },
         {
-          "headline": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
-          "what_happened": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock’s IBIT accounting for $143.5 million and Fidelity’s FBTC shedding $41.9 million.",
+          "headline": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+          "what_happened": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-11-14T06:33:13+00:00"
+          "source_url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-11-15T06:27:26+00:00"
         },
         {
-          "headline": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
-          "what_happened": "In today's newsletter, Meta tests prediction-market app using points instead of cash; DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme; and more.",
+          "headline": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+          "what_happened": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "CoinDesk",
+          "source_url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+          "source_published_at": "2026-11-15T02:50:57+00:00"
+        },
+        {
+          "headline": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
+          "what_happened": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "The Block",
-          "source_url": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
-          "source_published_at": "2026-11-14T05:40:00+00:00"
+          "source_url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
+          "source_published_at": "2026-11-14T23:07:35+00:00"
         },
         {
-          "headline": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
-          "what_happened": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May.",
+          "headline": "Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit",
+          "what_happened": "The CFTC sued Louisiana Friday to block a state judge's order banning 31 prediction markets, including Kalshi and Polymarket, in the state.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
-          "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
-          "source_published_at": "2026-11-14T04:30:00+00:00"
+          "source_name": "The Block",
+          "source_url": "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
+          "source_published_at": "2026-11-14T19:06:59+00:00"
         },
         {
-          "headline": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
-          "what_happened": "Contracts that sell power to a 4% slice of the world’s bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay’s state utility calls the date final, and it has just signed a 15-year deal to power a Founders Fund-backed AI campus.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
-          "source_published_at": "2026-11-13T23:30:00+00:00"
-        },
-        {
-          "headline": "Could a Former Nvidia Executive Replace Jensen Huang? Arm’s Rene Haas Emerges as Candidate",
-          "what_happened": "Nvidia's board has reportedly approached Arm's chief executive as it searches for a replacement for Jensen Huang, while some employees are pushing to bring the chipmaker's founder back as CEO.",
+          "headline": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia’s CEO",
+          "what_happened": "In a matter of days, the executive synonymous with the AI boom resigned after 33 years amid reports of affairs and suspected Chinese intelligence ties—sending Nvidia’s stock reeling and leaving the chipmaker leaderless.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Decrypt",
-          "source_url": "https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang",
-          "source_published_at": "2026-11-13T22:16:03+00:00"
+          "source_url": "https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo",
+          "source_published_at": "2026-11-14T18:01:02+00:00"
         },
         {
-          "headline": "Here’s what happened in crypto today",
-          "what_happened": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+          "headline": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
+          "what_happened": "U.S. spot crypto ETFs lost about $1.55 billion combined, and Avalanche funds' $227,000 was the only weekly inflow among the 15 categories SoSoValue tracks.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-11-13T22:08:37+00:00"
+          "source_name": "The Block",
+          "source_url": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
+          "source_published_at": "2026-11-14T17:50:41+00:00"
         }
       ],
       "watchlist": [
