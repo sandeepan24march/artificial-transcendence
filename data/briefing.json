@@ -1,82 +1,82 @@
 {
   "title": "Daily Intelligence Briefing",
-  "published_at": "2026-11-17T12:17:48.134431+00:00",
+  "published_at": "2026-11-18T12:04:10.700284+00:00",
   "timezone": "Asia/Kolkata",
   "sections": [
     {
       "category": "Finance & Global Economy",
       "stories": [
         {
-          "headline": "Swiss Pharma Employee Convicted Over $300,000 in Insider Trades",
-          "what_happened": "An employee of Swiss healthcare supplier SKAN Group AG was found guilty of insider trading after his appeal of a penalty order handed down by Swiss prosecutors was rejected.",
+          "headline": "ECB's Vujcic Says December Rate Hike Looks 'Very Likely'",
+          "what_happened": "European Central Bank Vice President Boris Vujcic says a December rate hike looks highly probable and more increases may follow in 2027 as inflation broadens. He made the comments during an interview with Bloomberg's Mark Schroers. (Source: Bloomberg)",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-17/swiss-pharma-employee-convicted-over-300-000-in-insider-trades",
-          "source_published_at": "2026-11-17T12:02:16+00:00"
+          "source_url": "https://www.bloomberg.com/news/videos/2026-11-18/ecb-s-vujcic-says-december-rate-hike-looks-very-likely-video",
+          "source_published_at": "2026-11-18T12:00:45+00:00"
         },
         {
-          "headline": "US Funding for Trump-Linked Bosnian Gas Pipeline Is in Jeopardy",
-          "what_happened": "US federal funding of $2.3 billion in energy and airport infrastructure projects in Bosnia-Herzegovina are in jeopardy as government development banks in Washington distanced themselves from the plan.",
+          "headline": "Davidson Kempner Warns of Credit Markets 'Fear Factor'",
+          "what_happened": "As concerns mount in fixed-income markets, Chris Krishanthan, who co-manages the global credit department at Davidson Kempner, says \"there’s a real fear factor that developed.\" He made the comments at Bloomberg's Global Credit Forum in London. (Source: Bloomberg)",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-17/us-funding-for-trump-linked-bosnian-gas-pipeline-is-in-jeopardy",
-          "source_published_at": "2026-11-17T11:38:16+00:00"
+          "source_url": "https://www.bloomberg.com/news/videos/2026-11-18/davidson-kempner-warns-of-credit-markets-fear-factor-video",
+          "source_published_at": "2026-11-18T11:25:40+00:00"
         },
         {
-          "headline": "Clampdown on China Chip Loophole; Nvidia Earnings Countdown",
-          "what_happened": "Selling pressure on US technology stocks eased ahead of Nvidia Corp.’s much-anticipated results that could prove as pivotal for the company as for the broader artificial-intelligence trade. Nvidia’s earnings arrive at a time when the world’s most important chipmaker is facing what may be the greatest upheaval in its history. Following the ouster of Jensen Huang, the focus will extend beyond the usual quarterly numbers and outlook to whether the new leadership team can maintain its relationships across the AI value chain and keep product plans on track. The Opening Trade has everything you need to know as markets open across Europe. With analy",
+          "headline": "'Business as usual': Nvidia's Kress passes first test as board slams door on Huang - Reuters",
+          "what_happened": "'Business as usual': Nvidia's Kress passes first test as board slams door on Huang Reuters",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Reuters Business (Google News RSS)",
+          "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU1hUb0ZMNTdVdlRaU3NVMXlUODNRZmhzZjVNRFVocktEWXJ4ZkF5eTVmVXBQcXRMOWFpdHZMQ2hxeUE1OER5TkpmRTlLV0JBdGV5RWVDVTl2TWtZamNmMXBTV2Y4eTVXdFpBdmZNSlFtZklNQnBLWHNDU251eElyd191OGs4ajktX2NvRVpNQ1M1cDNEU0ZzYnpWMmpnQ1E1d3NuUzhMSXZfdEowVWN6QWZldW0?oc=5",
+          "source_published_at": "2026-11-18T11:16:42+00:00"
+        },
+        {
+          "headline": "Crypto Futures Point to a Big Pop for Anthropic Stock",
+          "what_happened": "Bulls on AI are driving huge demand for the IPO.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/videos/2026-11-17/the-opening-trade-11-17-2026-video",
-          "source_published_at": "2026-11-17T11:33:05+00:00"
+          "source_url": "https://www.bloomberg.com/news/newsletters/2026-11-18/crypto-futures-point-to-a-big-pop-for-anthropic-stock",
+          "source_published_at": "2026-11-18T11:14:05+00:00"
         },
         {
-          "headline": "Nvidia’s Earnings Come at a Time of Mounting Tech Turmoil",
-          "what_happened": "Stock has plunged 35% from October peak, dragging Nasdaq lower.",
+          "headline": "Credit Chiefs Warn of ‘Fear Factor’ as Debt Reprices All at Once",
+          "what_happened": "A sharp repricing across fixed-income markets in recent months is likely to continue as interest rates remain elevated, causing a shakeout among weaker borrowers across industries.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/newsletters/2026-11-17/nvidia-s-earnings-come-at-a-time-of-mounting-tech-turmoil",
-          "source_published_at": "2026-11-17T11:26:29+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-18/credit-chiefs-warn-of-fear-factor-as-debt-reprices-all-at-once",
+          "source_published_at": "2026-11-18T11:11:49+00:00"
         },
         {
-          "headline": "US government confirms investigation into tech firm Megaspeed",
-          "what_happened": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "BBC Business",
-          "source_url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-          "source_published_at": "2026-11-17T11:17:32+00:00"
-        },
-        {
-          "headline": "Cash-Strapped Indian States Risk Infrastructure Push, Study Says",
-          "what_happened": "Indian states are being squeezed between rising spending commitments and weaker-than-expected revenues, leaving less money for infrastructure at a time when Prime Minister Narendra Modi is counting on investment to sustain rapid economic growth.",
+          "headline": "How GTA VI Became the Most Expensive Video Game Ever Made",
+          "what_happened": "One of the biggest entertainment releases in history.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-17/cash-strapped-indian-states-risk-infrastructure-push-study-says",
-          "source_published_at": "2026-11-17T11:05:44+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-18/how-gta-vi-became-the-most-expensive-video-game-ever-made-mwm0far3",
+          "source_published_at": "2026-11-18T11:00:13+00:00"
         },
         {
-          "headline": "BofA Survey Shows Investors Cut Tech Exposure by Most Since 2006",
-          "what_happened": "Investor optimism around the global AI boom is fading with fund managers slashing exposure to technology stocks by the most in two decades, according to a poll by Bank of America Corp.",
+          "headline": "How GTA VI Became the Most Expensive Video Game Ever Made",
+          "what_happened": "It took over a decade to make Grand Theft Auto VI. And when it’s released on November 19, it will have likely already set at least one record: the most expensive video game ever made. In the years since the last GTA release, the video game industry has changed massively. Investors, once excited by the prospect of blockbuster video games, have pulled back, sales have stagnated, and the industry as a whole seems more precarious. Bloomberg News video game reporter Jason Schreier has been following",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-17/bofa-survey-shows-investors-cut-tech-exposure-by-most-since-2006",
-          "source_published_at": "2026-11-17T10:53:44+00:00"
+          "source_url": "https://www.bloomberg.com/news/audio/2026-11-18/how-gta-vi-became-the-most-expensive-video-game-ever-made",
+          "source_published_at": "2026-11-18T11:00:00+00:00"
         },
         {
-          "headline": "Home Depot Names McPhail CEO as Decker Returns as Chairman",
-          "what_happened": "Home Depot Inc. said Richard McPhail will take over as chief executive officer from Ted Decker, who is returning from medical leave to serve as chairman.",
+          "headline": "Apollo’s Europe Head Sees Massive Finance Demand for AI, Defense",
+          "what_happened": "Europe’s urgent need to catch up on defense, power and artificial intelligence spending means the need for investment has grown significantly even since Mario Draghi outlined an action plan for the continent, yet its capital markets have failed to keep pace.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-17/home-depot-names-mcphail-ceo-as-decker-returns-as-chairman",
-          "source_published_at": "2026-11-17T10:53:29+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-18/apollo-s-europe-head-sees-massive-finance-demand-for-ai-defense",
+          "source_published_at": "2026-11-18T10:41:38+00:00"
         }
       ]
     },
@@ -84,76 +84,76 @@
       "category": "Indian Share Market",
       "stories": [
         {
-          "headline": "Indian bonds surge after oil slide eases aggressive rate hike concerns",
-          "what_happened": "On Tuesday, Indian government bonds rallied significantly, buoyed by falling oil prices that shifted market sentiment. The 6.94% 2036 bond's yield dipped to 7.2528%, a drop from 7.3169% the previous day. Analysts posit that lower oil prices could relieve inflationary pressure and bolster the rupee, alongside speculation of an upcoming RBI rate hike based on fresh inflation reports.",
+          "headline": "PI Industries among 5 stocks hitting 52-week low; slipped up to 26% in a month",
+          "what_happened": "Five BSE 500 stocks, including PI Industries, Aditya Birla Fashion and Retail and Thermax, hit fresh 52-week lows as the market weakened, with losses reaching 26% in a month.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-surge-after-oil-slide-eases-aggressive-rate-hike-concerns/articleshow/135924727.cms",
-          "source_published_at": "2026-11-17T12:02:23+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/pi-industries-among-5-stocks-hitting-52-week-low-slipped-up-to-26-in-a-month/slideshow/135961979.cms",
+          "source_published_at": "2026-11-18T11:31:06+00:00"
         },
         {
-          "headline": "Eternal among 5 stocks hitting 52-week highs; stock rallies up to 15% in a month",
-          "what_happened": "Five BSE 100 stocks, including Eternal, DLF and Kotak Mahindra Bank, touched fresh 52-week highs on Tuesday. Eternal led monthly gains with a 15% rally.",
+          "headline": "Rupee ends flat after hitting seven-month high as firmer dollar offsets inflows",
+          "what_happened": "The Indian rupee closed almost flat after peaking at a seven-month high during early trading on Wednesday. Robust foreign investments in local stocks provided a boost, but a stronger dollar capped further gains. The dollar index rose by 0.2%, reaching its highest since April 2025 due to anticipations of accelerated rate hikes.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/eternal-among-5-stocks-hitting-52-week-highs-stock-rallies-up-to-15-in-a-month/slideshow/135924700.cms",
-          "source_published_at": "2026-11-17T11:57:16+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ends-flat-after-hitting-seven-month-high-as-firmer-dollar-offsets-inflows/articleshow/135959732.cms",
+          "source_published_at": "2026-11-18T10:25:00+00:00"
         },
         {
-          "headline": "Disney beats earnings forecasts, plans to increase content spending",
-          "what_happened": "In a promising financial update, Walt Disney has revealed a rise in quarterly revenue and earnings, attributed to greater theme park attendance and NFL broadcasts. Looking ahead, the company plans to elevate its content budget to $26 billion in the next fiscal year and raise its dividend by 33% to $2 per share.",
+          "headline": "SpiceJet board approves up to Rs 5,500 crore fundraise amid operational challenges; stock hits 5% upper circuit",
+          "what_happened": "SpiceJet's board of directors announced a fundraising plan to raise up to Rs 5,500 crore. The airline's shares have surged significantly, hitting the upper circuit for six consecutive sessions. Flight cancellations and operational disruptions have caused significant challenges for SpiceJet in recent days. The airline is focusing on rebuilding capacity and ensuring operational reliability going forward. The fundraising aims to strengthen its financial position and support fleet expansion efforts.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/disney-beats-earnings-forecasts-plans-to-increase-content-spending/articleshow/135923706.cms",
-          "source_published_at": "2026-11-17T11:35:48+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/spicejet-board-approves-up-to-rs-5500-crore-fundraise-to-support-fleet-expansion-drive-revival/articleshow/135958224.cms",
+          "source_published_at": "2026-11-18T09:40:01+00:00"
         },
         {
-          "headline": "Robust inflows, pullback in shorts lift rupee to seven-month peak",
-          "what_happened": "The Indian rupee saw a notable rise, achieving its peak value in seven months following a surge in foreign equity investments. Closing at 93.47 per dollar, this upswing was driven by an impressive influx of $10 billion this month. Additionally, traders observed substantial movements in the dollar-rupee non-deliverable forward market as bearish positions were unwound.",
+          "headline": "Govt weighs tax tweaks to boost stock trading, curb derivatives: Report",
+          "what_happened": "The government is reviewing proposals to cut securities transaction tax on cash equities by 50% while raising levies on derivatives to curb speculative trading and encourage broader market participation. Officials are also considering a reduction in long-term capital gains tax. The recommendations will be presented to Finance Minister Nirmala Sitharaman ahead of Budget 2027.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/forex/forex-news/robust-inflows-pullback-in-shorts-lift-rupee-to-seven-month-peak/articleshow/135921416.cms",
-          "source_published_at": "2026-11-17T10:43:17+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/govt-weighs-tax-tweaks-to-boost-stock-trading-curb-derivatives/articleshow/135953824.cms",
+          "source_published_at": "2026-11-18T07:24:58+00:00"
         },
         {
-          "headline": "Millions launches US stocks, ETFs investment facility for Indian investors",
-          "what_happened": "Investment platform Millions, operated by Raise Financial Services, has launched US stocks and ETFs on its app. This new feature allows Indian investors to make fractional investments and use systematic investment plans. The launch is supported by the International Financial Services Centres Authority under GIFT City's framework. Millions provides mutual funds, stocks, and zero brokerage, with no account fees or maintenance charges.",
+          "headline": "How Ashish Kacholia, Radhakishan Damani, Madhusudan Kela and other ace investors reshuffled their portfolios in Q2",
+          "what_happened": "Mukul Agrawal, Akash Bhanshali and Ashish Kacholia emerge as the biggest portfolio gainers among prominent individual investors in the September quarter. Meanwhile, Radhakishan Damani records the steepest decline. The analysis examines their portfolio values, top stock holdings and changes in shareholding across listed companies.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/millions-launches-us-stocks-etfs-investment-facility-for-indian-investors/articleshow/135920698.cms",
-          "source_published_at": "2026-11-17T10:14:05+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/how-ashish-kacholia-radhakishan-damani-madhusudan-kela-and-other-ace-investors-reshuffled-their-portfolios-in-q2/slideshow/135953760.cms",
+          "source_published_at": "2026-11-18T07:09:19+00:00"
         },
         {
-          "headline": "Sebi may limit leveraged stock bets to curb volatility: Report",
-          "what_happened": "India's markets regulator is exploring potential limits on leveraged stock purchases amid increasing retail participation. Concerns have arisen as margin-funded stock bets have reached record levels in recent months. Discussions are ongoing regarding hard limits tied to a company's free float to manage risks effectively. While the regulator aims to mitigate market instability, it seeks to avoid disrupting retail investors' positions.",
+          "headline": "16 microcap stocks surge up to 390% in CY26, emerge as multibaggers",
+          "what_happened": "The Nifty Microcap 250 has outperformed the benchmark Nifty 50 in CY26, with several constituents delivering multibagger returns. Sixteen microcap stocks have more than doubled investors' wealth so far this year, led by Sigma Advanced Systems, while nearly 50 stocks in the index have gained over 50%.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-may-limit-leveraged-stock-bets-to-curb-volatility-report/articleshow/135920460.cms",
-          "source_published_at": "2026-11-17T10:07:02+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/16-microcap-stocks-surge-up-to-390-in-cy26-emerge-as-multibaggers/slideshow/135953025.cms",
+          "source_published_at": "2026-11-18T06:44:42+00:00"
         },
         {
-          "headline": "FIIs, MFs raise stakes in 5 largecap stocks for two straight quarters; shares rally up to 80%",
-          "what_happened": "FIIs and mutual funds have increased their stakes in five largecap stocks for two consecutive quarters, signalling rising institutional interest. All five stocks have delivered positive returns in FY27 so far, with gains ranging from 12% to 80%.",
+          "headline": "India bonds rise tracking easing crude oil, US Treasury yields",
+          "what_happened": "The Indian bond market is experiencing a positive shift, with bond yields decreasing as oil prices and Treasury yields fall. The 2036 benchmark bond yield is now at 7.2393%, reflecting a minor drop. Additionally, crude oil prices have plummeted more than 20% since their October peaks, providing a temporary buffer against inflation.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-mfs-raise-stakes-in-5-largecap-stocks-for-two-straight-quarters-shares-rally-up-to-80/slideshow/135915639.cms",
-          "source_published_at": "2026-11-17T07:24:18+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-tracking-easing-crude-oil-us-treasury-yields/articleshow/135952296.cms",
+          "source_published_at": "2026-11-18T06:36:17+00:00"
         },
         {
-          "headline": "South Korean shares close at over 9-month low on Nvidia caution",
-          "what_happened": "South Korean shares experienced a significant decline of more than 2% amid concerns affecting chipmakers. The benchmark KOSPI closed at its lowest level since February due to persistent selling pressure. Foreign investors were noted as net sellers of shares worth approximately 1.4 trillion won. The Korean won weakened slightly against the dollar during this trading period. Additionally, South Korea's benchmark bond yields fell as market activities shifted.",
+          "headline": "Anthropic IPO: Why Wall Street is betting big on Claude AI maker",
+          "what_happened": "Anthropic is preparing for a blockbuster IPO that could value the Claude AI maker at up to $1.6 trillion. Strong investor demand, strategic stakes held by Amazon and Google, and bullish analyst forecasts are driving interest, although governance and profitability risks remain.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-shares-close-at-over-9-month-low-on-nvidia-caution/articleshow/135914599.cms",
-          "source_published_at": "2026-11-17T06:56:18+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-why-wall-street-is-betting-big-on-claude-ai-maker/slideshow/135951884.cms",
+          "source_published_at": "2026-11-18T06:12:00+00:00"
         }
       ]
     },
@@ -161,76 +161,76 @@
       "category": "Technology & AI",
       "stories": [
         {
-          "headline": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
-          "what_happened": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Wired AI",
-          "source_url": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
-          "source_published_at": "2026-11-17T11:00:00+00:00"
-        },
-        {
-          "headline": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
-          "what_happened": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Wired AI",
-          "source_url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
-          "source_published_at": "2026-11-17T11:00:00+00:00"
-        },
-        {
-          "headline": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
-          "what_happened": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Wired AI",
-          "source_url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
-          "source_published_at": "2026-11-17T10:47:45+00:00"
-        },
-        {
-          "headline": "Hacker behind 2022 GTA VI leaks pleads guilty",
-          "what_happened": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS). Kurtaj, who is now 21, hacked BT/EE sometime between August and November 2021, and starting in early November […]",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
-          "source_published_at": "2026-11-16T23:35:58+00:00"
-        },
-        {
-          "headline": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-          "what_happened": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "TechCrunch AI",
-          "source_url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-          "source_published_at": "2026-11-16T23:32:32+00:00"
-        },
-        {
-          "headline": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-          "what_happened": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO. At the […]",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Verge AI",
-          "source_url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
-          "source_published_at": "2026-11-16T23:17:34+00:00"
-        },
-        {
-          "headline": "United Airlines system outage disrupts departures just days after the big ground stop",
-          "what_happened": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. At 6:13PM ET, United said the problem has been fixed: Earlier today we experienced a technology-related issue that impacted some departing flights. The issue […]",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
-          "source_published_at": "2026-11-16T22:54:59+00:00"
-        },
-        {
-          "headline": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
-          "what_happened": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
+          "headline": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+          "what_happened": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
-          "source_published_at": "2026-11-16T22:12:31+00:00"
+          "source_url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+          "source_published_at": "2026-11-18T12:00:00+00:00"
+        },
+        {
+          "headline": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+          "what_happened": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "TechCrunch AI",
+          "source_url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+          "source_published_at": "2026-11-18T11:30:00+00:00"
+        },
+        {
+          "headline": "Suno now lets you make AI videos for your AI music",
+          "what_happened": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be used as thumbnails and album artwork. Visuals […]",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Verge AI",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+          "source_published_at": "2026-11-18T11:16:53+00:00"
+        },
+        {
+          "headline": "Grand Theft Auto VI has arrived",
+          "what_happened": "More than a decade after Grand Theft Auto V was first released, its sequel is finally launching. On November 19th, GTA VI will be available on both the PS5 and Xbox Series X / S, and it’s quite possibly the most anticipated video game launch of all time. Part of this has to do with […]",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news",
+          "source_published_at": "2026-11-18T11:06:16+00:00"
+        },
+        {
+          "headline": "China dominates battery graphite, but this startup could break the monopoly",
+          "what_happened": "Chinese companies maintain near total dominance of the graphite industry, but Molten Industries says its new factory in Oakland could spell the end of the monopoly.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/",
+          "source_published_at": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "headline": "Grand Theft Auto VI does something impossible — it lives up to the hype",
+          "what_happened": "How do you follow a game like Grand Theft Auto V? Thirteen years ago, Rockstar's crime-fueled epic went on to redefine what an open-world game could be and became an enormous success, selling more than 230 million copies across three generations of game consoles. It sits just behind Tetris and Minecraft on the list of […]",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/games/1035801/grand-theft-auto-6-review",
+          "source_published_at": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "headline": "‘It’s a risk’: How Rockstar built the most detailed (and romantic) GTA yet",
+          "what_happened": "Grand Theft Auto VI isn't just the biggest GTA game to date; it's also the most romantic. Though the series is well known for its sordid assortment of criminal leads, GTA VI switches things up by starring a pair of thieves who also happen to fall in love after meeting while stealing a car. It's […]",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/entertainment/1035806/grand-theft-auto-6-rob-nelson-interview",
+          "source_published_at": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "headline": "Suno's new Visuals feature pairs AI-generated music with AI-generated video",
+          "what_happened": "AI music generator Suno can now create images and video clips to go with its songs, thanks to a new feature called Visuals. The article Suno's new Visuals feature pairs AI-generated music with AI-generated video appeared first on The Decoder .",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Decoder",
+          "source_url": "https://the-decoder.com/sunos-new-visuals-feature-pairs-ai-generated-music-with-ai-generated-video/",
+          "source_published_at": "2026-11-18T10:22:45+00:00"
         }
       ]
     },
@@ -238,76 +238,76 @@
       "category": "Healthcare",
       "stories": [
         {
-          "headline": "Middle-aged and older adults favor TV and YouTube for home exercise, survey finds",
-          "what_happened": "As populations continue to age, creating environments that enable individuals to incorporate regular physical activity into their daily lives is essential for maintaining health and functional independence. Smartphone applications and video-based programs are increasingly being used to support home-based exercise. However, relatively little is known about the types of exercise support and digital media that people prefer to use or whether these preferences differ according to age or residential area.",
+          "headline": "Semaglutide may improve eating disorder symptoms and body image in adults seeking obesity treatment",
+          "what_happened": "Adults receiving semaglutide for obesity treatment experienced greater improvements in several measures of disordered eating, eating disorder symptoms and body image concerns compared with participants receiving placebo, according to a new study led by researchers from the Perelman School of Medicine at the University of Pennsylvania. The study was published in the International Journal of Eating Disorders.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-middle-aged-older-adults-favor.html",
-          "source_published_at": "2026-11-17T12:00:08+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-11-semaglutide-disorder-symptoms-body-image.html",
+          "source_published_at": "2026-11-18T12:00:01+00:00"
         },
         {
-          "headline": "STAT+: With $173 million, new startup takes aim at sickle cell",
-          "what_happened": "Researchers are seeking a sickle cell treatment as effective as gene therapy, without the drawbacks. This entrepreneur thinks he might have one.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/11/17/new-startup-developing-novel-sickle-cell-anemia-infusion-no-gene-therapy/?utm_campaign=rss",
-          "source_published_at": "2026-11-17T12:00:00+00:00"
-        },
-        {
-          "headline": "STAT+: Sellas’ experimental blood cancer immunotherapy reduced risk of death in clinical trial",
-          "what_happened": "Sellas' experimental blood cancer immunotherapy reduced the risk of death in clinical trial.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/11/17/sellas-blood-cancer-immunotherapy-succeeds-clinical-trial/?utm_campaign=rss",
-          "source_published_at": "2026-11-17T12:00:00+00:00"
-        },
-        {
-          "headline": "Doctors are raising concerns about US babies born with measles",
-          "what_happened": "For the first time in decades, U.S. doctors are sounding the alarm about babies coming into the world with measles.",
+          "headline": "Study finds some BRCA2 gene changes carry lower breast cancer risk",
+          "what_happened": "Mayo Clinic researchers, in a study published in Nature Communications, have identified a group of BRCA2 gene variants associated with a moderate risk of breast cancer, a finding that could help health care teams better assess a person's cancer risk and personalize care.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-doctors-babies-born-measles.html",
-          "source_published_at": "2026-11-17T10:27:37+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-11-brca2-gene-breast-cancer.html",
+          "source_published_at": "2026-11-18T11:40:06+00:00"
         },
         {
-          "headline": "Viruses in the gut microbiome linked to irritable bowel syndrome",
-          "what_happened": "The human gut microbiome is home to a vast and largely unexplored world of viruses, which could hold important clues to how the gut ecosystem works.",
+          "headline": "Urgent action needed to safeguard the effectiveness of antibiotics",
+          "what_happened": "With mounting evidence that antibiotic-resistant bacteria are continuing to spread and treatment options are becoming increasingly limited, urgent action is needed to safeguard the effectiveness of antibiotics, the European Center for Disease Prevention and Control (ECDC) said on the occasion of European Antibiotic Awareness Day.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-viruses-gut-microbiome-linked-bowel.html",
-          "source_published_at": "2026-11-17T10:00:14+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-11-urgent-action-safeguard-effectiveness-antibiotics.html",
+          "source_published_at": "2026-11-18T11:40:01+00:00"
         },
         {
-          "headline": "Bridging the gap between genetic variation and function in brain cells",
-          "what_happened": "Research has started to bridge the gap between identifying genetic changes that can increase the risk of brain conditions, such as Alzheimer's, and understanding how they might impact specific cell functions.",
+          "headline": "Mild Alzheimer's patients benefit from 40Hz sensory stimulation in national clinical trial",
+          "what_happened": "At the Clinical Trials on Alzheimer's Disease conference in Boston Nov. 16, MIT spinoff company Cognito Therapeutics announced the results of its pivotal clinical trial of a noninvasive, device-based approach to Alzheimer's disease (AD) treatment first discovered in The Picower Institute in 2014. The \"HOPE\" trial included 663 people in two \"prespecified\" subgroups of volunteers: those with diagnoses of mild Alzheimer's and those with moderate Alzheimer's.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-bridging-gap-genetic-variation-function.html",
-          "source_published_at": "2026-11-17T10:00:09+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-11-mild-alzheimer-patients-benefit-40hz.html",
+          "source_published_at": "2026-11-18T11:20:02+00:00"
         },
         {
-          "headline": "How radiation or chemotherapy before bone marrow transplantation may shape human immune system recovery",
-          "what_happened": "In a new study from the USC Stem Cell lab of Rong Lu, Ph.D., researchers used genetic barcoding to track individual human blood-forming stem and progenitor cells after transplanting them into mice. The study revealed how different types of human blood-forming cells regenerate the blood and immune system, and how different forms of pretransplant conditioning, a treatment used to prepare a recipient before bone marrow transplantation, affected blood and immune cell recovery.",
+          "headline": "'Perfectionist' as a label: Who claims it and who doesn't",
+          "what_happened": "It's a label people casually toss around in conversations about school, work and life in general: \"perfectionist.\" But do young adults who call themselves perfectionists exhibit the behaviors and psychological traits associated with perfectionism?",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-chemotherapy-bone-marrow-transplantation-human.html",
-          "source_published_at": "2026-11-17T10:00:01+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-11-perfectionist-doesnt.html",
+          "source_published_at": "2026-11-18T10:20:01+00:00"
         },
         {
-          "headline": "STAT+: After death in gene therapy trial for a brain disease, progress is reported",
-          "what_happened": "An unexpected patient death rattled researchers who sought to pierce the blood-brain barrier. Now some think they have a better way of mitigating risks.",
+          "headline": "New study offers clues to how young neurons may help the brain form social memories",
+          "what_happened": "How does the brain remember someone we have met before, especially when new and similar experiences compete for our attention?",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
-          "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/11/17/capsida-gene-therapy-trial-death-follow-up-investigation/?utm_campaign=rss",
-          "source_published_at": "2026-11-17T09:30:00+00:00"
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-11-clues-young-neurons-brain-social.html",
+          "source_published_at": "2026-11-18T10:00:05+00:00"
+        },
+        {
+          "headline": "Inspired by 'Flowers for Algernon,' experimental nose drops improve memory in mice",
+          "what_happened": "Researchers at the University of Sydney have developed experimental nose drops that enhance learning and memory in aged mice while also preventing memory loss in a mouse model of Alzheimer's disease. The treatment uses mRNA technology similar to that developed for use in COVID-19 vaccines.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-11-algernon-experimental-nose-memory-mice.html",
+          "source_published_at": "2026-11-18T10:00:01+00:00"
+        },
+        {
+          "headline": "Chewable fish oil emulsion supplements may be better than soft-gel capsules",
+          "what_happened": "In a crossover clinical trial published in the European Journal of Lipid Science and Technology, investigators found that a chewable fish oil emulsion supplement may provide higher circulating levels of omega-3 fatty acids compared with a soft gel.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-11-chewable-fish-oil-emulsion-supplements.html",
+          "source_published_at": "2026-11-18T08:10:04+00:00"
         }
       ]
     },
@@ -315,76 +315,76 @@
       "category": "Crypto Watch",
       "stories": [
         {
-          "headline": "Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows",
-          "what_happened": "Your day-ahead look for Nov. 17, 2026",
+          "headline": "Bitcoin drops as Nvidia earnings report drives stock index futures higher",
+          "what_happened": "Bitcoin (BTC) is down 1.1% since midnight UTC at around $64,100, failing to keep pace with rising stock index futures after Nvidia beat earnings.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows",
-          "source_published_at": "2026-11-17T12:16:53+00:00"
+          "source_url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher",
+          "source_published_at": "2026-11-18T11:42:52+00:00"
         },
         {
-          "headline": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
-          "what_happened": "The fund swapped its common stock in Bloom Energy, Nebius and SanDisk for call options, keeping its bet on AI power, computing and memory.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
-          "source_published_at": "2026-11-17T12:00:55+00:00"
-        },
-        {
-          "headline": "Lighter reopens withdrawals after trader’s API key leak, returns about $5 million in USDC",
-          "what_happened": "Lighter reopened deposits and withdrawals and said it returned about $5 million in USDC to the affected trader.",
+          "headline": "TD Cowen tempers ether outlook, maintains Buy rating on Sharplink",
+          "what_happened": "TD Cowen said staking rewards drove a modest increase in Sharplink’s ETH holdings as it took a more conservative view of ether’s price path.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "The Block",
-          "source_url": "https://www.theblock.co/news/defi/2026-11-17-lighter-reopens-withdrawals-after-traders-api-key-leak-returns-about-5-million-in-usdc-442113",
-          "source_published_at": "2026-11-17T12:00:41+00:00"
+          "source_url": "https://www.theblock.co/news/ecosystems/2026-11-18-td-cowen-maintains-buy-rating-sharplink-442987",
+          "source_published_at": "2026-11-18T11:08:27+00:00"
         },
         {
-          "headline": "US senators seek SEC answers on tokenized stock money laundering risks",
-          "what_happened": "Four Democratic senators asked who would be responsible for tokenized shares transferred outside regulated platforms and whether the SEC could freeze or recover those tokens.",
+          "headline": "Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike",
+          "what_happened": "Bitcoin held near $64,000 as gold fell 2%, lifting the ratio between the two above its 200-day moving average and extending a series of higher lows since March.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "CoinDesk",
+          "source_url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike",
+          "source_published_at": "2026-11-18T10:58:36+00:00"
+        },
+        {
+          "headline": "Bitwise seeks Texas Stock Exchange listing for Zcash ETF",
+          "what_happened": "Coinbase Custody would safeguard the fund’s ZEC holdings, while Bitwise Investment Advisers would serve as its manager and sponsor.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-11-17T11:36:26+00:00"
+          "source_url": "https://cointelegraph.com/news/bitwise-zcash-etf-texas-stock-exchange-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-11-18T10:33:07+00:00"
         },
         {
-          "headline": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
-          "what_happened": "Bitcoin (BTC) is down a further 1.0% since midnight UTC at around $64,200, with its bounce from the weekend selloff stalled and pressure building on all fronts.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
-          "source_published_at": "2026-11-17T11:36:07+00:00"
-        },
-        {
-          "headline": "Solana Foundation takes majority stake in crypto data provider CoinGecko",
-          "what_happened": "The foundation plans Solana-powered trading on CoinGecko's website, GeckoTerminal and app.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
-          "source_published_at": "2026-11-17T11:29:51+00:00"
-        },
-        {
-          "headline": "New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest",
-          "what_happened": "Crypto native firms like Animoca Brands are betting AI-based agentic commerce to style every area of finance with the so-called “DeFi mullet”",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/business/2026/11/16/new-defi-yield-generation-targets-scam-like-bank-accounts-that-keep-all-the-interest",
-          "source_published_at": "2026-11-17T11:25:58+00:00"
-        },
-        {
-          "headline": "BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear",
-          "what_happened": "BlackRock’s Bitcoin ETF ended 11 sessions of withdrawals totaling $2.35 billion, but CryptoQuant says one day of inflows is too early to signal a recovery.",
+          "headline": "Bitcoin steadies after Nvidia’s earnings beat as $60K bids stand out",
+          "what_happened": "Bitcoin halted downside as Nvidia confidence returned, with its stock gaining 3% premarket and South Korea’s tech-heavy KOSPI reclaiming 5,000 points.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-11-17T11:18:18+00:00"
+          "source_url": "https://cointelegraph.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-11-18T10:31:20+00:00"
+        },
+        {
+          "headline": "Scattered Spider Hacker Sentenced to 6 Years Over $11.6M in Stolen Crypto",
+          "what_happened": "Scotland's Tyler Buchanan is the last of five defendants sentenced in a phishing and SIM-swapping scheme that targeted crypto holders.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Decrypt",
+          "source_url": "https://decrypt.co/383522/scattered-spider-hacker-sentenced-to-6-years-over-11-6m-in-stolen-crypto",
+          "source_published_at": "2026-11-18T10:17:17+00:00"
+        },
+        {
+          "headline": "Strategy stock could plunge 76% to $23, chart analyst warns",
+          "what_happened": "Aksel Kibar, who has tracked Bitcoin’s price action since at least 2018, made the bearish call, citing a still-active head-and-shoulders pattern on MicroStrategy’s (MSTR) daily chart.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "CoinDesk",
+          "source_url": "https://www.coindesk.com/markets/2026/11/18/strategy-stock-could-crash-76-to-usd23-chart-analyst-warns",
+          "source_published_at": "2026-11-18T09:31:41+00:00"
+        },
+        {
+          "headline": "DBS lets eligible institutions in Asia mint and redeem USDC around the clock",
+          "what_happened": "DBS and Circle are expanding institutional access to USDC with direct minting, redemption and 24/7 dollar settlement.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Block",
+          "source_url": "https://www.theblock.co/news/business/2026-11-18-dbs-circle-usdc-asia-442970",
+          "source_published_at": "2026-11-18T09:28:50+00:00"
         }
       ],
       "watchlist": [
