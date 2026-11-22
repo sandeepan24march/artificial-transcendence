@@ -1,88 +1,142 @@
 {
   "title": "Daily Intelligence Briefing",
-  "published_at": "2026-11-21T11:35:18.198895+00:00",
+  "published_at": "2026-11-22T11:49:05.498194+00:00",
   "timezone": "Asia/Kolkata",
   "sections": [
     {
       "category": "Finance & Global Economy",
       "stories": [
         {
-          "headline": "How AI Is Forcing China to Reshape Industrial Policy",
-          "what_happened": "Kyle Chan on Beijing's plan to become technologically self-reliant.",
+          "headline": "China Lowers Margin Requirement to 80% to Boost Stock Liquidity",
+          "what_happened": "China loosened margin requirements for stock financing, seeking to boost liquidity and support stability in the nation’s equity market as leveraged trading activity declined.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-21/how-ai-is-forcing-china-to-reshape-industrial-policy",
-          "source_published_at": "2026-11-21T09:00:13+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
+          "source_published_at": "2026-11-22T11:06:19+00:00"
         },
         {
-          "headline": "Europe’s Power Market Is Flashing a Warning to Its Economy",
-          "what_happened": "At a factory in Germany, there are increasingly hours when it is simply too expensive to produce steel.",
+          "headline": "From Squeezes to Meltdown, a Week of Mayhem Rocks Metals Markets",
+          "what_happened": "As the copper industry gathered in Shanghai last week, Grace Li was struck by the overwhelmingly bearish mood over the outlook for demand. She agreed with the pessimism. In fact, she came close to pulling out her phone on the spot to put on a short position after her Monday conversations.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-21/europe-s-power-market-is-flashing-a-warning-to-its-economy",
-          "source_published_at": "2026-11-21T09:00:00+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-22/from-squeezes-to-meltdown-a-week-of-mayhem-rocks-metals-markets",
+          "source_published_at": "2026-11-22T11:00:00+00:00"
         },
         {
-          "headline": "Odd Lots: How AI Reshaped Chinese Industrial Policy (Podcast)",
-          "what_happened": "Can Chinese tech companies help the country achieve technological self-reliance while keeping up in the AI arms race? On this episode, we speak with Kyle Chan, a fellow at the Brookings Institution’s John L. Thornton China Center and author of the High Capacity newsletter, about Beijing’s response to the global AI boom and the tensions between Chinese companies’ commercial ambitions and the government’s long-term plans. He explains how companies draw on shared expertise and supply chains to expa",
+          "headline": "S. Korea Rolls Out Phased Measures to Stabilize Volatile Markets",
+          "what_happened": "South Korea announced phased measures to calm markets amid rising volatility, including ensuring a stock stabilization fund is in place to respond when needed, top financial officials said after an emergency meeting on Sunday.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/audio/2026-11-21/odd-lots-how-ai-reshaped-chinese-industrial-policy-podcast",
-          "source_published_at": "2026-11-21T09:00:00+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-22/s-korea-rolls-out-phased-measures-to-stabilize-volatile-markets",
+          "source_published_at": "2026-11-22T10:16:45+00:00"
         },
         {
-          "headline": "Italy’s Webuild Completes Takeover of Construction Group Trevi",
-          "what_happened": "Webuild SpA, Italy’s biggest construction company, completed its tender offer for smaller competitor Trevi, adding to a string of acquisitions.",
+          "headline": "UBS Capital Fight Enters Final Round as Lawmakers Resume Debate",
+          "what_happened": "The argument over UBS Group AG’s future capital requirements is headed for a showdown, with the odds tilted toward defeat for the global wealth manager.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-21/italy-s-webuild-completes-takeover-of-construction-group-trevi",
-          "source_published_at": "2026-11-21T08:42:34+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-22/ubs-capital-fight-enters-final-round-as-lawmakers-resume-debate",
+          "source_published_at": "2026-11-22T10:00:00+00:00"
         },
         {
-          "headline": "China’s Top Planner Seeks Faster Construction of State Projects",
-          "what_happened": "China’s top planning agency urged local authorities to speed up the construction of government investment projects and disbursement of funds in a bid to spur growth in the world’s second-largest economy.",
+          "headline": "MP criticises Guernsey and Jersey company ownership register plans",
+          "what_happened": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "BBC Business",
+          "source_url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
+          "source_published_at": "2026-11-22T07:22:05+00:00"
+        },
+        {
+          "headline": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+          "what_happened": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "BBC Business",
+          "source_url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+          "source_published_at": "2026-11-22T07:12:41+00:00"
+        },
+        {
+          "headline": "Employers are being asked to give interview feedback - here's what applicants want",
+          "what_happened": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "BBC Business",
+          "source_url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+          "source_published_at": "2026-11-22T00:04:07+00:00"
+        },
+        {
+          "headline": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
+          "what_happened": "China’s AI stock trade, once a hot bet as the nation’s technology powerhouses raced to catch up with the US, has morphed into a losing strategy.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-21/china-s-top-planner-seeks-faster-construction-of-state-projects",
-          "source_published_at": "2026-11-21T05:24:06+00:00"
-        },
-        {
-          "headline": "China Military Bars SF Express Over Procurement Misconduct",
-          "what_happened": "SF Express Co., a Chinese delivery and logistics company, has been suspended from participating in military-wide procurement of goods, engineering and services over alleged violations.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-21/china-military-bans-sf-express-from-procurement-over-misconduct",
-          "source_published_at": "2026-11-21T05:00:48+00:00"
-        },
-        {
-          "headline": "Wall Street ends sharply lower as Anthropic's debut fails to revive AI fervor - Reuters",
-          "what_happened": "Wall Street ends sharply lower as Anthropic's debut fails to revive AI fervor Reuters",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Reuters Business (Google News RSS)",
-          "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5",
-          "source_published_at": "2026-11-21T04:32:28+00:00"
-        },
-        {
-          "headline": "Bitcoin falls to its lowest in two years - Reuters",
-          "what_happened": "Bitcoin falls to its lowest in two years Reuters",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Reuters Business (Google News RSS)",
-          "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NUk9lTzRodUF5M1QyMkpkS3ViSDhVQ2hHZlV1ZUowRnBQeF9Za3l0WkRFb1BUNzVoS1NxcFFERDAydTVnLVpIMG9hcmRUV3hyb1F1RURKeGF3WV9iNlJScVlrYk95VmRJWWxjcE5GLUR4NUgtYWVj?oc=5",
-          "source_published_at": "2026-11-21T04:10:00+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
+          "source_published_at": "2026-11-22T00:00:00+00:00"
         }
       ]
     },
     {
       "category": "Indian Share Market",
       "stories": [
+        {
+          "headline": "Crude oil futures brace for OPEC+ output decision amid supply glut concerns: Analysts",
+          "what_happened": "Next week promises to be a rollercoaster for crude oil futures as the OPEC+ meeting approaches. Traders are keeping a close eye on supply insights from the American Petroleum Institute and Energy Information Administration. Trading will be quiet on Tuesday due to Guru Nanak Jayanti. While concerns about a global supply surplus loom large, they overshadow geopolitical tensions in West Asia.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/commodities/crude-oil-futures-brace-for-opec-output-decision-amid-supply-glut-concerns-analysts/articleshow/136072428.cms",
+          "source_published_at": "2026-11-22T11:00:27+00:00"
+        },
+        {
+          "headline": "Why gold’s five-year winning streak is under threat after dramatic selloff",
+          "what_happened": "Gold has fallen to around $3,510 an ounce after hitting a record $5,594.82 earlier in 2026, putting it on track for its first annual loss in five years. A stronger dollar, elevated bond yields, profit-booking and weaker safe-haven demand continue to pressure prices.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/commodities/why-golds-five-year-winning-streak-is-under-threat-after-dramatic-selloff/articleshow/136070323.cms",
+          "source_published_at": "2026-11-22T08:21:09+00:00"
+        },
+        {
+          "headline": "InvIT IPO rush gathers pace; 4-5 private trusts likely to go public by Mar 2027",
+          "what_happened": "Four to five Infrastructure Investment Trusts are expected to launch public offerings to raise Rs 17,000 crore by 2027. These offerings aim to mobilise long-term capital for infrastructure development while appealing to a broader pool of investors. Notable companies like Brookfield and Investcorp are preparing to shift to public InvITs. In the past, InvITs raised around Rs 88,000 crore, demonstrating investor appetite.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/invit-ipo-rush-gathers-pace-4-5-private-trusts-likely-to-go-public-by-mar-2027/articleshow/136069094.cms",
+          "source_published_at": "2026-11-22T06:45:10+00:00"
+        },
+        {
+          "headline": "5 penny stocks plunge up to 68% in six months. Do you own any?",
+          "what_happened": "Five BSE Smallcap penny stocks have fallen between 21% and 68% in recent months. Kalind and Empower India led the declines, plunging 68% and 62%, respectively.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/5-penny-stocks-plunge-up-to-68-in-six-months-do-you-own-any/slideshow/136069072.cms",
+          "source_published_at": "2026-11-22T06:33:45+00:00"
+        },
+        {
+          "headline": "Reliance Brands FY26 revenue up 3.8% to Rs 3,390.9 crore; loss narrows to Rs 137 crore",
+          "what_happened": "Reliance Brands has marked a significant financial milestone, achieving a revenue of Rs 3,390.89 crore for FY26 and reducing losses. Operating more than 1,085 Points of Sale nationwide, the brand continues to collaborate with over 90 partner names. Recent acquisitions, including Hamleys and new entries like Stella McCartney and Fabletics, demonstrate the company’s drive to lead in the competitive fashion and lifestyle industry.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-brands-fy26-revenue-up-3-8-to-rs-3390-9-crore-loss-narrows-to-rs-137-crore/articleshow/136068185.cms",
+          "source_published_at": "2026-11-22T05:44:52+00:00"
+        },
+        {
+          "headline": "Anthropic's post-debut stumble delivers reality check for AI trade",
+          "what_happened": "Anthropic’s shares fell about 9% after their market debut, deepening concerns over stretched AI valuations and showing that even a marquee listing has not revived investor enthusiasm for the sector. The focus is now shifting to whether Anthropic can justify its roughly 40-times-sales valuation and whether a potential OpenAI IPO next year can restore appetite for AI stocks.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-post-debut-stumble-delivers-reality-check-for-ai-trade/articleshow/136066633.cms",
+          "source_published_at": "2026-11-22T03:30:15+00:00"
+        },
         {
           "headline": "Nifty eyes 26,200 as rally strengthens; 6 sectors signal outperformance",
           "what_happened": "Nifty surged 2.61% last week, gaining 656 points amid strong FII inflows and improving technical indicators. Resistance lies at 25,950–26,200, while banking, IT and financial services lead sectoral momentum. Analysts advise caution against chasing extended market gains.",
@@ -100,60 +154,6 @@
           "source_name": "Economic Times Markets",
           "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-hsbc-lists-19-indian-stocks-that-saw-fy27-earnings-upgrades-check-target-prices/slideshow/136048231.cms",
           "source_published_at": "2026-11-21T07:21:34+00:00"
-        },
-        {
-          "headline": "Concurrent Gainers: These 13 stocks gained for 5 days in a row, all rose over 27%",
-          "what_happened": "The Sensex gained 1.08% during the five sessions ending November 20, while 99 BSE 200 stocks advanced consecutively. Thirteen shortlisted stocks delivered impressive cumulative returns ranging from 27.51% to 31.02%, led by Sera Investments & Finance India.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-these-13-stocks-gained-for-5-days-in-a-row-all-rose-over-27/slideshow/136047969.cms",
-          "source_published_at": "2026-11-21T06:57:10+00:00"
-        },
-        {
-          "headline": "AI to lead investment strategy in 2027; Energy and borrowing costs shape macro outlook: Barclays",
-          "what_happened": "According to the latest report from Barclays Private Bank, the impending year 2027 calls for a stronger investment focus on artificial intelligence. While infrastructure is steadily developing, the rising costs of debt financing could negatively impact the economics of these projects. The report warns of potential computing demand outpacing supply, which may hinder technology scalability. Investors should approach government bonds with caution due to elevated yields and inflation worries.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/ai-to-lead-investment-strategy-in-2027-energy-and-borrowing-costs-shape-macro-outlook-barclays/articleshow/136046648.cms",
-          "source_published_at": "2026-11-21T06:09:54+00:00"
-        },
-        {
-          "headline": "Market winners: Max Healthcare, Deepak Fertilisers among 10 stocks that surged up to 14% in last week",
-          "what_happened": "Max Healthcare, Deepak Fertilisers and Blue Star led Nifty 500 weekly gainers, surging 14.14%, 13.90% and 12.84%, respectively. Ten stocks outperformed the broader index, which gained 1.5%, highlighting strong momentum across healthcare, banking, real estate and other sectors.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/market-winners-max-healthcare-deepak-fertilisers-among-10-stocks-that-surged-up-to-14-in-last-week/slideshow/136046616.cms",
-          "source_published_at": "2026-11-21T05:51:22+00:00"
-        },
-        {
-          "headline": "US Treasury yields drop for day and week; AI trade concern spurs safe-haven bid",
-          "what_happened": "US Treasury yields experienced a significant decline due to heightened investor concerns surrounding the AI trade. As a result, investors shifted their focus towards safe-haven assets such as Treasury securities. The yield on the 10-year Treasury note fell below 5% for the first time in several months. Concerns about rising company debt and spending related to AI contributed to investor unease in recent weeks.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-yields-drop-for-day-and-week-ai-trade-concern-spurs-safe-haven-bid/articleshow/136045682.cms",
-          "source_published_at": "2026-11-21T05:23:49+00:00"
-        },
-        {
-          "headline": "Dollar weaker as Fed-fueled rally stalls; lower US yields help yen",
-          "what_happened": "The US dollar has encountered a modest downturn, sliding to 103.86 as investor confidence wavers in the currency market. Despite this pullback, traders expect the Federal Reserve to maintain a hawkish stance in upcoming statements. Concurrently, Bitcoin has dipped below the $60,000 mark, sparking concerns about its valuation amidst ongoing market volatility.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-weaker-as-fed-fueled-rally-stalls-lower-us-yields-help-yen/articleshow/136045620.cms",
-          "source_published_at": "2026-11-21T05:20:04+00:00"
-        },
-        {
-          "headline": "Crude prices may normalise to USD 70 by end-2027 as global oil market moves into surplus: Report",
-          "what_happened": "Global crude oil prices are projected to normalize around USD 70 per barrel by the end of 2027. Rising non-OPEC+ supplies and declining Chinese oil demand are expected to lead to a market surplus. Refining margins are likely to remain elevated in the near term before gradual normalization occurs. Geopolitical tensions, particularly between the US and Iran, are likely to influence oil supply dynamics.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/commodities/news/crude-prices-may-normalise-to-usd-70-by-end-2027-as-global-oil-market-moves-into-surplus-report/articleshow/136045576.cms",
-          "source_published_at": "2026-11-21T05:16:52+00:00"
         }
       ]
     },
@@ -161,82 +161,136 @@
       "category": "Technology & AI",
       "stories": [
         {
-          "headline": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
-          "what_happened": "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,000 pages. Just hours later, Stanford researchers published an independent, entirely human competing proof, and mathematicians are now checking whether either one holds up. The article Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft appeared first on The Decoder .",
+          "headline": "Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct",
+          "what_happened": "The Lean and Mathlib community has officially confirmed Levent Alpöge's proof of the Riemann hypothesis as correct. Dozens of independent verifiers checked the 17 million lines of computer code. The solution arrived years earlier than expected: Terence Tao had predicted it wouldn't happen until around 2050 and didn't expect AI to solve it alone. The article Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct appeared first on The Decoder .",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "The Decoder",
-          "source_url": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
-          "source_published_at": "2026-11-21T11:19:49+00:00"
+          "source_url": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/",
+          "source_published_at": "2026-11-22T11:08:31+00:00"
         },
         {
-          "headline": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
-          "what_happened": "Thinking Machines has released Inkling 2 Mini, an open looped transformer that runs 12 of its 24 layers three times per token. This lets the model reason internally for longer without generating extra text. On Artificial Analysis's Intelligence Index, it ties with Qwen3.8 27B at roughly six times lower cost. The article New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop appeared first on The Decoder .",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Decoder",
-          "source_url": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/",
-          "source_published_at": "2026-11-21T10:33:02+00:00"
-        },
-        {
-          "headline": "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up",
-          "what_happened": "The Nasdaq 100 has slipped into a bear market after its worst weekly loss since the Covid-19 crisis. Nvidia plunged 14 percent as the SEC reviews its accounting, and Anthropic lost nearly all of its gains a day after its record IPO. AI doubts, scandals, rising interest rates, and political headwinds are hitting overheated valuations all at once. The article US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up appeared first on The Decoder .",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Decoder",
-          "source_url": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/",
-          "source_published_at": "2026-11-21T10:27:44+00:00"
-        },
-        {
-          "headline": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
-          "what_happened": "Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just three training phases. The researchers attribute the gains to carefully curated training data rather than ever more training steps. The model, data, and code are freely available. The article Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model appeared first on The Decoder .",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Decoder",
-          "source_url": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/",
-          "source_published_at": "2026-11-21T09:17:24+00:00"
-        },
-        {
-          "headline": "Startup sues Apple in India over tap-to-share contacts feature",
-          "what_happened": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
-          "source_published_at": "2026-11-21T04:00:00+00:00"
-        },
-        {
-          "headline": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
-          "what_happened": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.",
+          "headline": "Banks Have Had It Up to Here With Your AI Agent",
+          "what_happened": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Wired AI",
-          "source_url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
-          "source_published_at": "2026-11-20T23:24:02+00:00"
+          "source_url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+          "source_published_at": "2026-11-22T11:00:00+00:00"
         },
         {
-          "headline": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-          "what_happened": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+          "headline": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
+          "what_happened": "OpenAI's GPT-6.2 Astra and Sol give much shorter, more direct answers than their predecessors, but they are also less willing to admit uncertainty. Anthropic's Claude models score well ahead on transparency. The article GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude appeared first on The Decoder .",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-          "source_published_at": "2026-11-20T20:58:29+00:00"
+          "source_name": "The Decoder",
+          "source_url": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
+          "source_published_at": "2026-11-22T09:41:37+00:00"
         },
         {
-          "headline": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
-          "what_happened": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"in principle,\" and that the deal would also include new safeguards for teens. The settlement would allow Google to avoid a wave […]",
+          "headline": "Amazon is complaining about NYC Council on shipping labels, too",
+          "what_happened": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act would effectively ban the sort of third-party arrangements Amazon currently […]",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
-          "source_published_at": "2026-11-20T20:43:52+00:00"
+          "source_url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+          "source_published_at": "2026-11-21T21:59:31+00:00"
+        },
+        {
+          "headline": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+          "what_happened": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "TechCrunch AI",
+          "source_url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+          "source_published_at": "2026-11-21T21:37:10+00:00"
+        },
+        {
+          "headline": "A tale of two Nvidias",
+          "what_happened": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "TechCrunch AI",
+          "source_url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+          "source_published_at": "2026-11-21T21:07:42+00:00"
+        },
+        {
+          "headline": "The UN fails to agree on rules regulating ‘killer robots’",
+          "what_happened": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the […]",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Verge AI",
+          "source_url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+          "source_published_at": "2026-11-21T20:03:37+00:00"
+        },
+        {
+          "headline": "Trump says reported FBI database hack is ‘not good’",
+          "what_happened": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+          "source_published_at": "2026-11-21T18:44:53+00:00"
         }
       ]
     },
     {
       "category": "Healthcare",
       "stories": [
+        {
+          "headline": "New structures come into view in brain wiring maps",
+          "what_happened": "Researchers at Harvard Medical School and the University of California San Diego have sped up a powerful imaging technique enough to map, for the first time, large volumes of brain tissue in nanoscale detail. The approach reveals fine structures that brain wiring maps, known as connectomes, can miss.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-11-view-brain-wiring.html",
+          "source_published_at": "2026-11-21T20:00:01+00:00"
+        },
+        {
+          "headline": "Stress and anxiety are wearing workers down: How to spot your triggers and cope",
+          "what_happened": "Workplace stress and anxiety. Who hasn't experienced it?",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-11-stress-anxiety-workers-triggers-cope.html",
+          "source_published_at": "2026-11-21T19:00:01+00:00"
+        },
+        {
+          "headline": "Alcohol may weaken cancer immunotherapy, early research suggests",
+          "what_happened": "Cancer immunotherapy has transformed treatment for several advanced cancers, yet the difference between these treatments working and not could depend on simple routine habits. A recent study published in Science Signaling explores one such overlooked factor: regular alcohol consumption.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-11-alcohol-weaken-cancer-immunotherapy-early.html",
+          "source_published_at": "2026-11-21T16:00:01+00:00"
+        },
+        {
+          "headline": "Despite soaring demand for GLP-1s, many eligible patients are unable to access these drugs for weight loss",
+          "what_happened": "In just a few short years, glucagon-like peptide-1 (GLP-1) receptor agonists have surged in popularity across the United States, transforming from specialized treatments for type 2 diabetes into revolutionary therapeutics for weight management, cardiovascular health and other emerging uses. But not all populations are benefiting from this expansion. As GLP-1 use has increased, disparities in access to these drugs have widened significantly, according to a new study led by researchers at Boston University School of Public Health (BUSPH).",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-11-soaring-demand-glp-1s-eligible.html",
+          "source_published_at": "2026-11-21T14:00:01+00:00"
+        },
+        {
+          "headline": "Giving patients a greater voice in their diabetes care",
+          "what_happened": "In two related papers published in JAMA Network Open and the Journal of General Internal Medicine, Kasia Lipska, M.D., associate professor of medicine (endocrinology) at Yale School of Medicine (YSM) and her colleagues tested a new approach to incorporating patients' priorities into their diabetes care.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-11-patients-greater-voice-diabetes.html",
+          "source_published_at": "2026-11-21T13:00:02+00:00"
+        },
+        {
+          "headline": "Opinion: When should medical school start?",
+          "what_happened": "STAT readers weigh in on shortening medical school, fixing pediatric emergency care, and more.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "STAT News",
+          "source_url": "https://www.statnews.com/2026/11/21/stat-letters-to-editor-medical-school-pediatric-emergency-care/?utm_campaign=rss",
+          "source_published_at": "2026-11-21T12:00:00+00:00"
+        },
         {
           "headline": "Opinion: How Kennedy and MAHA could help stop measles",
           "what_happened": "Kennedy and MAHA say they aren’t anti-vaccine. They can prove it by promoting the MMR vaccine, writes Brinda Adhikari.",
@@ -254,60 +308,6 @@
           "source_name": "Medical Xpress",
           "source_url": "https://medicalxpress.com/news/2026-11-upskilling-health-professionals-emotional-people.html",
           "source_published_at": "2026-11-21T04:20:06+00:00"
-        },
-        {
-          "headline": "Major data gap for gut disorders leaves Aotearoa in the dark",
-          "what_happened": "A lack of up-to-date New Zealand research into common gut disorders means the country is effectively flying blind on conditions that may affect about 1 in 3 adults, University of Otago research suggests.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-major-gap-gut-disorders-aotearoa.html",
-          "source_published_at": "2026-11-21T03:40:06+00:00"
-        },
-        {
-          "headline": "'Pan-RAS molecular glue' is a safe and effective treatment for lung and pancreatic cancers",
-          "what_happened": "Results from the AURORAS-1 Phase I clinical trial of an anticancer drug called ERAS-0015 have shown that it is safe and has caused tumors to shrink in hard-to-treat diseases such as lung and pancreatic cancer.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-pan-ras-molecular-safe-effective.html",
-          "source_published_at": "2026-11-21T02:40:01+00:00"
-        },
-        {
-          "headline": "Mental health diagnoses rise with medical complexity, chronicity in children",
-          "what_happened": "The prevalence of mental health (MH) diagnoses increases with increasing medical complexity and chronicity in Medicaid-enrolled children, according to a study published in Pediatrics.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-mental-health-medical-complexity-chronicity.html",
-          "source_published_at": "2026-11-21T00:20:01+00:00"
-        },
-        {
-          "headline": "STAT+: FDA rejects Capricor Therapeutics’ Duchenne therapy, a decision that was a long time coming",
-          "what_happened": "The FDA said it had rejected a cell therapy intended for patients with Duchenne muscular dystrophy developed by Capricor Therapeutics.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/11/20/fda-rejects-capricor-duchenne-therapy/?utm_campaign=rss",
-          "source_published_at": "2026-11-20T23:43:53+00:00"
-        },
-        {
-          "headline": "Flu vaccine effectiveness often weaker than advertised, study finds",
-          "what_happened": "New research suggests health officials may be overselling the protective power of the annual flu shot—but that doesn't mean folks should skip it, researchers added. The new analysis finds the influenza vaccine is often less protective than the 40% to 60% effectiveness against infection that's routinely stated, according to researchers from the University of Maryland.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-flu-vaccine-effectiveness-weaker-advertised.html",
-          "source_published_at": "2026-11-20T23:00:01+00:00"
-        },
-        {
-          "headline": "Digital Platforms Give Consumers a Map to Navigate New Ways to Access Medicines",
-          "what_happened": "Direct-to-consumer platforms for prescription medicines are growing, but patients need support to use them as part of a broader journey through the healthcare system. Such platforms were the topic of a recent panel discussion at MedCity News’ recent INVEST Digital Health Conference. The post Digital Platforms Give Consumers a Map to Navigate New Ways to Access Medicines appeared first on MedCity News .",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "MedCity News",
-          "source_url": "https://medcitynews.com/2026/11/digital-platforms-give-consumers-a-map-to-navigate-new-ways-to-access-medicines/",
-          "source_published_at": "2026-11-20T22:35:06+00:00"
         }
       ]
     },
@@ -321,70 +321,70 @@
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Cointelegraph",
           "source_url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-11-21T11:18:52+00:00"
+          "source_published_at": "2026-11-22T11:25:27+00:00"
         },
         {
-          "headline": "ECB seeks industry partners for tokenized deposits, securities experiments",
-          "what_happened": "Industry groups have until Dec. 11 to apply for the ECB’s first experimental exercises under its Appia initiative, with later submissions reviewed on a rolling basis.",
+          "headline": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+          "what_happened": "Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-11-21T09:48:56+00:00"
+          "source_url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-11-22T09:33:06+00:00"
         },
         {
-          "headline": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
-          "what_happened": "Whistleblowers could receive 10% to 30% of monetary sanctions in qualifying prediction market fraud cases exceeding $1 million in penalties.",
+          "headline": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+          "what_happened": "Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-11-21T07:51:47+00:00"
+          "source_url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-11-22T07:24:05+00:00"
         },
         {
-          "headline": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
-          "what_happened": "Bitcoin Core shipped fixes on Friday for a bug flagged by Loupe, an open-source scanner from Block’s Spiral that uses AI agents to examine bitcoin code.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
-          "source_published_at": "2026-11-21T06:16:42+00:00"
-        },
-        {
-          "headline": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
-          "what_happened": "The token broke its previous November lows during Saturday's crypto selloff, with long positions accounting for most XRP liquidations and technical indicators showing further weakness.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
-          "source_published_at": "2026-11-21T05:59:19+00:00"
-        },
-        {
-          "headline": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
-          "what_happened": "Hong Kong’s securities regulator says the proposal would strengthen investor protections, with the bill set for its first reading in the Legislative Council on Dec. 2.",
+          "headline": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+          "what_happened": "Chainflip offered the attacker a 10% bounty to return 90% of the stolen funds by Nov. 23, promising to treat the return as a white-hat recovery and withdraw law enforcement complaints.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-11-21T05:40:35+00:00"
+          "source_url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-11-22T05:28:43+00:00"
         },
         {
-          "headline": "JPMorgan says bitcoin’s price drop pressures miners, Senate passes ‘Death Bets Act’, and more",
-          "what_happened": "In today's newsletter, JPMorgan says bitcoin's price drop puts more pressure on miners; Senate passes bill to ban prediction markets tied to death and war; and more.",
+          "headline": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
+          "what_happened": "Kalshi, which is headquartered in New York, has said the order would shut it down nationwide, though NY's AG said that's not her goal.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "The Block",
-          "source_url": "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786",
-          "source_published_at": "2026-11-21T04:30:00+00:00"
+          "source_url": "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813",
+          "source_published_at": "2026-11-21T21:17:36+00:00"
         },
         {
-          "headline": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
-          "what_happened": "BTC's sell-off deepened on Saturday, with prices hitting two-year lows under $57,000.",
+          "headline": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
+          "what_happened": "South Korean exchanges Upbit and Bithumb both suspended CYBER deposits and withdrawals, citing a suspected security incident.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Block",
+          "source_url": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
+          "source_published_at": "2026-11-21T18:51:14+00:00"
+        },
+        {
+          "headline": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
+          "what_happened": "The anonymous leaker, Cyberleek, released a 209 GB Xbox build but is withholding the executable that could enable a PC port until its CYBERLEEK token hits $15 million.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Decrypt",
+          "source_url": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
+          "source_published_at": "2026-11-21T18:01:02+00:00"
+        },
+        {
+          "headline": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+          "what_happened": "The selloff wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
-          "source_published_at": "2026-11-21T04:10:07+00:00"
+          "source_url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+          "source_published_at": "2026-11-21T17:50:00+00:00"
         }
       ],
       "watchlist": [
