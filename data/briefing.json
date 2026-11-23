@@ -1,82 +1,82 @@
 {
   "title": "Daily Intelligence Briefing",
-  "published_at": "2026-11-22T11:49:05.498194+00:00",
+  "published_at": "2026-11-23T13:28:57.778195+00:00",
   "timezone": "Asia/Kolkata",
   "sections": [
     {
       "category": "Finance & Global Economy",
       "stories": [
         {
-          "headline": "China Lowers Margin Requirement to 80% to Boost Stock Liquidity",
-          "what_happened": "China loosened margin requirements for stock financing, seeking to boost liquidity and support stability in the nation’s equity market as leveraged trading activity declined.",
+          "headline": "US Oil Refining’s Stellar Run Is Starting to Slow",
+          "what_happened": "Weakening gasoline means profits may have peaked.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
-          "source_published_at": "2026-11-22T11:06:19+00:00"
+          "source_url": "https://www.bloomberg.com/news/newsletters/2026-11-23/us-oil-refining-s-stellar-run-is-starting-to-slow",
+          "source_published_at": "2026-11-23T13:26:01+00:00"
         },
         {
-          "headline": "From Squeezes to Meltdown, a Week of Mayhem Rocks Metals Markets",
-          "what_happened": "As the copper industry gathered in Shanghai last week, Grace Li was struck by the overwhelmingly bearish mood over the outlook for demand. She agreed with the pessimism. In fact, she came close to pulling out her phone on the spot to put on a short position after her Monday conversations.",
+          "headline": "Yardeni Cuts S&P 500 Target After Stock Selloff",
+          "what_happened": "Wall Street strategist Ed Yardeni cut his S&P 500 Index year-end forecast for the second time in about two months in the wake of a powerful stock selloff that pushed the benchmark into a technical correction. The president and chief investment strategist of Yardeni Research Inc. sees the index closing out 2026 at 7,500 points, down from the reduced target of 7,900 he projected in September. That would still represent a recovery of more than 8% for US stocks from where they ended on Friday. For details, Bloomberg's Nathan Hager speaks with Ed Yardeni of Yardeni Research. (Source: Bloomberg)",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-22/from-squeezes-to-meltdown-a-week-of-mayhem-rocks-metals-markets",
-          "source_published_at": "2026-11-22T11:00:00+00:00"
+          "source_url": "https://www.bloomberg.com/news/videos/2026-11-23/yardeni-cuts-s-p-500-target-after-stock-selloff-video",
+          "source_published_at": "2026-11-23T13:23:38+00:00"
         },
         {
-          "headline": "S. Korea Rolls Out Phased Measures to Stabilize Volatile Markets",
-          "what_happened": "South Korea announced phased measures to calm markets amid rising volatility, including ensuring a stock stabilization fund is in place to respond when needed, top financial officials said after an emergency meeting on Sunday.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-22/s-korea-rolls-out-phased-measures-to-stabilize-volatile-markets",
-          "source_published_at": "2026-11-22T10:16:45+00:00"
-        },
-        {
-          "headline": "UBS Capital Fight Enters Final Round as Lawmakers Resume Debate",
-          "what_happened": "The argument over UBS Group AG’s future capital requirements is headed for a showdown, with the odds tilted toward defeat for the global wealth manager.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-22/ubs-capital-fight-enters-final-round-as-lawmakers-resume-debate",
-          "source_published_at": "2026-11-22T10:00:00+00:00"
-        },
-        {
-          "headline": "MP criticises Guernsey and Jersey company ownership register plans",
-          "what_happened": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
+          "headline": "Pip assessments need 'fundamental overhaul', report to say",
+          "what_happened": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "BBC Business",
-          "source_url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
-          "source_published_at": "2026-11-22T07:22:05+00:00"
+          "source_url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+          "source_published_at": "2026-11-23T13:20:32+00:00"
         },
         {
-          "headline": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-          "what_happened": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "BBC Business",
-          "source_url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-          "source_published_at": "2026-11-22T07:12:41+00:00"
-        },
-        {
-          "headline": "Employers are being asked to give interview feedback - here's what applicants want",
-          "what_happened": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "BBC Business",
-          "source_url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
-          "source_published_at": "2026-11-22T00:04:07+00:00"
-        },
-        {
-          "headline": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
-          "what_happened": "China’s AI stock trade, once a hot bet as the nation’s technology powerhouses raced to catch up with the US, has morphed into a losing strategy.",
+          "headline": "Ukraine Claims Attack on Russian Ship off Libyan Coast",
+          "what_happened": "Video shared by Ukraine shows drones striking a Russian warship and another sanctioned vessel off the coast of Libya. Ukraine claimed responsibility for sinking the vessels in what President Volodymyr Zelenskyy called an exemplary operation in response to Moscow’s war. (Source: Volodymyr Zelenskyy/Ukraine SBU via Storyful)",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
-          "source_published_at": "2026-11-22T00:00:00+00:00"
+          "source_url": "https://www.bloomberg.com/news/videos/2026-11-23/ukraine-claims-attack-on-russian-ship-off-libyan-coast-video",
+          "source_published_at": "2026-11-23T13:15:20+00:00"
+        },
+        {
+          "headline": "Brazil’s Real Weakens Past 6 Per Dollar as Lula Selloff Extends",
+          "what_happened": "The Brazilian real tumbled past 6 reais per dollar, extending a post-election selloff fueled by concerns over the country’s fiscal outlook.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-23/brazil-s-real-weakens-past-6-per-dollar-as-lula-selloff-extends",
+          "source_published_at": "2026-11-23T13:11:14+00:00"
+        },
+        {
+          "headline": "Poland’s IPO Rush Builds as Defense Firms Join Listings Wave",
+          "what_happened": "Poland’s IPO revival is gathering momentum, as companies tied to the country’s record military buildup bolster the listings pipeline.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-23/poland-s-ipo-rush-builds-as-defense-firms-join-listings-wave",
+          "source_published_at": "2026-11-23T13:08:47+00:00"
+        },
+        {
+          "headline": "Why Ed Yardeni Lowered His Year-End S&P 500 Target",
+          "what_happened": "Edward Yardeni, president at Yardeni Research, explains why he remains bullish despite lowering his year-end target on the S&P 500 to 7,500. He speaks on “Bloomberg Daybreak.” (Source: Bloomberg)",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/videos/2026-11-23/why-ed-yardeni-lowered-his-year-end-s-p-500-target-video",
+          "source_published_at": "2026-11-23T12:51:18+00:00"
+        },
+        {
+          "headline": "European Chip Stocks Bounce After AI Rout",
+          "what_happened": "European semiconductor stocks staged a partial rebound on Monday after a more-than-10% selloff last week. In energy markets, European natural gas prices jumped as a sharply colder weather outlook intensified concerns over winter supplies, already under pressure from export disruptions linked to the Iran war. The Opening Trade has everything you need to know as markets open across Europe. With analysis you won't find anywhere else, we break down the biggest stories of the day and speak to top guests who have skin in the game. Hosted by Anna Edwards, Guy Johnson and Tom Mackenzie. (Source: Bloomberg)",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Bloomberg Markets",
+          "source_url": "https://www.bloomberg.com/news/videos/2026-11-23/the-opening-trade-11-23-2026-video",
+          "source_published_at": "2026-11-23T12:18:08+00:00"
         }
       ]
     },
@@ -84,76 +84,76 @@
       "category": "Indian Share Market",
       "stories": [
         {
-          "headline": "Crude oil futures brace for OPEC+ output decision amid supply glut concerns: Analysts",
-          "what_happened": "Next week promises to be a rollercoaster for crude oil futures as the OPEC+ meeting approaches. Traders are keeping a close eye on supply insights from the American Petroleum Institute and Energy Information Administration. Trading will be quiet on Tuesday due to Guru Nanak Jayanti. While concerns about a global supply surplus loom large, they overshadow geopolitical tensions in West Asia.",
+          "headline": "NSEL releases Rs 1,950 crore in one-time settlement, ends 14-year payment default",
+          "what_happened": "The National Spot Exchange Ltd has revealed a substantial settlement payout of Rs 1,950 crore to eligible claimants, marking the end of a lengthy 14-year legal battle stemming from a Rs 5,600 crore payment crisis. This settlement received the green light from the Mumbai bench of the National Company Law Tribunal, buoyed by considerable backing from claimants.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/commodities/crude-oil-futures-brace-for-opec-output-decision-amid-supply-glut-concerns-analysts/articleshow/136072428.cms",
-          "source_published_at": "2026-11-22T11:00:27+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/nsel-releases-rs-1950-crore-in-one-time-settlement-ends-14-year-payment-default/articleshow/136104164.cms",
+          "source_published_at": "2026-11-23T13:13:56+00:00"
         },
         {
-          "headline": "Why gold’s five-year winning streak is under threat after dramatic selloff",
-          "what_happened": "Gold has fallen to around $3,510 an ounce after hitting a record $5,594.82 earlier in 2026, putting it on track for its first annual loss in five years. A stronger dollar, elevated bond yields, profit-booking and weaker safe-haven demand continue to pressure prices.",
+          "headline": "Adani Airport raises $300 mn from 360 ONE Asset, taking total equity infusion to $1.35 bn",
+          "what_happened": "Adani Airport Holdings Ltd will raise USD 300 million to enhance its presence in India's aviation sector. This investment will contribute to its target of increasing passenger capacity from 96 million to 200 million. The company operates eight airports, handling about 95.3 million passengers in the last fiscal year. The funds will support modernizing existing infrastructure and developing airport cities for commercial activities.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/commodities/why-golds-five-year-winning-streak-is-under-threat-after-dramatic-selloff/articleshow/136070323.cms",
-          "source_published_at": "2026-11-22T08:21:09+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-airport-raises-300-mn-from-360-one-asset-taking-total-equity-infusion-to-1-35-bn/articleshow/136104118.cms",
+          "source_published_at": "2026-11-23T13:11:12+00:00"
         },
         {
-          "headline": "InvIT IPO rush gathers pace; 4-5 private trusts likely to go public by Mar 2027",
-          "what_happened": "Four to five Infrastructure Investment Trusts are expected to launch public offerings to raise Rs 17,000 crore by 2027. These offerings aim to mobilise long-term capital for infrastructure development while appealing to a broader pool of investors. Notable companies like Brookfield and Investcorp are preparing to shift to public InvITs. In the past, InvITs raised around Rs 88,000 crore, demonstrating investor appetite.",
+          "headline": "Nasdaq futures surge 3% as battered AI stocks gain ground",
+          "what_happened": "US stock futures showed a significant rebound on Monday after sharp declines in recent weeks. Investor interest is returning to AI-linked stocks following corrected valuations in the market. Chip stocks led this recovery, with major companies like Nvidia and AMD experiencing notable gains. Analysts remain cautious about confirming a sustainable recovery amid pervasive market concerns.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/invit-ipo-rush-gathers-pace-4-5-private-trusts-likely-to-go-public-by-mar-2027/articleshow/136069094.cms",
-          "source_published_at": "2026-11-22T06:45:10+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-futures-surge-3-as-battered-ai-stocks-gain-ground/articleshow/136104059.cms",
+          "source_published_at": "2026-11-23T13:09:42+00:00"
         },
         {
-          "headline": "5 penny stocks plunge up to 68% in six months. Do you own any?",
-          "what_happened": "Five BSE Smallcap penny stocks have fallen between 21% and 68% in recent months. Kalind and Empower India led the declines, plunging 68% and 62%, respectively.",
+          "headline": "Rupee reversal, debt supply drag India bonds in holiday-shortened week",
+          "what_happened": "Indian government bonds fell after the rupee lost its positive momentum against the dollar on Monday. A recent debt sale raised concerns about supply when the Indian states auctioned bonds at higher yields. The rupee also ended down 0.3%, reflecting increased dollar demand from large corporations. Benchmark Brent crude oil prices remained close to $92 a barrel, raising inflation concerns in India.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/5-penny-stocks-plunge-up-to-68-in-six-months-do-you-own-any/slideshow/136069072.cms",
-          "source_published_at": "2026-11-22T06:33:45+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/bonds/rupee-reversal-debt-supply-drag-india-bonds-in-holiday-shortened-week/articleshow/136103987.cms",
+          "source_published_at": "2026-11-23T13:07:06+00:00"
         },
         {
-          "headline": "Reliance Brands FY26 revenue up 3.8% to Rs 3,390.9 crore; loss narrows to Rs 137 crore",
-          "what_happened": "Reliance Brands has marked a significant financial milestone, achieving a revenue of Rs 3,390.89 crore for FY26 and reducing losses. Operating more than 1,085 Points of Sale nationwide, the brand continues to collaborate with over 90 partner names. Recent acquisitions, including Hamleys and new entries like Stella McCartney and Fabletics, demonstrate the company’s drive to lead in the competitive fashion and lifestyle industry.",
+          "headline": "Rupee retreats with stocks as rally takes a breather, positive bias lingers",
+          "what_happened": "After a five-day rise, the Indian rupee faced a setback on Monday, driven by heightened dollar demand from major corporations. This shift in momentum was compounded by profit-taking activities. The rupee settled at 92.91 against the dollar, following a peak of 92.44. Additionally, underwhelming local stock performance fueled a bearish outlook for the rupee. Nevertheless, analysts predict a sustained positive sentiment towards stocks and currencies amid ongoing evaluations.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-brands-fy26-revenue-up-3-8-to-rs-3390-9-crore-loss-narrows-to-rs-137-crore/articleshow/136068185.cms",
-          "source_published_at": "2026-11-22T05:44:52+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/forex/rupee-retreats-with-stocks-as-rally-takes-a-breather-positive-bias-lingers/articleshow/136098391.cms",
+          "source_published_at": "2026-11-23T10:28:38+00:00"
         },
         {
-          "headline": "Anthropic's post-debut stumble delivers reality check for AI trade",
-          "what_happened": "Anthropic’s shares fell about 9% after their market debut, deepening concerns over stretched AI valuations and showing that even a marquee listing has not revived investor enthusiasm for the sector. The focus is now shifting to whether Anthropic can justify its roughly 40-times-sales valuation and whether a potential OpenAI IPO next year can restore appetite for AI stocks.",
+          "headline": "German bond yields edge higher as equity rebound eases safe-haven demand",
+          "what_happened": "Germany's government bond yields increased marginally on Monday as equity markets began to rebound, leading to diminished interest in safe-haven assets. In the wake of a difficult week for stocks, investors indicated a readiness to engage with riskier assets. The yield on 10-year German bonds rose by 2 basis points, signaling a fall in bond prices.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-post-debut-stumble-delivers-reality-check-for-ai-trade/articleshow/136066633.cms",
-          "source_published_at": "2026-11-22T03:30:15+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/bonds/german-bond-yields-edge-higher-as-equity-rebound-eases-safe-haven-demand/articleshow/136097404.cms",
+          "source_published_at": "2026-11-23T09:55:49+00:00"
         },
         {
-          "headline": "Nifty eyes 26,200 as rally strengthens; 6 sectors signal outperformance",
-          "what_happened": "Nifty surged 2.61% last week, gaining 656 points amid strong FII inflows and improving technical indicators. Resistance lies at 25,950–26,200, while banking, IT and financial services lead sectoral momentum. Analysts advise caution against chasing extended market gains.",
+          "headline": "India bonds give up marginal opening gains as profit booking takes over",
+          "what_happened": "Indian government bonds fell after initial gains due to profit booking by traders and a sharp rupee decline. The benchmark yield of the 6.94% 2036 bond increased to 7.2185% during trading hours. Last week, the yield had dropped significantly due to lower US Treasury yields and a stronger rupee. Investors now focus on the upcoming Reserve Bank of India's policy decision on December 4.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-eyes-26200-as-rally-strengthens-6-sectors-signal-outperformance/articleshow/136050218.cms",
-          "source_published_at": "2026-11-21T09:39:05+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-give-up-marginal-opening-gains-as-profit-booking-takes-over/articleshow/136093136.cms",
+          "source_published_at": "2026-11-23T07:16:54+00:00"
         },
         {
-          "headline": "Stocks to buy: HSBC lists 19 Indian stocks that saw FY27 earnings upgrades, check target prices",
-          "what_happened": "HSBC identified 19 Indian stocks with Buy ratings that received FY27 earnings upgrades after Q2 results. Ather Energy, GAIL and IIFL Finance led revisions, while improving corporate profitability highlighted a broadening earnings recovery across market capitalisations and sectors.",
+          "headline": "Rupee retreats, Goldman calls it a 'port of stability' in AI storm",
+          "what_happened": "The Indian rupee initially rose to a seven-month high before retreating amid corporate dollar buying. It is on track for a monthly gain of over 2%, bolstered by significant foreign investment in Indian equities. Analysts noted that the rupee's early gains pushed it into overbought territory, prompting some selling. Despite recent fluctuations, the rupee has remained stable compared to other major currencies.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-hsbc-lists-19-indian-stocks-that-saw-fy27-earnings-upgrades-check-target-prices/slideshow/136048231.cms",
-          "source_published_at": "2026-11-21T07:21:34+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/forex/rupee-retreats-goldman-calls-it-a-port-of-stability-in-ai-storm/articleshow/136092977.cms",
+          "source_published_at": "2026-11-23T07:09:49+00:00"
         }
       ]
     },
@@ -161,76 +161,76 @@
       "category": "Technology & AI",
       "stories": [
         {
-          "headline": "Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct",
-          "what_happened": "The Lean and Mathlib community has officially confirmed Levent Alpöge's proof of the Riemann hypothesis as correct. Dozens of independent verifiers checked the 17 million lines of computer code. The solution arrived years earlier than expected: Terence Tao had predicted it wouldn't happen until around 2050 and didn't expect AI to solve it alone. The article Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct appeared first on The Decoder .",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Decoder",
-          "source_url": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/",
-          "source_published_at": "2026-11-22T11:08:31+00:00"
-        },
-        {
-          "headline": "Banks Have Had It Up to Here With Your AI Agent",
-          "what_happened": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+          "headline": "Nvidia Is Powering Brain-Computer Interfaces Now",
+          "what_happened": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Wired AI",
-          "source_url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
-          "source_published_at": "2026-11-22T11:00:00+00:00"
+          "source_url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+          "source_published_at": "2026-11-23T13:11:48+00:00"
         },
         {
-          "headline": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
-          "what_happened": "OpenAI's GPT-6.2 Astra and Sol give much shorter, more direct answers than their predecessors, but they are also less willing to admit uncertainty. Anthropic's Claude models score well ahead on transparency. The article GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude appeared first on The Decoder .",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Decoder",
-          "source_url": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
-          "source_published_at": "2026-11-22T09:41:37+00:00"
-        },
-        {
-          "headline": "Amazon is complaining about NYC Council on shipping labels, too",
-          "what_happened": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act would effectively ban the sort of third-party arrangements Amazon currently […]",
+          "headline": "Amazon is taking orders for the Moto Tag 3 before it’s even been announced",
+          "what_happened": "Motorola's unannounced Moto Tag 3 has been listed for sale online, just five months after the Moto Tag 2 went on sale in the US, and before any official announcement of a follow-up. The listing on Amazon UK was spotted by X user @matteventu, and shows the tracker in a \"Pantone Lucent White\" color option, […]",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
-          "source_published_at": "2026-11-21T21:59:31+00:00"
+          "source_url": "https://www.theverge.com/tech/1039903/motorola-moto-tag-3-tracker-amazon-leak",
+          "source_published_at": "2026-11-23T13:09:32+00:00"
         },
         {
-          "headline": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-          "what_happened": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+          "headline": "Samsung’s absurd 1,100Hz gaming monitor hits shelves next month for $899.99",
+          "what_happened": "After being teased in December 2025 and getting an arguably unnecessary pre-release spec bump in August, the Samsung Odyssey G6 G60H rolls out next month for $899.99. The 27-inch gaming monitor will have an absurd 1,100Hz refresh rate, narrowly edging out LG's UltraGear 25G590B, which tops out at 1,000Hz. Is there any value in these […]",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
-          "source_name": "TechCrunch AI",
-          "source_url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-          "source_published_at": "2026-11-21T21:37:10+00:00"
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/games/1039838/samsungs-odyssey-g6-1100hz-gaming-monitor",
+          "source_published_at": "2026-11-23T13:00:00+00:00"
         },
         {
-          "headline": "A tale of two Nvidias",
-          "what_happened": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+          "headline": "GPT-6.2 Astra solved a math theorem no other AI could crack, then invented its own proof strategy",
+          "what_happened": "OpenAI's GPT-6.2 Astra independently produced a machine-verifiable Lean proof of Smoktunowicz's gap theorem, the first of its kind according to Vals AI. The model chose its own approach because key foundations were missing from Mathlib. On Autoform-Hard, Astra now leads the leaderboard with 49 of 56 tasks solved. The article GPT-6.2 Astra solved a math theorem no other AI could crack, then invented its own proof strategy appeared first on The Decoder .",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
-          "source_name": "TechCrunch AI",
-          "source_url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-          "source_published_at": "2026-11-21T21:07:42+00:00"
+          "source_name": "The Decoder",
+          "source_url": "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/",
+          "source_published_at": "2026-11-23T12:17:01+00:00"
         },
         {
-          "headline": "The UN fails to agree on rules regulating ‘killer robots’",
-          "what_happened": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the […]",
+          "headline": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
+          "what_happened": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it? Join our livestream on December 2 to hear your questions answered.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Wired AI",
+          "source_url": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
+          "source_published_at": "2026-11-23T12:00:00+00:00"
+        },
+        {
+          "headline": "States Sue SpaceX Over Grok Deepfakes",
+          "what_happened": "The attorneys general of Oregon and Virginia are suing several of Elon Musk’s companies, alleging they implemented weak safeguards against sexualized imagery of real people, including children.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Wired AI",
+          "source_url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+          "source_published_at": "2026-11-23T11:00:00+00:00"
+        },
+        {
+          "headline": "Meta Muse can do your Black Friday shopping at Walmart",
+          "what_happened": "Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without […]",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "The Verge AI",
-          "source_url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-          "source_published_at": "2026-11-21T20:03:37+00:00"
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+          "source_published_at": "2026-11-23T11:00:00+00:00"
         },
         {
-          "headline": "Trump says reported FBI database hack is ‘not good’",
-          "what_happened": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+          "headline": "Goodbye, World: The End of Programmers",
+          "what_happened": "The last thing you should ever read—and the last thing I may ever write—about the craft of coding.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
-          "source_published_at": "2026-11-21T18:44:53+00:00"
+          "source_name": "Wired AI",
+          "source_url": "https://www.wired.com/story/goodbye-world-the-end-of-programmers/",
+          "source_published_at": "2026-11-23T10:00:00+00:00"
         }
       ]
     },
@@ -238,76 +238,76 @@
       "category": "Healthcare",
       "stories": [
         {
-          "headline": "New structures come into view in brain wiring maps",
-          "what_happened": "Researchers at Harvard Medical School and the University of California San Diego have sped up a powerful imaging technique enough to map, for the first time, large volumes of brain tissue in nanoscale detail. The approach reveals fine structures that brain wiring maps, known as connectomes, can miss.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-view-brain-wiring.html",
-          "source_published_at": "2026-11-21T20:00:01+00:00"
-        },
-        {
-          "headline": "Stress and anxiety are wearing workers down: How to spot your triggers and cope",
-          "what_happened": "Workplace stress and anxiety. Who hasn't experienced it?",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-stress-anxiety-workers-triggers-cope.html",
-          "source_published_at": "2026-11-21T19:00:01+00:00"
-        },
-        {
-          "headline": "Alcohol may weaken cancer immunotherapy, early research suggests",
-          "what_happened": "Cancer immunotherapy has transformed treatment for several advanced cancers, yet the difference between these treatments working and not could depend on simple routine habits. A recent study published in Science Signaling explores one such overlooked factor: regular alcohol consumption.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-alcohol-weaken-cancer-immunotherapy-early.html",
-          "source_published_at": "2026-11-21T16:00:01+00:00"
-        },
-        {
-          "headline": "Despite soaring demand for GLP-1s, many eligible patients are unable to access these drugs for weight loss",
-          "what_happened": "In just a few short years, glucagon-like peptide-1 (GLP-1) receptor agonists have surged in popularity across the United States, transforming from specialized treatments for type 2 diabetes into revolutionary therapeutics for weight management, cardiovascular health and other emerging uses. But not all populations are benefiting from this expansion. As GLP-1 use has increased, disparities in access to these drugs have widened significantly, according to a new study led by researchers at Boston University School of Public Health (BUSPH).",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-soaring-demand-glp-1s-eligible.html",
-          "source_published_at": "2026-11-21T14:00:01+00:00"
-        },
-        {
-          "headline": "Giving patients a greater voice in their diabetes care",
-          "what_happened": "In two related papers published in JAMA Network Open and the Journal of General Internal Medicine, Kasia Lipska, M.D., associate professor of medicine (endocrinology) at Yale School of Medicine (YSM) and her colleagues tested a new approach to incorporating patients' priorities into their diabetes care.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-patients-greater-voice-diabetes.html",
-          "source_published_at": "2026-11-21T13:00:02+00:00"
-        },
-        {
-          "headline": "Opinion: When should medical school start?",
-          "what_happened": "STAT readers weigh in on shortening medical school, fixing pediatric emergency care, and more.",
+          "headline": "At first preventive services panel meeting in more than a year, votes are cast in private",
+          "what_happened": "In its first meeting since 2025, an influential panel of doctors evaluating preventive medical care grappled with the ways RFK Jr. has upended science and medicine:",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/11/21/stat-letters-to-editor-medical-school-pediatric-emergency-care/?utm_campaign=rss",
-          "source_published_at": "2026-11-21T12:00:00+00:00"
+          "source_url": "https://www.statnews.com/2026/11/23/health-news-preventive-services-panel-votes-cast-in-private/?utm_campaign=rss",
+          "source_published_at": "2026-11-23T13:04:19+00:00"
         },
         {
-          "headline": "Opinion: How Kennedy and MAHA could help stop measles",
-          "what_happened": "Kennedy and MAHA say they aren’t anti-vaccine. They can prove it by promoting the MMR vaccine, writes Brinda Adhikari.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/2026/11/21/rfk-jr-maha-measles-outbreak-elimination-status-promote-mmr-vaccine/?utm_campaign=rss",
-          "source_published_at": "2026-11-21T09:30:00+00:00"
-        },
-        {
-          "headline": "Upskilling health professionals to deliver emotional well-being support for people with diabetes",
-          "what_happened": "For more than 1.5 million Australians living with diabetes, managing their condition is a relentless, 24-hour responsibility. Day after day, people are required to make decisions about medications, glucose monitoring, food, physical activity and other aspects of their care—largely outside the health care system.",
+          "headline": "Mouse study reveals how zinc shortages may disrupt gut health",
+          "what_happened": "A new Cornell study suggests that even a mild, chronic shortage of zinc can quietly rewire the intestinal tract, and that the small intestine and the colon respond in strikingly different ways.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-upskilling-health-professionals-emotional-people.html",
-          "source_published_at": "2026-11-21T04:20:06+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-11-mouse-reveals-zinc-shortages-disrupt.html",
+          "source_published_at": "2026-11-23T12:50:01+00:00"
+        },
+        {
+          "headline": "Not getting enough sleep? Here's how it's affecting your memory",
+          "what_happened": "Have you recently walked into a room and forgotten why you went there? Or found yourself reading the same email three times because nothing seems to stick? Perhaps you've struggled to remember the name of a friend of a friend.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-11-affecting-memory.html",
+          "source_published_at": "2026-11-23T12:20:01+00:00"
+        },
+        {
+          "headline": "Uneven access to cancer surgeons is linked to higher digestive cancer mortality",
+          "what_happened": "Nearly half of U.S. counties have no surgeon who performs gastrointestinal or hepatopancreatobiliary (liver, pancreas, gallbladder and bile ducts) cancer operations, and residents of those counties have higher death rates from several of those cancers even after accounting for socioeconomic factors and rurality, according to a study published in the Journal of the American College of Surgeons.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-11-uneven-access-cancer-surgeons-linked.html",
+          "source_published_at": "2026-11-23T12:10:01+00:00"
+        },
+        {
+          "headline": "STAT+: Invivyd reports positive results in Sisyphean Covid antibody quest",
+          "what_happened": "The biotech Invivyd reported that its monoclonal antibody strongly protected people from Covid. Is there a market for it?",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "STAT News",
+          "source_url": "https://www.statnews.com/2026/11/23/invivyd-covid-monoclonal-antibody-declaration-trial-vyd2311/?utm_campaign=rss",
+          "source_published_at": "2026-11-23T12:01:00+00:00"
+        },
+        {
+          "headline": "STAT+: Kymera Therapeutics reports mid-stage eczema trial success for would-be Dupixent rival",
+          "what_happened": "Kymera Therapeutics announced on Monday that its experimental therapy effectively and safely treated eczema patients’ itchy, inflamed skin.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "STAT News",
+          "source_url": "https://www.statnews.com/2026/11/23/kymera-therapeutics-eczema-trial-success-potential-dupixent-rival/?utm_campaign=rss",
+          "source_published_at": "2026-11-23T12:00:00+00:00"
+        },
+        {
+          "headline": "A converted shipping container became an unexpected source of mental health help in South Africa",
+          "what_happened": "Sisanda Hani enters a former shipping container at a community center in South Africa, slips off her shoes and plunges into a sea of blue plastic balls. The 40-year-old mother of a teenager with ADHD and epilepsy lets the balls envelop her and screams.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-11-shipping-unexpected-source-mental-health.html",
+          "source_published_at": "2026-11-23T10:30:02+00:00"
+        },
+        {
+          "headline": "Call to better integrate chemical safety into food packaging sustainability to protect consumers' health",
+          "what_happened": "While food packaging and foodware products serve an important role in the life cycle of foods, growing evidence shows they are a source of long-term damage to both human and environmental health. There is a clear need to explicitly consider chemical safety in purchasing decisions, as consumers are increasingly worried about the health impacts of chemicals that migrate from food packaging.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-11-chemical-safety-food-packaging-sustainability.html",
+          "source_published_at": "2026-11-23T10:00:16+00:00"
         }
       ]
     },
@@ -315,76 +315,76 @@
       "category": "Crypto Watch",
       "stories": [
         {
-          "headline": "Here’s what happened in crypto today",
-          "what_happened": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-11-22T11:25:27+00:00"
-        },
-        {
-          "headline": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
-          "what_happened": "Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-11-22T09:33:06+00:00"
-        },
-        {
-          "headline": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
-          "what_happened": "Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-11-22T07:24:05+00:00"
-        },
-        {
-          "headline": "Chainflip confirms $12M hack, offers attacker 10% bounty",
-          "what_happened": "Chainflip offered the attacker a 10% bounty to return 90% of the stolen funds by Nov. 23, promising to treat the return as a white-hat recovery and withdraw law enforcement complaints.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-11-22T05:28:43+00:00"
-        },
-        {
-          "headline": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
-          "what_happened": "Kalshi, which is headquartered in New York, has said the order would shut it down nationwide, though NY's AG said that's not her goal.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Block",
-          "source_url": "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813",
-          "source_published_at": "2026-11-21T21:17:36+00:00"
-        },
-        {
-          "headline": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
-          "what_happened": "South Korean exchanges Upbit and Bithumb both suspended CYBER deposits and withdrawals, citing a suspected security incident.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Block",
-          "source_url": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
-          "source_published_at": "2026-11-21T18:51:14+00:00"
-        },
-        {
-          "headline": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
-          "what_happened": "The anonymous leaker, Cyberleek, released a 209 GB Xbox build but is withholding the executable that could enable a PC port until its CYBERLEEK token hits $15 million.",
+          "headline": "Strategy Buys $30M in Bitcoin, Moves $1B From USD Reserve to Cash Pot",
+          "what_happened": "Michael Saylor's firm raised its preferred stock buyback program to $4 billion after repurchasing another $212 million of STRC last week.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Decrypt",
-          "source_url": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
-          "source_published_at": "2026-11-21T18:01:02+00:00"
+          "source_url": "https://decrypt.co/383779/strategy-buys-30m-in-bitcoin-moves-1b-from-usd-reserve-to-cash-pot",
+          "source_published_at": "2026-11-23T13:25:35+00:00"
         },
         {
-          "headline": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
-          "what_happened": "The selloff wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices.",
+          "headline": "Critics of Netflix’s FTX drama point to Obama’s producer credit",
+          "what_happened": "Series creator Graham Moore said he invented a scene in which Changpeng Zhao urges Alameda Research to trade ahead of FTX customers’ orders.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Cointelegraph",
+          "source_url": "https://cointelegraph.com/news/netflix-ftx-scrutiny-obama-production-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-11-23T13:15:03+00:00"
+        },
+        {
+          "headline": "‘The dots aren’t done,’ Michael Saylor says as Strategy buys another 457 BTC for $30 million",
+          "what_happened": "Strategy's latest acquisitions came during a week that saw bitcoin drop to its lowest level in over two years.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Block",
+          "source_url": "https://www.theblock.co/news/business/2026-11-23-the-dots-arent-done-michael-saylor-bitcoin-444907",
+          "source_published_at": "2026-11-23T13:10:25+00:00"
+        },
+        {
+          "headline": "Czech Authorities Charge 15 Over $12M Unlicensed Crypto Casino",
+          "what_happened": "Investigators say \"decentralized\" casino BETFIN was run centrally, inflated its player numbers with bots and made $12 million illegally.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Decrypt",
+          "source_url": "https://decrypt.co/383775/czech-authorities-charge-15-over-12m-unlicensed-crypto-casino",
+          "source_published_at": "2026-11-23T13:08:23+00:00"
+        },
+        {
+          "headline": "Live updates: Tech futures rebound more than 3% as dollar index tops 104, a 20-month high",
+          "what_happened": "Tech futures rose more than 3% after Friday’s sell-off, while Nvidia gained 7% after Treasury Secretary Scott Bessent called for Jensen Huang’s reinstatement.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "CoinDesk",
-          "source_url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
-          "source_published_at": "2026-11-21T17:50:00+00:00"
+          "source_url": "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025",
+          "source_published_at": "2026-11-23T13:01:20+00:00"
+        },
+        {
+          "headline": "Solana Meme Coin for Fiona the Hippo Raises $100K for Cincinnati Zoo Charity",
+          "what_happened": "A meme coin honoring the Cincinnati Zoo's late pygmy hippo has sent its creator rewards to the zoo's nonprofit.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Decrypt",
+          "source_url": "https://decrypt.co/383762/solana-meme-coin-for-fiona-the-hippo-sends-100k-to-cincinnati-zoo-charity",
+          "source_published_at": "2026-11-23T12:43:30+00:00"
+        },
+        {
+          "headline": "Bitcoin's losing streak is second-longest ever, and some observers see more downside",
+          "what_happened": "Your day-ahead look for Nov. 23, 2026",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "CoinDesk",
+          "source_url": "https://www.coindesk.com/daybook-us/2026/11/23/bitcoin-s-losing-streak-is-second-longest-ever-and-some-observers-see-more-downside",
+          "source_published_at": "2026-11-23T12:30:25+00:00"
+        },
+        {
+          "headline": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
+          "what_happened": "Researchers find that accounts with visible public keys hold nearly 55% of ether outside staking, and propose a way to move them to quantum-resistant security.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "CoinDesk",
+          "source_url": "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack",
+          "source_published_at": "2026-11-23T12:13:35+00:00"
         }
       ],
       "watchlist": [
