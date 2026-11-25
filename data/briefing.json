@@ -1,82 +1,82 @@
 {
   "title": "Daily Intelligence Briefing",
-  "published_at": "2026-11-24T14:06:56.264344+00:00",
+  "published_at": "2026-11-25T13:20:44.404303+00:00",
   "timezone": "Asia/Kolkata",
   "sections": [
     {
       "category": "Finance & Global Economy",
       "stories": [
         {
-          "headline": "Market Timers Get Schooled as S&P 500 Swings Rip Up Playbooks",
-          "what_happened": "Avoiding down days in the stock market often means missing out on the biggest single-day gains. Those who cashed out after US equities reeled last week just learned that lesson the hard way.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-24/market-timers-get-schooled-as-s-p-500-swings-rip-up-playbooks",
-          "source_published_at": "2026-11-24T13:41:59+00:00"
-        },
-        {
-          "headline": "Turkey Frees Ex-Minister Arrested in Fund Scandal After 18 Days",
-          "what_happened": "Turkey released former minister Fatma Betul Sayan Kaya from jail just 18 days after she was arrested in an investment-fund investigation that’s shaken the country’s markets.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-24/turkey-frees-ex-minister-arrested-in-fund-scandal-after-18-days",
-          "source_published_at": "2026-11-24T13:40:02+00:00"
-        },
-        {
-          "headline": "World Cup drove profits surge, says Marston's",
-          "what_happened": "The company says an \"excellent World Cup\" helped drive strong trading as annual profits rose by 18%.",
+          "headline": "US announces new tariffs on host of countries including China",
+          "what_happened": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "BBC Business",
-          "source_url": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo?at_medium=RSS&at_campaign=rss",
-          "source_published_at": "2026-11-24T13:03:20+00:00"
+          "source_url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+          "source_published_at": "2026-11-25T13:19:41+00:00"
         },
         {
-          "headline": "DRC Reinstates Cobalt Export Ban",
-          "what_happened": "World’s top producer of the battery metal says it will ban exports beginning November 30th, in an effort to reverse slumping prices. Bloomberg TV’s Jennifer Zabasajja reports. (Source: Bloomberg)",
+          "headline": "Tata Steel Weighs Changes to APL Apollo Deal After Backlash",
+          "what_happened": "Tata Steel Ltd. is looking at ways to rework its planned acquisition of APL Apollo Tubes Ltd., Chief Executive Officer TV Narendran told CNBC-TV18, seeking to reassure investors anxious about the deal structure.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/videos/2026-11-24/drc-reinstates-cobalt-export-ban-video",
-          "source_published_at": "2026-11-24T13:00:53+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-25/tata-steel-weighs-changes-to-apl-apollo-deal-after-backlash",
+          "source_published_at": "2026-11-25T13:08:57+00:00"
         },
         {
-          "headline": "Behind Binance Hack, a Reckoning Over Who Controls Crypto",
-          "what_happened": "As North Korean cyberthieves were funneling billions out of Binance last month, the world’s largest crypto exchange looked to two other companies to help stop the bleeding: Tether and Circle.",
+          "headline": "Nasdaq futures slide over 2% as AI losses deepen; inflation data in focus - Reuters",
+          "what_happened": "Nasdaq futures slide over 2% as AI losses deepen; inflation data in focus Reuters",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Reuters Business (Google News RSS)",
+          "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5",
+          "source_published_at": "2026-11-25T12:54:22+00:00"
+        },
+        {
+          "headline": "Bullrich confía en que la reforma electoral de Milei será aprobada",
+          "what_happened": "Patricia Bullrich asegura que hay votos suficientes en el Senado para suspender las PASO en Argentina, una reforma que acortaría el calendario electoral antes de la presidencial de 2027. (Source: Bloomberg)",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-24/behind-binance-hack-a-reckoning-over-who-controls-crypto",
-          "source_published_at": "2026-11-24T13:00:07+00:00"
+          "source_url": "https://www.bloomberg.com/news/videos/2026-11-25/bullrich-confia-en-que-la-reforma-electoral-de-milei-sera-aprobada",
+          "source_published_at": "2026-11-25T12:45:52+00:00"
         },
         {
-          "headline": "The Oil Market Is Talking About a Surplus Again",
-          "what_happened": "Resilient Persian Gulf exports, booming production elsewhere and shrinking demand are all tilting the balance back toward an oversupply.",
+          "headline": "Nvidia Still Faces Issues That Cost $2 Trillion in Market Value",
+          "what_happened": "The euphoria surrounding Nvidia Corp. shares following the return of Chief Executive Officer Jensen Huang on Monday is wearing off as investors come to grips with the questions still hanging over the world’s biggest chipmaker.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/newsletters/2026-11-24/the-oil-market-is-talking-about-a-surplus-again",
-          "source_published_at": "2026-11-24T12:38:42+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-25/nvidia-still-faces-issues-that-cost-2-trillion-in-market-value",
+          "source_published_at": "2026-11-25T12:20:58+00:00"
         },
         {
-          "headline": "Fund With $21 Billion Favors Africa Local Bonds, Adds to Uganda Bet",
-          "what_happened": "A currency rout that wiped 8% off the value of Uganda’s shilling last month rattled some investors, but failed to deter a $21 billion money manager.",
+          "headline": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+          "what_happened": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "BBC Business",
+          "source_url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+          "source_published_at": "2026-11-25T12:12:11+00:00"
+        },
+        {
+          "headline": "Russia’s Elevated Oil Exports Add to Global Supply Surplus",
+          "what_happened": "Exports this year top all annual averages since the 2022 full-scale invasion of Ukraine",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-24/fund-with-21-billion-favors-africa-local-bonds-adds-to-uganda-bet",
-          "source_published_at": "2026-11-24T12:26:19+00:00"
+          "source_url": "https://www.bloomberg.com/news/articles/2026-11-25/russia-s-elevated-oil-exports-add-to-global-supply-surplus",
+          "source_published_at": "2026-11-25T12:02:40+00:00"
         },
         {
-          "headline": "AI Returns Matter More Than Nvidia Drama, Says Goldman’s Bell",
-          "what_happened": "Nvidia Corp.’s boardroom drama doesn’t alter the outlook for the artificial intelligence trade, according to Goldman Sachs Group Inc.’s Sharon Bell, who says the ability of companies to generate sufficient returns on massive investments remains key.",
+          "headline": "Bond Traders Hedge a Hike Now, Cut Later Scenario",
+          "what_happened": "Traders see a risk that higher interest rates will cause the economy to stumble.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Bloomberg Markets",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-11-24/ai-returns-matter-more-than-nvidia-drama-says-goldman-s-bell",
-          "source_published_at": "2026-11-24T12:23:51+00:00"
+          "source_url": "https://www.bloomberg.com/news/newsletters/2026-11-25/bond-traders-hedge-a-hike-now-cut-later-scenario",
+          "source_published_at": "2026-11-25T11:47:54+00:00"
         }
       ]
     },
@@ -84,76 +84,76 @@
       "category": "Indian Share Market",
       "stories": [
         {
-          "headline": "PE/VC investments in India surge to USD 8.7 billion in October, highest monthly level in five years: EY-IVCA report",
-          "what_happened": "Private equity and venture capital investments in India surged to USD 8.7 billion in October 2026. This monthly figure is the highest recorded in the past five years, supported by eight large deals totaling USD 7.3 billion. Financial services attracted the majority of investments, amounting to USD 5.9 billion during this period. Despite the increase in investments, exit activity declined, with 21 exits valued at USD 544 million.",
+          "headline": "US Treasury gains lift India bonds ahead of RBI meet",
+          "what_happened": "On Wednesday, Indian government bonds rallied, influenced by a decrease in US Treasury yields. The benchmark 10-year bond yield fell to 7.1641%, marking a two-week low. The Indian rupee strengthened to its highest level for the fiscal year against the dollar. Overseas investors returned as net buyers of Indian debt, purchasing over 93 billion rupees. The Reserve Bank of India's upcoming decision will significantly affect market movements and trends.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/pe/vc-investments-in-india-surge-to-usd-8-7-billion-in-october-highest-monthly-level-in-five-years-ey-ivca-report/articleshow/136132831.cms",
-          "source_published_at": "2026-11-24T13:47:50+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-gains-lift-india-bonds-ahead-of-rbi-meet/articleshow/136161527.cms",
+          "source_published_at": "2026-11-25T12:25:47+00:00"
         },
         {
-          "headline": "Nasdaq futures drop as AI stocks cool after Nvidia-fueled rally: US Stock Market Live Updates",
+          "headline": "Fed policymakers at odds over causes of high inflation",
+          "what_happened": "US inflation is expected to increase again in October, with potential implications for Federal Reserve interest rate decisions. Economists predict the Personal Consumption Expenditures Price Index to reach 3.8% this month. Analysts are divided regarding whether inflation is caused by demand or supply shocks stemming from recent policies. Market forecasts suggest three more rate hikes, signaling ongoing concerns about rising prices.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-policymakers-at-odds-over-causes-of-high-inflation/articleshow/136160394.cms",
+          "source_published_at": "2026-11-25T11:51:51+00:00"
+        },
+        {
+          "headline": "Shapoor Mistry lobbied Modi twice for Tata Sons IPO as battle over listing intensifies",
+          "what_happened": "Shapoor Mistry, the head of the Shapoorji Pallonji Group, has reached out to Prime Minister Modi regarding the listing troubles faced by Tata Sons. He claims that Tata Trusts are obstructing the public offering for their own benefit and breaching regulations. Meanwhile, the Reserve Bank of India has pressured Tata Sons to meet listing necessities.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/shapoor-mistry-lobbied-modi-twice-for-tata-sons-ipo-as-battle-over-listing-intensifies/articleshow/136160206.cms",
+          "source_published_at": "2026-11-25T11:49:18+00:00"
+        },
+        {
+          "headline": "PhonePe resumes IPO process; targets February-March listing at $12-15 billion valuation",
+          "what_happened": "PhonePe has resumed its initial public offering plans after deferring them due to market uncertainties. The company aims for a stock market listing valued between USD 12-15 billion in early 2024. It expects to raise approximately Rs 12,000-14,000 crore through an offer-for-sale. The digital payments firm has also reported significant revenue growth and is now profitable at the group level.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/phonepe-resumes-ipo-process-targets-listing-in-feb-mar-at-usd-12-15-bn-valuation/articleshow/136160163.cms",
+          "source_published_at": "2026-11-25T11:45:14+00:00"
+        },
+        {
+          "headline": "Rupee scales 8-month high after holiday as foreign flows to Indian equities persist",
+          "what_happened": "The Indian rupee has shown significant strength against the US dollar, propelled by robust foreign portfolio investments. Surging to an eight-month high on Thursday, it closed at 92.23 per dollar. Analysts connect this to favorable market dynamics, including falling crude oil prices. With record foreign investments in Indian stocks this month, the market exudes increased confidence, suggesting a potential for continued rupee appreciation if circumstances remain favorable.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Economic Times Markets",
+          "source_url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-scales-8-month-high-after-holiday-as-foreign-flows-to-indian-equities-persist/articleshow/136158513.cms",
+          "source_published_at": "2026-11-25T10:53:26+00:00"
+        },
+        {
+          "headline": "Grasim Inds Share Price Live Updates: Grasim Inds. Stock Price History",
           "what_happened": "Read the original report for details.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-anthropic-iphone-google-meta-tesla-earnings-treasury-yield-news-24-nov-2026/liveblog/136131363.cms",
-          "source_published_at": "2026-11-24T13:00:48+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-stock-price-today-live-25-nov-2026/liveblog/136151488.cms",
+          "source_published_at": "2026-11-25T06:49:20+00:00"
         },
         {
-          "headline": "Shift in pension and insurance money to equities dampens long-term G-sec demand: RBI DG",
-          "what_happened": "The demand for long-term government securities has seen a marginal decline recently. Insurance companies and pension funds are increasingly focusing on equities instead of sovereign debt. This change has impacted the stability of the government securities market and highlighted challenges in liquidity distribution. The Reserve Bank of India emphasizes the need for a coordinated approach and broader participation from institutional investors.",
+          "headline": "Why are investors betting on Abercrombie's growth story?",
+          "what_happened": "Abercrombie & Fitch shares surged 22% after record third-quarter sales and earnings beat estimates. The retailer also raised its full-year outlook, boosting optimism ahead of the holiday season.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/bonds/shift-in-pension-and-insurance-money-to-equities-dampens-long-term-g-sec-demand-rbi-dg/articleshow/136130860.cms",
-          "source_published_at": "2026-11-24T12:39:55+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/why-are-investors-betting-on-abercrombies-growth-story/slideshow/136151161.cms",
+          "source_published_at": "2026-11-25T05:39:11+00:00"
         },
         {
-          "headline": "A 50 bps jumbo rate hike can lead to financial stability concerns, hurt growth: Report",
-          "what_happened": "SBI economists have lowered their rate hike expectations for the upcoming RBI policy review. They now anticipate a 0.25 per cent increase rather than the previously expected 0.50 per cent. This adjustment stems from concerns regarding financial stability and potential impacts on economic growth. The RBI's monetary policy committee is scheduled to meet from December 2 to December 4.",
+          "headline": "India bonds inch higher as oil steadies ahead of RBI verdict",
+          "what_happened": "Indian government bonds have experienced a modest rise, driven by declining oil prices and consistent US Treasury yields. With the Reserve Bank of India's policy decision approaching, traders are treading carefully and shying away from large investments. The yield for the benchmark 2036 bond has dropped, suggesting a cautious market outlook.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/a-50-bps-jumbo-rate-hike-can-lead-to-financial-stability-concerns-hurt-growth-report/articleshow/136130764.cms",
-          "source_published_at": "2026-11-24T12:38:23+00:00"
-        },
-        {
-          "headline": "AI boom looms over Warsh's Fed as inflation worries grow",
-          "what_happened": "Chairman Kevin Warsh of the Federal Reserve underscores the transformative impact of artificial intelligence on the economic landscape. While he conveys measured optimism about AI's benefits, he also warns of inflationary risks associated with its advancement. Recent discussions outline the challenges faced by Fed officials in navigating economic fluctuations linked to AI investments.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-boom-looms-over-warshs-fed-as-inflation-worries-grow/articleshow/136129160.cms",
-          "source_published_at": "2026-11-24T11:39:37+00:00"
-        },
-        {
-          "headline": "Anthropic CEO Dario Amodei sells shares worth USD 280.41 million following IPO",
-          "what_happened": "Dario Amodei, CEO of Anthropic, sold shares worth USD 280.41 million after the company's IPO. He reported holding 202.8 million shares and additional shares through trusts. Anthropic's initial public offering raised USD 81.34 billion and made its Nasdaq debut last week. However, the stock price experienced fluctuations, closing down from its opening price. Despite the decline, shares remained above their initial offering price of USD 83.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ceo-dario-amodei-sells-shares-worth-usd-280-41-million-following-ipo/articleshow/136129119.cms",
-          "source_published_at": "2026-11-24T11:37:14+00:00"
-        },
-        {
-          "headline": "RBI DG asks primary dealers to bid responsibly in G-Sec underwriting auctions",
-          "what_happened": "RBI Deputy Governor Rohit Jain has urged primary dealers to bid responsibly in government securities auctions. Jain noted instances of volatile pricing that misalign with orderly market conditions, impacting government borrowing costs. He highlighted the challenge of liquidity concentration in a few securities and called for improved market-making activities. Jain also pointed out declining demand from institutional investors for long-term sovereign debt amid uncertain interest rates.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/bonds/rbi-dg-asks-primary-dealers-to-bid-responsibly-in-g-sec-underwriting-auctions/articleshow/136125661.cms",
-          "source_published_at": "2026-11-24T09:26:23+00:00"
-        },
-        {
-          "headline": "IIFCL IPO: Govt plans to sell part of its stake, company to issue fresh shares",
-          "what_happened": "The government aims to partially divest its shareholding in India Infrastructure Finance Company Ltd through an initial public offering. The IPO is expected to occur by the end of the current fiscal year, according to an official statement. IIFCL will issue fresh shares to raise capital alongside the government stake sale. The proceeds from the stake sale will contribute to the government's disinvestment revenue.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Economic Times Markets",
-          "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/iifcl-ipo-govt-plans-to-sell-part-of-its-stake-company-to-issue-fresh-shares/articleshow/136124476.cms",
-          "source_published_at": "2026-11-24T08:32:38+00:00"
+          "source_url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-inch-higher-as-oil-steadies-ahead-of-rbi-verdict/articleshow/136149265.cms",
+          "source_published_at": "2026-11-25T05:29:37+00:00"
         }
       ]
     },
@@ -161,76 +161,76 @@
       "category": "Technology & AI",
       "stories": [
         {
-          "headline": "Bambu’s five-nozzle P3C isn’t quite the 3D printer I expected",
-          "what_happened": "Three weeks ago, Bambu Lab introduced the state of the art in home printing tech at $2,499 - now, you can get many of its fancy new features for less than half the price. Like that bigger H3C, the new $1,149 Bambu P3C can also swap between materials on the fly, mix different colors to […]",
+          "headline": "Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools",
+          "what_happened": "Anthropic studied nearly 300 AI deployments across 58 US companies with sobering results. Nearly one in five still delivers no business value, held back by heavy review workloads, internal bottlenecks, and employee resistance. The researchers say the biggest hurdles stem from outdated company structures. The article Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools appeared first on The Decoder .",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/tech/1041034/bambu-p3c-3d-printer-price-release-date",
-          "source_published_at": "2026-11-24T14:00:00+00:00"
+          "source_name": "The Decoder",
+          "source_url": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/",
+          "source_published_at": "2026-11-25T13:14:27+00:00"
         },
         {
-          "headline": "Huang reportedly admitted to more than two affairs to Nvidia’s board",
-          "what_happened": "During a meeting before his reinstatement, Huang admitted to more affairs beyond the two that have been reported in the news, according to The Wall Street Journal.",
+          "headline": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+          "what_happened": "Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
-          "source_published_at": "2026-11-24T13:29:53+00:00"
+          "source_url": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
+          "source_published_at": "2026-11-25T13:08:19+00:00"
         },
         {
-          "headline": "Uber, Nuro, and Lucid kick off fully driverless robotaxi testing",
-          "what_happened": "Uber's high-stakes robotaxi bet is officially ditching its human safety net. Nuro, Lucid, and Uber are starting fully driverless public road testing in the San Francisco Bay Area, with employee-only rides launching shortly after. First announced in July 2025, this three-way alliance represents Uber's aggressive comeback in autonomous ride-hailing, after having abandoned its own troubled […]",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area",
-          "source_published_at": "2026-11-24T13:00:00+00:00"
-        },
-        {
-          "headline": "German researchers call for computer science to reinvent itself as \"Computer and AI Science\"",
-          "what_happened": "In a position paper, TU Darmstadt researchers call for redefining computer science as \"Computer and AI Science.\" Their biggest concern is code generated on the fly at runtime, which they say upends today's safety and correctness guarantees. The article German researchers call for computer science to reinvent itself as \"Computer and AI Science\" appeared first on The Decoder .",
+          "headline": "Back-to-back cyber incidents at US financial investigators and spy agencies follow a string of federal hacks and outages",
+          "what_happened": "The US Financial Crimes Enforcement Network took systems offline as a precaution after unauthorized access. Hours earlier, reports emerged of a separate breach at the CIA, NGA, and ODNI, in which investigators suspect attackers used the AI defense tool Artex. Both incidents land on a US public that is already on edge. The article Back-to-back cyber incidents at US financial investigators and spy agencies follow a string of federal hacks and outages appeared first on The Decoder .",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "The Decoder",
-          "source_url": "https://the-decoder.com/german-researchers-call-for-computer-science-to-reinvent-itself-as-computer-and-ai-science/",
-          "source_published_at": "2026-11-24T12:30:49+00:00"
+          "source_url": "https://the-decoder.com/back-to-back-cyber-incidents-at-us-financial-investigators-and-spy-agencies-follow-a-string-of-federal-hacks-and-outages/",
+          "source_published_at": "2026-11-25T13:07:44+00:00"
         },
         {
-          "headline": "Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on their own",
-          "what_happened": "Anthropic has introduced Claude Ship, a new tool currently in beta that automatically reviews, corrects, and approves suggestions for code changes in accordance with team guidelines. The article Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on their own appeared first on The Decoder .",
+          "headline": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+          "what_happened": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "TechCrunch AI",
+          "source_url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+          "source_published_at": "2026-11-25T13:00:00+00:00"
+        },
+        {
+          "headline": "Has vibe coding made open source the new normal for synths?",
+          "what_happened": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as it's become clear that no […]",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Verge AI",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+          "source_published_at": "2026-11-25T13:00:00+00:00"
+        },
+        {
+          "headline": "PrismML shrinks a 54 GB language model to 5.9 GB by reducing every weight to just three possible values",
+          "what_happened": "Startup PrismML has released Ternary Bonsai 2.5 27B, an updated version of its aggressively compressed language model. The article PrismML shrinks a 54 GB language model to 5.9 GB by reducing every weight to just three possible values appeared first on The Decoder .",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "The Decoder",
-          "source_url": "https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/",
-          "source_published_at": "2026-11-24T11:26:23+00:00"
+          "source_url": "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/",
+          "source_published_at": "2026-11-25T11:51:49+00:00"
         },
         {
-          "headline": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
-          "what_happened": "Young people anxious about their futures say they’re increasingly frustrated with their pro-AI parents. They’re worried it’s going to make holiday gatherings very tense.",
+          "headline": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+          "what_happened": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Wired AI",
-          "source_url": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/",
-          "source_published_at": "2026-11-24T10:45:00+00:00"
+          "source_url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+          "source_published_at": "2026-11-25T11:30:00+00:00"
         },
         {
-          "headline": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
-          "what_happened": "It will take mathematicians months to understand the “alien” 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Wired AI",
-          "source_url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
-          "source_published_at": "2026-11-24T10:15:00+00:00"
-        },
-        {
-          "headline": "Google alternative Kagi launches an email service",
-          "what_happened": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that has \"no surveillance, no ads, open standards, and no lock-in.\" With Kagi Mail, you […]",
+          "headline": "Microsoft declares ‘Code Red’ after huge Outlook outage",
+          "what_happened": "This month's Exchange Online and Microsoft Outlook outage has prompted the software giant to declare an unusual \"Code Red\" internally, Reuters reports. The nearly 24-hour outage took down email for millions of customers, and was triggered by a bug that had been sitting on Microsoft 365 networking gateway servers since July without any impact to […]",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
-          "source_published_at": "2026-11-24T00:02:52+00:00"
+          "source_url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+          "source_published_at": "2026-11-25T11:12:42+00:00"
         }
       ]
     },
@@ -238,76 +238,76 @@
       "category": "Healthcare",
       "stories": [
         {
-          "headline": "Onsite medication injections may help people experiencing homelessness begin opioid use disorder treatment",
-          "what_happened": "Buprenorphine is the gold-standard medication for opioid use disorder. Starting it sublingually requires careful timing because of how it interacts with opioid receptors. If taken while opioids, such as fentanyl, are present in the body, it can set off sudden, severe withdrawal. To avoid this, patients either must stop using abruptly and wait out significant withdrawal before their first dose or introduce tiny, escalating doses over several days with initially ongoing illicit use and associated low-to-moderate withdrawal symptoms. Both approaches are especially hard for people experiencing homelessness with no stable place to live.",
+          "headline": "What role do immune cells in the lens play in uveitis?",
+          "what_happened": "Uveitis, an autoimmune disease that causes inflammation in the eye, can cause blindness if not adequately treated. There is often no identifiable cause of uveitis, making it difficult to intervene before the disease progresses, but identifying the early changes in the disease could improve detection.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-onsite-medication-people-experiencing-homelessness.html",
-          "source_published_at": "2026-11-24T14:00:15+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-11-role-immune-cells-lens-play.html",
+          "source_published_at": "2026-11-25T13:10:05+00:00"
         },
         {
-          "headline": "More people are using this birth control method than anyone thought",
-          "what_happened": "Fertility awareness-based methods of contraception (FABMs), which aim to track the body's fertile and infertile periods to prevent conception, are far more widespread than previously thought, a new study has found.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-people-birth-method-thought.html",
-          "source_published_at": "2026-11-24T14:00:10+00:00"
-        },
-        {
-          "headline": "Alternative measure of insulin sensitivity may help identify risk of heart disease and stroke in people without diabetes",
-          "what_happened": "Lower insulin sensitivity is associated with a higher risk of cardiovascular disease. Using data from the China Health and Retirement Longitudinal Study collected from 2011 to 2018, researchers analyzed 6,901 adults who started out without diabetes or cardiovascular disease. They used traditional statistical models and machine-learning approaches to see whether an alternative measure of insulin sensitivity could predict their risk of developing cardiovascular disease. The alternative measure is called estimated insulin sensitivity (e-IS).",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-alternative-insulin-sensitivity-heart-disease.html",
-          "source_published_at": "2026-11-24T13:40:05+00:00"
-        },
-        {
-          "headline": "STAT+: In a rare move, the FDA cites two drugmakers for failing to report clinical trial results to a database",
-          "what_happened": "For the first time in more than a year, the FDA sent notices to companies for failing to report required clinical trial information.",
+          "headline": "RFK Jr. weighs in on plan to detonate toxic material in Iowa",
+          "what_happened": "This morning, the Army plans to detonate a cache of “dangerously degraded” toxic material in Iowa, with experts warning of dangerous health consequences:",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "STAT News",
-          "source_url": "https://www.statnews.com/pharmalot/2026/11/24/fda-cites-two-drugmakers-for-failing-to-report-clinical-trial-results/?utm_campaign=rss",
-          "source_published_at": "2026-11-24T13:39:31+00:00"
+          "source_url": "https://www.statnews.com/2026/11/25/health-news-rfk-jr-weighs-in-on-plan-to-detonate-toxic-material-in-iowa/?utm_campaign=rss",
+          "source_published_at": "2026-11-25T13:03:56+00:00"
         },
         {
-          "headline": "Percentage of children's allergy-related visits increased after rare Chicago dust storm",
-          "what_happened": "Following a rare dust storm in Chicago, allergy-related pediatric primary care visits increased significantly. Dust storms carry fine particles, pollen, fungal spores, bacteria and chemical pollutants, such as pesticides, which can contribute to asthma and allergies.",
+          "headline": "Court-appointed medical guardian study reveals role in care of highly vulnerable older adults",
+          "what_happened": "When University of Michigan Health geriatrician Kahli Zietlow, M.D., gets summoned to the hospital room of a seriously ill older adult, she knows the assessments she performs might help determine if the patient can make their own medical decisions or if someone else will have to. But if the patient's health or mental capacity has declined too far before they could legally authorize someone to make medical decisions for them, then Zietlow knows that the hospital may ask a probate court to assign a guardian to make those decisions, either temporarily or permanently.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-percentage-children-allergy-rare-chicago.html",
-          "source_published_at": "2026-11-24T13:20:01+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-11-court-medical-guardian-reveals-role.html",
+          "source_published_at": "2026-11-25T12:50:01+00:00"
         },
         {
-          "headline": "Black and Latina women with diabetes or high blood pressure experience gaps in pregnancy planning",
-          "what_happened": "Type 2 diabetes and hypertension raise the risk of pregnancy complications, and both disproportionately affect Black and Hispanic women. In this qualitative study, researchers at the University of California, Berkeley, interviewed 32 Black and Latina patients with type 2 diabetes and/or high blood pressure about their experiences with prepregnancy and contraceptive counseling. The findings, published in The Annals of Family Medicine journal, point to several gaps in family planning care.",
+          "headline": "AI-powered lifestyle modification chatbot offers advice, accountability, affordability",
+          "what_happened": "Many of the 79% of American adults trying to improve their diet and exercise habits seek guidance. But personal coaches are expensive, and self-help lifestyle apps, while affordable, lack accountability.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-black-latina-women-diabetes-high.html",
-          "source_published_at": "2026-11-24T13:00:06+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-11-ai-powered-lifestyle-modification-chatbot.html",
+          "source_published_at": "2026-11-25T12:30:01+00:00"
         },
         {
-          "headline": "Timely access paired with team-based care may reduce number of patient ER visits",
-          "what_happened": "Team-based care, where family physicians work alongside nurses, social workers and other health professionals, aims to improve quality of care, which in theory should reduce emergency department visits and hospital stays. However, studies of whether teams actually reduce this use have shown mixed results.",
+          "headline": "Lung complications affect 1 in 3 patients receiving antibody-drug conjugates for lung cancer, study finds",
+          "what_happened": "A study led by The Ohio State University Comprehensive Cancer Center—Arthur G. James Cancer Hospital and Richard J. Solove Research Institute (OSUCCC—James) sheds light on safety concerns as antibody-drug conjugates (ADCs) become more important in lung cancer treatment. The findings highlight the need to catch and manage side effects like lung toxicity much earlier to help patients safely benefit from ADCs.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-access-paired-team-based-patient.html",
-          "source_published_at": "2026-11-24T12:40:01+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-11-lung-complications-affect-patients-antibody.html",
+          "source_published_at": "2026-11-25T12:00:04+00:00"
         },
         {
-          "headline": "Financial pressures often strain teaching, research and community work in family medicine",
-          "what_happened": "This study analyzes a survey of North American family medicine department chairs who reported that institutional pressures to achieve clinical profitability often conflict with and hinder their academic, educational and community service missions. Researchers added nine questions about finances and revenue targets to a 2024 Council of Academic Family Medicine Educational Research Alliance (CERA) annual Department Chair Survey. Of 218 chairs surveyed, 111 responded.",
+          "headline": "Single vaping episode impairs vascular function, study finds",
+          "what_happened": "Researchers have identified acute negative effects of vaping, even without nicotine, on vascular function. The results of the study are being presented next week at the annual meeting of the Radiological Society of North America (RSNA).",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Medical Xpress",
-          "source_url": "https://medicalxpress.com/news/2026-11-financial-pressures-strain-community-family.html",
-          "source_published_at": "2026-11-24T12:20:02+00:00"
+          "source_url": "https://medicalxpress.com/news/2026-11-vaping-episode-impairs-vascular-function.html",
+          "source_published_at": "2026-11-25T10:00:06+00:00"
+        },
+        {
+          "headline": "Elevated blood sugar levels over decades linked to worse midlife memory and cognitive function",
+          "what_happened": "Young adults with a progressive rise in fasting blood sugar levels over multiple decades were more likely to have worse cognitive health by midlife. Participants who developed type 2 diabetes during the study also had signs of structural brain changes, according to new, independent research published in the Journal of the American Heart Association.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Medical Xpress",
+          "source_url": "https://medicalxpress.com/news/2026-11-elevated-blood-sugar-decades-linked.html",
+          "source_published_at": "2026-11-25T10:00:04+00:00"
+        },
+        {
+          "headline": "Opinion: Washington and Beijing are building walls around biotechnology. That’s the wrong approach",
+          "what_happened": "“Data show that the U.S.-China contest in biotechnology is not one race but several,” writes Michael S. Kinch.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "STAT News",
+          "source_url": "https://www.statnews.com/2026/11/25/us-china-biotech-race-policy-data/?utm_campaign=rss",
+          "source_published_at": "2026-11-25T09:30:00+00:00"
         }
       ]
     },
@@ -315,76 +315,76 @@
       "category": "Crypto Watch",
       "stories": [
         {
-          "headline": "XRP Ledger DEX volume hits 4.51 million XRP a day in Q3 as big traders take over: Evernorth",
-          "what_happened": "XRP Ledger DEX order-book volume averaged 4.51M XRP a day in Q3, Evernorth says, as top accounts drove 65% of trading and RLUSD rose 74%.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Block",
-          "source_url": "https://www.theblock.co/news/markets/2026-11-24-xrpl-dex-volume-q3-2026-evernorth-report-445395",
-          "source_published_at": "2026-11-24T14:00:02+00:00"
-        },
-        {
-          "headline": "Ledn brings US business onshore with account to hold, swap and borrow against bitcoin",
-          "what_happened": "Ledn's new U.S. custody account lets customers hold bitcoin, gold, stablecoins and dollars, swap with no trading fees and borrow against bitcoin without selling.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Block",
-          "source_url": "https://www.theblock.co/news/business/2026-11-24-ledn-launches-us-custody-account-bitcoin-gold-stablecoins-lending-445411",
-          "source_published_at": "2026-11-24T14:00:00+00:00"
-        },
-        {
-          "headline": "Neuberger Berman’s HINC fund brings high-yield credit to Aave’s institutional lending platform",
-          "what_happened": "Neuberger Berman's tokenized high-yield fund HINC launches on Aave Horizon, letting eligible investors borrow USDC, GHO and RLUSD against it.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "The Block",
-          "source_url": "https://www.theblock.co/news/markets/2026-11-24-neuberger-berman-tokenized-hinc-fund-aave-horizon-collateral-445391",
-          "source_published_at": "2026-11-24T14:00:00+00:00"
-        },
-        {
-          "headline": "Swiss central bank, UBS and SIX study ledger for tokenized settlement",
-          "what_happened": "The study will assess whether a shared ledger can bring central bank money, commercial bank money and securities onto the same platform.",
-          "why_it_matters": "See the original source for context.",
-          "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/swiss-central-bank-ubs-six-explore-ledger-tokenized-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-11-24T13:57:56+00:00"
-        },
-        {
-          "headline": "CertiK Trains Interpol Investigators to Trace and Freeze Stolen Crypto",
-          "what_happened": "The blockchain security firm walked officers from across Asia and the South Pacific through a real wallet-theft case at a workshop in Hanoi.",
+          "headline": "French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets",
+          "what_happened": "Holders had warned that reporting wallets worth over €100,000 could expose them to risk in a country hit by a wave of crypto kidnappings.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Decrypt",
-          "source_url": "https://decrypt.co/383857/certik-trains-interpol-investigators-to-trace-and-freeze-stolen-crypto",
-          "source_published_at": "2026-11-24T13:46:03+00:00"
+          "source_url": "https://decrypt.co/383944/french-senate-rejects-plan-to-make-crypto-holders-declare-self-custody-wallets",
+          "source_published_at": "2026-11-25T13:15:24+00:00"
         },
         {
-          "headline": "Sky lender proposes buyback of up to $50M to fund stUSDS withdrawals",
-          "what_happened": "Borrowers would sell SKY to the protocol and use the proceeds to pay down their loans, freeing up funds for depositors in the stUSDS pool.",
+          "headline": "Ukraine passes bill to legalize crypto and tax profits at 23%",
+          "what_happened": "Ukraine’s parliament passed a crypto regulation bill after three years of legislative work, with the new rules set to take effect in July 2027.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/news/sky-community-proposes-50m-buybacks-stusds-liquidity-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-11-24T13:43:46+00:00"
+          "source_url": "https://cointelegraph.com/news/ukraine-passes-bill-crypto-regulation-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source_published_at": "2026-11-25T13:02:09+00:00"
         },
         {
-          "headline": "BlackRock opens tokenized money market fund with $100 million in assets to Hong Kong investors",
-          "what_happened": "BlackRock has launched and opened its HKD Digital Liquidity Fund to retail and institutional investors in Hong Kong.",
+          "headline": "UniCredit offers bitcoin exposure to Italian retail clients with capital protection at maturity",
+          "what_happened": "UniCredit is giving retail clients access to bitcoin performance through a six-year investment with protected principal and capped gains.",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
           "source_name": "The Block",
-          "source_url": "https://www.theblock.co/news/business/2026-11-24-blackrock-opens-tokenized-money-market-fund-with-100-million-in-assets-to-hong-kong-investors-445524",
-          "source_published_at": "2026-11-24T13:17:35+00:00"
+          "source_url": "https://www.theblock.co/news/business/2026-11-25-unicredit-offers-bitcoin-exposure-to-italian-retail-clients-with-capital-protection-at-maturity-446150",
+          "source_published_at": "2026-11-25T12:24:32+00:00"
         },
         {
-          "headline": "Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks",
-          "what_happened": "Grayscale said Bitcoin’s bear market was its longest on record at 411 days and counting, though the 56% drop was the smallest percentage decline.",
+          "headline": "Fed’s preferred inflation gauge lands with a December rate increase already priced in",
+          "what_happened": "Your day-ahead look for Nov. 25, 2026",
           "why_it_matters": "See the original source for context.",
           "what_to_watch": "Follow the source for further developments.",
-          "source_name": "Cointelegraph",
-          "source_url": "https://cointelegraph.com/markets/bitcoin-oversold-ai-risks-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source_published_at": "2026-11-24T13:11:44+00:00"
+          "source_name": "CoinDesk",
+          "source_url": "https://www.coindesk.com/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in",
+          "source_published_at": "2026-11-25T12:18:46+00:00"
+        },
+        {
+          "headline": "‘Don’t mess with X,’ Elon Musk says after platform secures default judgment in alleged bitcoin content-farm case",
+          "what_happened": "X secured a default judgment against two defendants in its lawsuit over an alleged $271,000 creator-payout scheme.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "The Block",
+          "source_url": "https://www.theblock.co/news/regulation/2026-11-25-dont-mess-with-x-elon-musk-says-after-platform-secures-default-judgment-in-alleged-bitcoin-content-farm-case-446151",
+          "source_published_at": "2026-11-25T12:14:27+00:00"
+        },
+        {
+          "headline": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
+          "what_happened": "Bitcoin (BTC) is down 1.2% since midnight UTC as the stock selloff resumes, with ether (ETH) and DeFi tokens falling about twice as far.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "CoinDesk",
+          "source_url": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
+          "source_published_at": "2026-11-25T11:57:50+00:00"
+        },
+        {
+          "headline": "Florida Man Jailed for Using AI to Pose as Streamer N3ON in $260K Crypto Scam",
+          "what_happened": "David Anthony Sanchez posed as the streamer to persuade a meme coin project's organizers to pay him for a fake endorsement deal.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "Decrypt",
+          "source_url": "https://decrypt.co/383941/florida-man-jailed-for-using-ai-to-pose-as-streamer-n3on-in-260k-crypto-scam",
+          "source_published_at": "2026-11-25T11:52:06+00:00"
+        },
+        {
+          "headline": "Italy’s UniCredit launches six-year bitcoin certificate with gains capped at 65%",
+          "what_happened": "UniCredit brings bitcoin investing to its roughly 8 million retail customers in Italy, offering them a six-year product that caps the redemption value but promises to return their capital.",
+          "why_it_matters": "See the original source for context.",
+          "what_to_watch": "Follow the source for further developments.",
+          "source_name": "CoinDesk",
+          "source_url": "https://www.coindesk.com/business/2026/11/25/italy-s-unicredit-debuts-six-year-bitcoin-certificate-with-100-capital-protection-and-65-cap",
+          "source_published_at": "2026-11-25T11:51:54+00:00"
         }
       ],
       "watchlist": [
